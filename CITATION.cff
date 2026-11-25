@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "Please cite this collection and credit Mandelstamm as translator and Maimonides as author."
+type: dataset
+title: "Mandelstamm – Mischne Tora: German texts from Safran and Sefaria"
+authors:
+  - family-names: Itkin
+    given-names: Igor Mendel
+repository-code: "https://github.com/mitkin89/mandelstamm-mischne-tora"
+url: "https://github.com/mitkin89/mandelstamm-mischne-tora"
+license: CC-BY-4.0
+keywords: [Maimonides, Mishneh Torah, Mandelstamm, German translation, Halakhah, Sefaria]
+abstract: "Thirty-nine German Mandelstamm parts selected from Safran and Sefaria, with Safran priority, 12 archived Sefaria comparisons, reversible Kings and Wars corrections, source metadata and checksums. Source-specific license notices are documented separately."

@@ -1,0 +1,30 @@
+{
+  "title": "Mandelstamm – Mischne Tora: German texts from Safran and Sefaria",
+  "upload_type": "dataset",
+  "description": "39 German Mandelstamm parts of Mishneh Torah, 462 chapters and 6,296 nonempty halakhot. Safran has priority at every overlapping title; all 12 German Sefaria versions are separately archived for comparison. Includes 23 documented Kings and Wars corrections, a source-checked missing negation, original metadata, source URLs, portrait, SHA-256 provenance and reproducible validation. Source-specific license fields are retained, including unknown for Sanhedrin; CC BY 4.0 applies to new editorial preparation/documentation, MIT to scripts.",
+  "creators": [
+    {
+      "name": "Itkin, Igor Mendel"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "keywords": [
+    "Maimonides",
+    "Mishneh Torah",
+    "Mandelstamm",
+    "German",
+    "Halakhah"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/mitkin89/Safran",
+      "relation": "isDerivedFrom",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://github.com/Sefaria/Sefaria-Export",
+      "relation": "isDerivedFrom",
+      "scheme": "url"
+    }
+  ]
+}

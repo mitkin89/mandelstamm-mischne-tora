@@ -1,0 +1,1261 @@
+{
+  "source_repository": "https://github.com/mitkin89/Safran",
+  "source_commit": "01ac305b05170d21d7687bc95553100558a60ccb",
+  "priority": "Safran over Sefaria for overlapping titles; complete-title selection, no silent mixed editions",
+  "works": [
+    {
+      "title": "Mishneh Torah, Agents and Partners",
+      "file": "data/Mishneh_Torah_Agents_and_Partners.json",
+      "selected_source": "Safran",
+      "source": "bundled/own/Mishneh Torah, Agents and Partners/de/Mischne Tora, deutsch von L. Mandelstamm, St. Petersburg 1851 (Transkription eScriptorium) - German [de].json",
+      "source_manifest_entry": {
+        "rel": "own/Mishneh Torah, Agents and Partners/de/Mischne Tora, deutsch von L. Mandelstamm, St. Petersburg 1851 (Transkription eScriptorium) - German [de].json",
+        "title": "Mishneh Torah, Agents and Partners",
+        "heTitle": "משנה תורה, הלכות שלוחין ושותפין",
+        "language": "English",
+        "versionTitle": "Mischne Tora, deutsch von L. Mandelstamm, St. Petersburg 1851 (Transkription eScriptorium) - German [de]",
+        "categories": [
+          "Halakhah",
+          "Mishneh Torah",
+          "Sefer Kinyan"
+        ],
+        "kind": "de",
+        "hash": "4bb19b5d507b975968756fce71c4b8f7bf4170ae"
+      },
+      "text_language": "de",
+      "chapters": 10,
+      "segments": 79,
+      "nonempty_segments": 78,
+      "footnotes": 6,
+      "links": [],
+      "outline": null
+    },
+    {
+      "title": "Mishneh Torah, Blessings",
+      "file": "data/Mishneh_Torah_Blessings.json",
+      "selected_source": "Safran",
+      "source": "bundled/own/Mishneh Torah, Blessings/de/Mischne Tora, deutsch von L. Mandelstamm, St. Petersburg 1851 (Transkription eScriptorium) - German [de].json",
+      "source_manifest_entry": {
+        "rel": "own/Mishneh Torah, Blessings/de/Mischne Tora, deutsch von L. Mandelstamm, St. Petersburg 1851 (Transkription eScriptorium) - German [de].json",
+        "title": "Mishneh Torah, Blessings",
+        "heTitle": "משנה תורה, הלכות ברכות",
+        "language": "English",
+        "versionTitle": "Mischne Tora, deutsch von L. Mandelstamm, St. Petersburg 1851 (Transkription eScriptorium) - German [de]",
+        "categories": [
+          "Halakhah",
+          "Mishneh Torah",
+          "Sefer Ahavah"
+        ],
+        "kind": "de",
+        "hash": "3a5cc942bfcd1a23e93882a5d7b98bf1e55ceaa0"
+      },
+      "text_language": "de",
+      "chapters": 11,
+      "segments": 178,
+      "nonempty_segments": 176,
+      "footnotes": 5,
+      "links": [
+        "links/Mishneh Torah, Blessings.tsv"
+      ],
+      "outline": null
+    },
+    {
+      "title": "Mishneh Torah, Borrowing and Deposit",
+      "file": "data/Mishneh_Torah_Borrowing_and_Deposit.json",
+      "selected_source": "Safran",
+      "source": "bundled/own/Mishneh Torah, Borrowing and Deposit/de/Mischne Tora, deutsch von L. Mandelstamm, St. Petersburg 1851 (Transkription eScriptorium) - German [de].json",
+      "source_manifest_entry": {
+        "rel": "own/Mishneh Torah, Borrowing and Deposit/de/Mischne Tora, deutsch von L. Mandelstamm, St. Petersburg 1851 (Transkription eScriptorium) - German [de].json",
+        "title": "Mishneh Torah, Borrowing and Deposit",
+        "heTitle": "משנה תורה, הלכות שאלה ופיקדון",
+        "language": "English",
+        "versionTitle": "Mischne Tora, deutsch von L. Mandelstamm, St. Petersburg 1851 (Transkription eScriptorium) - German [de]",
+        "categories": [
+          "Halakhah",
+          "Mishneh Torah",
+          "Sefer Mishpatim"
+        ],
+        "kind": "de",
+        "hash": "59f732d21ab9c83d8e5f2ec43d39d31c3a27941f"
+      },
+      "text_language": "de",
+      "chapters": 8,
+      "segments": 64,
+      "nonempty_segments": 64,
+      "footnotes": 0,
+      "links": [
+        "links/Mishneh Torah, Borrowing and Deposit.tsv"
+      ],
+      "outline": null
+    },
+    {
+      "title": "Mishneh Torah, Creditor and Debtor",
+      "file": "data/Mishneh_Torah_Creditor_and_Debtor.json",
+      "selected_source": "Safran",
+      "source": "bundled/own/Mishneh Torah, Creditor and Debtor/de/Mischne Tora, deutsch von L. Mandelstamm, St. Petersburg 1851 (Transkription eScriptorium) - German [de].json",
+      "source_manifest_entry": {
+        "rel": "own/Mishneh Torah, Creditor and Debtor/de/Mischne Tora, deutsch von L. Mandelstamm, St. Petersburg 1851 (Transkription eScriptorium) - German [de].json",
+        "title": "Mishneh Torah, Creditor and Debtor",
+        "heTitle": "משנה תורה, הלכות מלווה ולווה",
+        "language": "English",
+        "versionTitle": "Mischne Tora, deutsch von L. Mandelstamm, St. Petersburg 1851 (Transkription eScriptorium) - German [de]",
+        "categories": [
+          "Halakhah",
+          "Mishneh Torah",
+          "Sefer Mishpatim"
+        ],
+        "kind": "de",
+        "hash": "aa97538c63f1227cdeb2500209f42edb7e77d8c3"
+      },
+      "text_language": "de",
+      "chapters": 27,
+      "segments": 298,
+      "nonempty_segments": 294,
+      "footnotes": 11,
+      "links": [],
+      "outline": null
+    },
+    {
+      "title": "Mishneh Torah, Damages to Property",
+      "file": "data/Mishneh_Torah_Damages_to_Property.json",
+      "selected_source": "Safran",
+      "source": "bundled/own/Mishneh Torah, Damages to Property/de/Mischne Tora, deutsch von L. Mandelstamm, St. Petersburg 1851 (Transkription eScriptorium) - German [de].json",
+      "source_manifest_entry": {
+        "rel": "own/Mishneh Torah, Damages to Property/de/Mischne Tora, deutsch von L. Mandelstamm, St. Petersburg 1851 (Transkription eScriptorium) - German [de].json",
+        "title": "Mishneh Torah, Damages to Property",
+        "heTitle": "משנה תורה, הלכות נזקי ממון",
+        "language": "English",
+        "versionTitle": "Mischne Tora, deutsch von L. Mandelstamm, St. Petersburg 1851 (Transkription eScriptorium) - German [de]",
+        "categories": [
+          "Halakhah",
+          "Mishneh Torah",
+          "Sefer Nezikim"
+        ],
+        "kind": "de",
+        "hash": "74ccf3a3881657e3c92be933ca6ef49153852616"
+      },
+      "text_language": "de",
+      "chapters": 14,
+      "segments": 216,
+      "nonempty_segments": 215,
+      "footnotes": 7,
+      "links": [],
+      "outline": null
+    },
+    {
+      "title": "Mishneh Torah, Eruvin",
+      "file": "data/Mishneh_Torah_Eruvin.json",
+      "selected_source": "Safran",
+      "source": "bundled/own/Mishneh Torah, Eruvin/de/Mischne Tora, deutsch von L. Mandelstamm, St. Petersburg 1851 (Transkription eScriptorium) - German [de].json",
+      "source_manifest_entry": {
+        "rel": "own/Mishneh Torah, Eruvin/de/Mischne Tora, deutsch von L. Mandelstamm, St. Petersburg 1851 (Transkription eScriptorium) - German [de].json",
+        "title": "Mishneh Torah, Eruvin",
+        "heTitle": "משנה תורה, הלכות עירובין",
+        "language": "English",
+        "versionTitle": "Mischne Tora, deutsch von L. Mandelstamm, St. Petersburg 1851 (Transkription eScriptorium) - German [de]",
+        "categories": [
+          "Halakhah",
+          "Mishneh Torah",
+          "Sefer Zemanim"
+        ],
+        "kind": "de",
+        "hash": "f37dd9a25d228793c085e5e603ceeb54b92d396f"
+      },
+      "text_language": "de",
+      "chapters": 8,
+      "segments": 163,
+      "nonempty_segments": 163,
+      "footnotes": 1,
+      "links": [],
+      "outline": null
+    },
+    {
+      "title": "Mishneh Torah, Fasts",
+      "file": "data/Mishneh_Torah_Fasts.json",
+      "selected_source": "Safran",
+      "source": "bundled/own/Mishneh Torah, Fasts/de/Mischne Tora, deutsch von L. Mandelstamm, St. Petersburg 1851 (Transkription eScriptorium) - German [de].json",
+      "source_manifest_entry": {
+        "rel": "own/Mishneh Torah, Fasts/de/Mischne Tora, deutsch von L. Mandelstamm, St. Petersburg 1851 (Transkription eScriptorium) - German [de].json",
+        "title": "Mishneh Torah, Fasts",
+        "heTitle": "משנה תורה, הלכות תעניות",
+        "language": "English",
+        "versionTitle": "Mischne Tora, deutsch von L. Mandelstamm, St. Petersburg 1851 (Transkription eScriptorium) - German [de]",
+        "categories": [
+          "Halakhah",
+          "Mishneh Torah",
+          "Sefer Zemanim"
+        ],
+        "kind": "de",
+        "hash": "06fd295e3c2800d515497804e81a81e62dfd3aac"
+      },
+      "text_language": "de",
+      "chapters": 5,
+      "segments": 84,
+      "nonempty_segments": 84,
+      "footnotes": 1,
+      "links": [
+        "links/Mishneh Torah, Fasts.tsv"
+      ],
+      "outline": null
+    },
+    {
+      "title": "Mishneh Torah, Forbidden Foods",
+      "file": "data/Mishneh_Torah_Forbidden_Foods.json",
+      "selected_source": "Safran",
+      "source": "bundled/own/Mishneh Torah, Forbidden Foods/de/Jad Haghasakkah, trans. by L. Mandelstamm. St. Petersburg, 1851. Corrected and edited by Igor Itkin - German [de].json",
+      "source_manifest_entry": {
+        "rel": "own/Mishneh Torah, Forbidden Foods/de/Jad Haghasakkah, trans. by L. Mandelstamm. St. Petersburg, 1851. Corrected and edited by Igor Itkin - German [de].json",
+        "title": "Mishneh Torah, Forbidden Foods",
+        "heTitle": "משנה תורה, הלכות מאכלות אסורות",
+        "language": "English",
+        "versionTitle": "Jad Haghasakkah, trans. by L. Mandelstamm. St. Petersburg, 1851. Corrected and edited by Igor Itkin - German [de]",
+        "categories": [
+          "Halakhah",
+          "Mishneh Torah",
+          "Sefer Kedushah"
+        ],
+        "kind": "de",
+        "hash": "a25f3ac5d91ceaf0061f9590e2fec36ba5a554a1"
+      },
+      "text_language": "de",
+      "chapters": 17,
+      "segments": 341,
+      "nonempty_segments": 340,
+      "footnotes": 0,
+      "links": [
+        "links/Mishneh Torah, Forbidden Foods.tsv"
+      ],
+      "outline": null,
+      "sefaria_snapshot": "sources/sefaria/Mishneh_Torah_Forbidden_Foods.json"
+    },
+    {
+      "title": "Mishneh Torah, Foreign Worship and Customs of the Nations",
+      "file": "data/Mishneh_Torah_Foreign_Worship_and_Customs_of_the_Nations.json",
+      "selected_source": "Safran",
+      "source": "bundled/own/Mishneh Torah, Foreign Worship and Customs of the Nations/de/Jad Haghasakkah, trans. by L. Mandelstamm. St. Petersburg, 1851. Corrected and edited by Igor Itkin - German [de].json",
+      "source_manifest_entry": {
+        "rel": "own/Mishneh Torah, Foreign Worship and Customs of the Nations/de/Jad Haghasakkah, trans. by L. Mandelstamm. St. Petersburg, 1851. Corrected and edited by Igor Itkin - German [de].json",
+        "title": "Mishneh Torah, Foreign Worship and Customs of the Nations",
+        "heTitle": "משנה תורה, הלכות עבודה זרה וחוקות הגויים",
+        "language": "English",
+        "versionTitle": "Jad Haghasakkah, trans. by L. Mandelstamm. St. Petersburg, 1851. Corrected and edited by Igor Itkin - German [de]",
+        "categories": [
+          "Halakhah",
+          "Mishneh Torah",
+          "Sefer Madda"
+        ],
+        "kind": "de",
+        "hash": "33dfa5812890f71e06933c25fc59b61773cecbb6"
+      },
+      "text_language": "de",
+      "chapters": 12,
+      "segments": 148,
+      "nonempty_segments": 148,
+      "footnotes": 0,
+      "links": [
+        "links/Mishneh Torah, Foreign Worship and Customs of the Nations.tsv"
+      ],
+      "outline": null,
+      "sefaria_snapshot": "sources/sefaria/Mishneh_Torah_Foreign_Worship_and_Customs_of_the_Nations.json"
+    },
+    {
+      "title": "Mishneh Torah, Foundations of the Torah",
+      "file": "data/Mishneh_Torah_Foundations_of_the_Torah.json",
+      "selected_source": "Safran",
+      "source": "bundled/own/Mishneh Torah, Foundations of the Torah/de/Jad Haghasakkah, trans. by L. Mandelstamm. St. Petersburg, 1851. Corrected and edited by Igor Itkin - German [de].json",
+      "source_manifest_entry": {
+        "rel": "own/Mishneh Torah, Foundations of the Torah/de/Jad Haghasakkah, trans. by L. Mandelstamm. St. Petersburg, 1851. Corrected and edited by Igor Itkin - German [de].json",
+        "title": "Mishneh Torah, Foundations of the Torah",
+        "heTitle": "משנה תורה, הלכות יסודי התורה",
+        "language": "English",
+        "versionTitle": "Jad Haghasakkah, trans. by L. Mandelstamm. St. Petersburg, 1851. Corrected and edited by Igor Itkin - German [de]",
+        "categories": [
+          "Halakhah",
+          "Mishneh Torah",
+          "Sefer Madda"
+        ],
+        "kind": "de",
+        "hash": "a604d0f6f3713b197be9c99dd59e0c2d0a473caa"
+      },
+      "text_language": "de",
+      "chapters": 10,
+      "segments": 88,
+      "nonempty_segments": 88,
+      "footnotes": 0,
+      "links": [
+        "links/Mishneh Torah, Foundations of the Torah.tsv"
+      ],
+      "outline": null,
+      "sefaria_snapshot": "sources/sefaria/Mishneh_Torah_Foundations_of_the_Torah.json"
+    },
+    {
+      "title": "Mishneh Torah, Fringes",
+      "file": "data/Mishneh_Torah_Fringes.json",
+      "selected_source": "Safran",
+      "source": "bundled/own/Mishneh Torah, Fringes/de/Jad Haghasakkah, trans. by L. Mandelstamm. St. Petersburg, 1851. Corrected and edited by Igor Itkin - German [de].json",
+      "source_manifest_entry": {
+        "rel": "own/Mishneh Torah, Fringes/de/Jad Haghasakkah, trans. by L. Mandelstamm. St. Petersburg, 1851. Corrected and edited by Igor Itkin - German [de].json",
+        "title": "Mishneh Torah, Fringes",
+        "heTitle": "משנה תורה, הלכות ציצית",
+        "language": "English",
+        "versionTitle": "Jad Haghasakkah, trans. by L. Mandelstamm. St. Petersburg, 1851. Corrected and edited by Igor Itkin - German [de]",
+        "categories": [
+          "Halakhah",
+          "Mishneh Torah",
+          "Sefer Ahavah"
+        ],
+        "kind": "de",
+        "hash": "666688326e3879d7cd6bd1590541238f54143dc4"
+      },
+      "text_language": "de",
+      "chapters": 3,
+      "segments": 39,
+      "nonempty_segments": 39,
+      "footnotes": 0,
+      "links": [
+        "links/Mishneh Torah, Fringes.tsv"
+      ],
+      "outline": null,
+      "sefaria_snapshot": "sources/sefaria/Mishneh_Torah_Fringes.json"
+    },
+    {
+      "title": "Mishneh Torah, Gifts to the Poor",
+      "file": "data/Mishneh_Torah_Gifts_to_the_Poor.json",
+      "selected_source": "Safran",
+      "source": "bundled/own/Mishneh Torah, Gifts to the Poor/de/Mischne Tora, deutsch von L. Mandelstamm, St. Petersburg 1851 (Transkription eScriptorium) - German [de].json",
+      "source_manifest_entry": {
+        "rel": "own/Mishneh Torah, Gifts to the Poor/de/Mischne Tora, deutsch von L. Mandelstamm, St. Petersburg 1851 (Transkription eScriptorium) - German [de].json",
+        "title": "Mishneh Torah, Gifts to the Poor",
+        "heTitle": "משנה תורה, הלכות מתנות עניים",
+        "language": "English",
+        "versionTitle": "Mischne Tora, deutsch von L. Mandelstamm, St. Petersburg 1851 (Transkription eScriptorium) - German [de]",
+        "categories": [
+          "Halakhah",
+          "Mishneh Torah",
+          "Sefer Zeraim"
+        ],
+        "kind": "de",
+        "hash": "9b8ca951118d59b1ce7cb64c5c9545a71de6f1b9"
+      },
+      "text_language": "de",
+      "chapters": 10,
+      "segments": 200,
+      "nonempty_segments": 198,
+      "footnotes": 5,
+      "links": [
+        "links/Mishneh Torah, Gifts to the Poor.tsv"
+      ],
+      "outline": null
+    },
+    {
+      "title": "Mishneh Torah, Hiring",
+      "file": "data/Mishneh_Torah_Hiring.json",
+      "selected_source": "Safran",
+      "source": "bundled/own/Mishneh Torah, Hiring/de/Mischne Tora, deutsch von L. Mandelstamm, St. Petersburg 1851 (Transkription eScriptorium) - German [de].json",
+      "source_manifest_entry": {
+        "rel": "own/Mishneh Torah, Hiring/de/Mischne Tora, deutsch von L. Mandelstamm, St. Petersburg 1851 (Transkription eScriptorium) - German [de].json",
+        "title": "Mishneh Torah, Hiring",
+        "heTitle": "משנה תורה, הלכות שכירות",
+        "language": "English",
+        "versionTitle": "Mischne Tora, deutsch von L. Mandelstamm, St. Petersburg 1851 (Transkription eScriptorium) - German [de]",
+        "categories": [
+          "Halakhah",
+          "Mishneh Torah",
+          "Sefer Mishpatim"
+        ],
+        "kind": "de",
+        "hash": "017f0bae64752531362a84bb8700abfa75493265"
+      },
+      "text_language": "de",
+      "chapters": 13,
+      "segments": 125,
+      "nonempty_segments": 125,
+      "footnotes": 2,
+      "links": [],
+      "outline": null
+    },
+    {
+      "title": "Mishneh Torah, Human Dispositions",
+      "file": "data/Mishneh_Torah_Human_Dispositions.json",
+      "selected_source": "Safran",
+      "source": "bundled/own/Mishneh Torah, Human Dispositions/de/Jad Haghasakkah, trans. by L. Mandelstamm. St. Petersburg, 1851. Corrected and edited by Igor Itkin - German [de].json",
+      "source_manifest_entry": {
+        "rel": "own/Mishneh Torah, Human Dispositions/de/Jad Haghasakkah, trans. by L. Mandelstamm. St. Petersburg, 1851. Corrected and edited by Igor Itkin - German [de].json",
+        "title": "Mishneh Torah, Human Dispositions",
+        "heTitle": "משנה תורה, הלכות דעות",
+        "language": "English",
+        "versionTitle": "Jad Haghasakkah, trans. by L. Mandelstamm. St. Petersburg, 1851. Corrected and edited by Igor Itkin - German [de]",
+        "categories": [
+          "Halakhah",
+          "Mishneh Torah",
+          "Sefer Madda"
+        ],
+        "kind": "de",
+        "hash": "4e6c9991934800d41978302da785a78f433fe346"
+      },
+      "text_language": "de",
+      "chapters": 7,
+      "segments": 71,
+      "nonempty_segments": 71,
+      "footnotes": 0,
+      "links": [
+        "links/Mishneh Torah, Human Dispositions.tsv"
+      ],
+      "outline": null,
+      "sefaria_snapshot": "sources/sefaria/Mishneh_Torah_Human_Dispositions.json"
+    },
+    {
+      "title": "Mishneh Torah, Inheritances",
+      "file": "data/Mishneh_Torah_Inheritances.json",
+      "selected_source": "Safran",
+      "source": "bundled/own/Mishneh Torah, Inheritances/de/Mischne Tora, deutsch von L. Mandelstamm, St. Petersburg 1851 (Transkription eScriptorium) - German [de].json",
+      "source_manifest_entry": {
+        "rel": "own/Mishneh Torah, Inheritances/de/Mischne Tora, deutsch von L. Mandelstamm, St. Petersburg 1851 (Transkription eScriptorium) - German [de].json",
+        "title": "Mishneh Torah, Inheritances",
+        "heTitle": "משנה תורה, הלכות נחלות",
+        "language": "English",
+        "versionTitle": "Mischne Tora, deutsch von L. Mandelstamm, St. Petersburg 1851 (Transkription eScriptorium) - German [de]",
+        "categories": [
+          "Halakhah",
+          "Mishneh Torah",
+          "Sefer Mishpatim"
+        ],
+        "kind": "de",
+        "hash": "346f3dccb6a828c4c86e008d87b747000299ef82"
+      },
+      "text_language": "de",
+      "chapters": 11,
+      "segments": 116,
+      "nonempty_segments": 103,
+      "footnotes": 10,
+      "links": [],
+      "outline": null
+    },
+    {
+      "title": "Mishneh Torah, Kings and Wars",
+      "file": "data/Mishneh_Torah_Kings_and_Wars.json",
+      "selected_source": "Safran",
+      "source": "bundled/own/Mishneh Torah, Kings and Wars/de/Jad Haghasakkah, trans. by L. Mandelstamm. St. Petersburg, 1851. Corrected and edited by Igor Itkin - German [de].json",
+      "source_manifest_entry": {
+        "rel": "own/Mishneh Torah, Kings and Wars/de/Jad Haghasakkah, trans. by L. Mandelstamm. St. Petersburg, 1851. Corrected and edited by Igor Itkin - German [de].json",
+        "title": "Mishneh Torah, Kings and Wars",
+        "heTitle": "משנה תורה, הלכות מלכים ומלחמות",
+        "language": "English",
+        "versionTitle": "Jad Haghasakkah, trans. by L. Mandelstamm. St. Petersburg, 1851. Corrected and edited by Igor Itkin - German [de]",
+        "categories": [
+          "Halakhah",
+          "Mishneh Torah",
+          "Sefer Shoftim"
+        ],
+        "kind": "de",
+        "hash": "5b3b3df21dbc93119713f0ce7260c9dab2a6a05b"
+      },
+      "text_language": "de",
+      "chapters": 12,
+      "segments": 131,
+      "nonempty_segments": 131,
+      "footnotes": 0,
+      "links": [
+        "links/Mishneh Torah, Kings and Wars.tsv"
+      ],
+      "outline": null,
+      "sefaria_snapshot": "sources/sefaria/Mishneh_Torah_Kings_and_Wars.json"
+    },
+    {
+      "title": "Mishneh Torah, Leavened and Unleavened Bread",
+      "file": "data/Mishneh_Torah_Leavened_and_Unleavened_Bread.json",
+      "selected_source": "Safran",
+      "source": "bundled/own/Mishneh Torah, Leavened and Unleavened Bread/de/Mischne Tora, deutsch von L. Mandelstamm, St. Petersburg 1851 (Transkription eScriptorium) - German [de].json",
+      "source_manifest_entry": {
+        "rel": "own/Mishneh Torah, Leavened and Unleavened Bread/de/Mischne Tora, deutsch von L. Mandelstamm, St. Petersburg 1851 (Transkription eScriptorium) - German [de].json",
+        "title": "Mishneh Torah, Leavened and Unleavened Bread",
+        "heTitle": "משנה תורה, הלכות חמץ ומצה",
+        "language": "English",
+        "versionTitle": "Mischne Tora, deutsch von L. Mandelstamm, St. Petersburg 1851 (Transkription eScriptorium) - German [de]",
+        "categories": [
+          "Halakhah",
+          "Mishneh Torah",
+          "Sefer Zemanim"
+        ],
+        "kind": "de",
+        "hash": "371d0a34803f25a396d8045148a2a6580253630f"
+      },
+      "text_language": "de",
+      "chapters": 9,
+      "segments": 158,
+      "nonempty_segments": 158,
+      "footnotes": 1,
+      "links": [
+        "links/Mishneh Torah, Leavened and Unleavened Bread.tsv"
+      ],
+      "outline": null
+    },
+    {
+      "title": "Mishneh Torah, Mourning",
+      "file": "data/Mishneh_Torah_Mourning.json",
+      "selected_source": "Safran",
+      "source": "bundled/own/Mishneh Torah, Mourning/de/Mischne Tora, deutsch von L. Mandelstamm, St. Petersburg 1851 (Transkription eScriptorium) - German [de].json",
+      "source_manifest_entry": {
+        "rel": "own/Mishneh Torah, Mourning/de/Mischne Tora, deutsch von L. Mandelstamm, St. Petersburg 1851 (Transkription eScriptorium) - German [de].json",
+        "title": "Mishneh Torah, Mourning",
+        "heTitle": "משנה תורה, הלכות אבל",
+        "language": "English",
+        "versionTitle": "Mischne Tora, deutsch von L. Mandelstamm, St. Petersburg 1851 (Transkription eScriptorium) - German [de]",
+        "categories": [
+          "Halakhah",
+          "Mishneh Torah",
+          "Sefer Shoftim"
+        ],
+        "kind": "de",
+        "hash": "5675211ac7f60f3955a0746a0b50bb955f953dbf"
+      },
+      "text_language": "de",
+      "chapters": 14,
+      "segments": 183,
+      "nonempty_segments": 176,
+      "footnotes": 8,
+      "links": [
+        "links/Mishneh Torah, Mourning.tsv"
+      ],
+      "outline": null
+    },
+    {
+      "title": "Mishneh Torah, Murderer and the Preservation of Life",
+      "file": "data/Mishneh_Torah_Murderer_and_the_Preservation_of_Life.json",
+      "selected_source": "Safran",
+      "source": "bundled/own/Mishneh Torah, Murderer and the Preservation of Life/de/Jad Haghasakkah, trans. by L. Mandelstamm. St. Petersburg, 1851. Corrected and edited by Igor Itkin - German [de].json",
+      "source_manifest_entry": {
+        "rel": "own/Mishneh Torah, Murderer and the Preservation of Life/de/Jad Haghasakkah, trans. by L. Mandelstamm. St. Petersburg, 1851. Corrected and edited by Igor Itkin - German [de].json",
+        "title": "Mishneh Torah, Murderer and the Preservation of Life",
+        "heTitle": "משנה תורה, הלכות רוצח ושמירת נפש",
+        "language": "English",
+        "versionTitle": "Jad Haghasakkah, trans. by L. Mandelstamm. St. Petersburg, 1851. Corrected and edited by Igor Itkin - German [de]",
+        "categories": [
+          "Halakhah",
+          "Mishneh Torah",
+          "Sefer Nezikim"
+        ],
+        "kind": "de",
+        "hash": "5ceab20888e8248cacfe3ef311207349d0ed3379"
+      },
+      "text_language": "de",
+      "chapters": 13,
+      "segments": 184,
+      "nonempty_segments": 184,
+      "footnotes": 0,
+      "links": [
+        "links/Mishneh Torah, Murderer and the Preservation of Life.tsv"
+      ],
+      "outline": null,
+      "sefaria_snapshot": "sources/sefaria/Mishneh_Torah_Murderer_and_the_Preservation_of_Life.json"
+    },
+    {
+      "title": "Mishneh Torah, Neighbors",
+      "file": "data/Mishneh_Torah_Neighbors.json",
+      "selected_source": "Safran",
+      "source": "bundled/own/Mishneh Torah, Neighbors/de/Mischne Tora, deutsch von L. Mandelstamm, St. Petersburg 1851 (Transkription eScriptorium) - German [de].json",
+      "source_manifest_entry": {
+        "rel": "own/Mishneh Torah, Neighbors/de/Mischne Tora, deutsch von L. Mandelstamm, St. Petersburg 1851 (Transkription eScriptorium) - German [de].json",
+        "title": "Mishneh Torah, Neighbors",
+        "heTitle": "משנה תורה, הלכות שכנים",
+        "language": "English",
+        "versionTitle": "Mischne Tora, deutsch von L. Mandelstamm, St. Petersburg 1851 (Transkription eScriptorium) - German [de]",
+        "categories": [
+          "Halakhah",
+          "Mishneh Torah",
+          "Sefer Kinyan"
+        ],
+        "kind": "de",
+        "hash": "af651cf2ddb4defd0ca15ff1a1e41465018c093f"
+      },
+      "text_language": "de",
+      "chapters": 14,
+      "segments": 157,
+      "nonempty_segments": 157,
+      "footnotes": 4,
+      "links": [],
+      "outline": null
+    },
+    {
+      "title": "Mishneh Torah, One Who Injures a Person or Property",
+      "file": "data/Mishneh_Torah_One_Who_Injures_a_Person_or_Property.json",
+      "selected_source": "Safran",
+      "source": "bundled/own/Mishneh Torah, One Who Injures a Person or Property/de/Mischne Tora, deutsch von L. Mandelstamm, St. Petersburg 1851 (Transkription eScriptorium) - German [de].json",
+      "source_manifest_entry": {
+        "rel": "own/Mishneh Torah, One Who Injures a Person or Property/de/Mischne Tora, deutsch von L. Mandelstamm, St. Petersburg 1851 (Transkription eScriptorium) - German [de].json",
+        "title": "Mishneh Torah, One Who Injures a Person or Property",
+        "heTitle": "משנה תורה, הלכות חובל ומזיק",
+        "language": "English",
+        "versionTitle": "Mischne Tora, deutsch von L. Mandelstamm, St. Petersburg 1851 (Transkription eScriptorium) - German [de]",
+        "categories": [
+          "Halakhah",
+          "Mishneh Torah",
+          "Sefer Nezikim"
+        ],
+        "kind": "de",
+        "hash": "0e2c7c2e9e399757279bf022985a6abb13c7803f"
+      },
+      "text_language": "de",
+      "chapters": 8,
+      "segments": 135,
+      "nonempty_segments": 128,
+      "footnotes": 5,
+      "links": [],
+      "outline": null
+    },
+    {
+      "title": "Mishneh Torah, Ownerless Property and Gifts",
+      "file": "data/Mishneh_Torah_Ownerless_Property_and_Gifts.json",
+      "selected_source": "Safran",
+      "source": "bundled/own/Mishneh Torah, Ownerless Property and Gifts/de/Mischne Tora, deutsch von L. Mandelstamm, St. Petersburg 1851 (Transkription eScriptorium) - German [de].json",
+      "source_manifest_entry": {
+        "rel": "own/Mishneh Torah, Ownerless Property and Gifts/de/Mischne Tora, deutsch von L. Mandelstamm, St. Petersburg 1851 (Transkription eScriptorium) - German [de].json",
+        "title": "Mishneh Torah, Ownerless Property and Gifts",
+        "heTitle": "משנה תורה, הלכות זכייה ומתנה",
+        "language": "English",
+        "versionTitle": "Mischne Tora, deutsch von L. Mandelstamm, St. Petersburg 1851 (Transkription eScriptorium) - German [de]",
+        "categories": [
+          "Halakhah",
+          "Mishneh Torah",
+          "Sefer Kinyan"
+        ],
+        "kind": "de",
+        "hash": "98f76fca4625c110f31b1db637e53c16572a1932"
+      },
+      "text_language": "de",
+      "chapters": 12,
+      "segments": 219,
+      "nonempty_segments": 216,
+      "footnotes": 9,
+      "links": [],
+      "outline": null
+    },
+    {
+      "title": "Mishneh Torah, Plaintiff and Defendant",
+      "file": "data/Mishneh_Torah_Plaintiff_and_Defendant.json",
+      "selected_source": "Safran",
+      "source": "bundled/own/Mishneh Torah, Plaintiff and Defendant/de/Mischne Tora, deutsch von L. Mandelstamm, St. Petersburg 1851 (Transkription eScriptorium) - German [de].json",
+      "source_manifest_entry": {
+        "rel": "own/Mishneh Torah, Plaintiff and Defendant/de/Mischne Tora, deutsch von L. Mandelstamm, St. Petersburg 1851 (Transkription eScriptorium) - German [de].json",
+        "title": "Mishneh Torah, Plaintiff and Defendant",
+        "heTitle": "משנה תורה, הלכות טוען ונטען",
+        "language": "English",
+        "versionTitle": "Mischne Tora, deutsch von L. Mandelstamm, St. Petersburg 1851 (Transkription eScriptorium) - German [de]",
+        "categories": [
+          "Halakhah",
+          "Mishneh Torah",
+          "Sefer Mishpatim"
+        ],
+        "kind": "de",
+        "hash": "3d9d514a3df9b3689342c7d4b1438a978bb2b8c4"
+      },
+      "text_language": "de",
+      "chapters": 16,
+      "segments": 187,
+      "nonempty_segments": 185,
+      "footnotes": 6,
+      "links": [],
+      "outline": null
+    },
+    {
+      "title": "Mishneh Torah, Prayer and the Priestly Blessing",
+      "file": "data/Mishneh_Torah_Prayer_and_the_Priestly_Blessing.json",
+      "selected_source": "Safran",
+      "source": "bundled/own/Mishneh Torah, Prayer and the Priestly Blessing/de/Jad Haghasakkah, trans. by L. Mandelstamm. St. Petersburg, 1851. Corrected and edited by Igor Itkin - German [de].json",
+      "source_manifest_entry": {
+        "rel": "own/Mishneh Torah, Prayer and the Priestly Blessing/de/Jad Haghasakkah, trans. by L. Mandelstamm. St. Petersburg, 1851. Corrected and edited by Igor Itkin - German [de].json",
+        "title": "Mishneh Torah, Prayer and the Priestly Blessing",
+        "heTitle": "משנה תורה, הלכות תפילה וברכת כהנים",
+        "language": "English",
+        "versionTitle": "Jad Haghasakkah, trans. by L. Mandelstamm. St. Petersburg, 1851. Corrected and edited by Igor Itkin - German [de]",
+        "categories": [
+          "Halakhah",
+          "Mishneh Torah",
+          "Sefer Ahavah"
+        ],
+        "kind": "de",
+        "hash": "384eff25bbc58f7c974ba832d6c5cb8400ddfd0b"
+      },
+      "text_language": "de",
+      "chapters": 15,
+      "segments": 240,
+      "nonempty_segments": 240,
+      "footnotes": 0,
+      "links": [
+        "links/Mishneh Torah, Prayer and the Priestly Blessing.tsv"
+      ],
+      "outline": null,
+      "sefaria_snapshot": "sources/sefaria/Mishneh_Torah_Prayer_and_the_Priestly_Blessing.json"
+    },
+    {
+      "title": "Mishneh Torah, Reading the Shema",
+      "file": "data/Mishneh_Torah_Reading_the_Shema.json",
+      "selected_source": "Safran",
+      "source": "bundled/own/Mishneh Torah, Reading the Shema/de/Jad Haghasakkah, trans. by L. Mandelstamm. St. Petersburg, 1851. Corrected and edited by Igor Itkin - German [de].json",
+      "source_manifest_entry": {
+        "rel": "own/Mishneh Torah, Reading the Shema/de/Jad Haghasakkah, trans. by L. Mandelstamm. St. Petersburg, 1851. Corrected and edited by Igor Itkin - German [de].json",
+        "title": "Mishneh Torah, Reading the Shema",
+        "heTitle": "משנה תורה, הלכות קריאת שמע",
+        "language": "English",
+        "versionTitle": "Jad Haghasakkah, trans. by L. Mandelstamm. St. Petersburg, 1851. Corrected and edited by Igor Itkin - German [de]",
+        "categories": [
+          "Halakhah",
+          "Mishneh Torah",
+          "Sefer Ahavah"
+        ],
+        "kind": "de",
+        "hash": "e2cc6075cac02792487a49581949e72e15e384f2"
+      },
+      "text_language": "de",
+      "chapters": 4,
+      "segments": 57,
+      "nonempty_segments": 57,
+      "footnotes": 0,
+      "links": [
+        "links/Mishneh Torah, Reading the Shema.tsv"
+      ],
+      "outline": null,
+      "sefaria_snapshot": "sources/sefaria/Mishneh_Torah_Reading_the_Shema.json"
+    },
+    {
+      "title": "Mishneh Torah, Rebels",
+      "file": "data/Mishneh_Torah_Rebels.json",
+      "selected_source": "Safran",
+      "source": "bundled/own/Mishneh Torah, Rebels/de/Mischne Tora, deutsch von L. Mandelstamm, St. Petersburg 1851 (Transkription eScriptorium) - German [de].json",
+      "source_manifest_entry": {
+        "rel": "own/Mishneh Torah, Rebels/de/Mischne Tora, deutsch von L. Mandelstamm, St. Petersburg 1851 (Transkription eScriptorium) - German [de].json",
+        "title": "Mishneh Torah, Rebels",
+        "heTitle": "משנה תורה, הלכות ממרים",
+        "language": "English",
+        "versionTitle": "Mischne Tora, deutsch von L. Mandelstamm, St. Petersburg 1851 (Transkription eScriptorium) - German [de]",
+        "categories": [
+          "Halakhah",
+          "Mishneh Torah",
+          "Sefer Shoftim"
+        ],
+        "kind": "de",
+        "hash": "d49d4024e24b6aec0badd7e52b9b273572299fca"
+      },
+      "text_language": "de",
+      "chapters": 7,
+      "segments": 69,
+      "nonempty_segments": 68,
+      "footnotes": 2,
+      "links": [],
+      "outline": null
+    },
+    {
+      "title": "Mishneh Torah, Repentance",
+      "file": "data/Mishneh_Torah_Repentance.json",
+      "selected_source": "Safran",
+      "source": "bundled/own/Mishneh Torah, Repentance/de/Jad Haghasakkah, trans. by L. Mandelstamm. St. Petersburg, 1851. Corrected and edited by Igor Itkin - German [de].json",
+      "source_manifest_entry": {
+        "rel": "own/Mishneh Torah, Repentance/de/Jad Haghasakkah, trans. by L. Mandelstamm. St. Petersburg, 1851. Corrected and edited by Igor Itkin - German [de].json",
+        "title": "Mishneh Torah, Repentance",
+        "heTitle": "משנה תורה, הלכות תשובה",
+        "language": "English",
+        "versionTitle": "Jad Haghasakkah, trans. by L. Mandelstamm. St. Petersburg, 1851. Corrected and edited by Igor Itkin - German [de]",
+        "categories": [
+          "Halakhah",
+          "Mishneh Torah",
+          "Sefer Madda"
+        ],
+        "kind": "de",
+        "hash": "ae75d38826fa536acd46689fac8b3892542d4d56"
+      },
+      "text_language": "de",
+      "chapters": 10,
+      "segments": 69,
+      "nonempty_segments": 69,
+      "footnotes": 0,
+      "links": [
+        "links/Mishneh Torah, Repentance.tsv"
+      ],
+      "outline": null,
+      "sefaria_snapshot": "sources/sefaria/Mishneh_Torah_Repentance.json"
+    },
+    {
+      "title": "Mishneh Torah, Rest on a Holiday",
+      "file": "data/Mishneh_Torah_Rest_on_a_Holiday.json",
+      "selected_source": "Safran",
+      "source": "bundled/own/Mishneh Torah, Rest on a Holiday/de/Mischne Tora, deutsch von L. Mandelstamm, St. Petersburg 1851 (Transkription eScriptorium) - German [de].json",
+      "source_manifest_entry": {
+        "rel": "own/Mishneh Torah, Rest on a Holiday/de/Mischne Tora, deutsch von L. Mandelstamm, St. Petersburg 1851 (Transkription eScriptorium) - German [de].json",
+        "title": "Mishneh Torah, Rest on a Holiday",
+        "heTitle": "משנה תורה, הלכות שביתת יום טוב",
+        "language": "English",
+        "versionTitle": "Mischne Tora, deutsch von L. Mandelstamm, St. Petersburg 1851 (Transkription eScriptorium) - German [de]",
+        "categories": [
+          "Halakhah",
+          "Mishneh Torah",
+          "Sefer Zemanim"
+        ],
+        "kind": "de",
+        "hash": "a08813f3c4dbb86ca7d9da27271502a1c72ea1dc"
+      },
+      "text_language": "de",
+      "chapters": 8,
+      "segments": 176,
+      "nonempty_segments": 175,
+      "footnotes": 3,
+      "links": [
+        "links/Mishneh Torah, Rest on a Holiday.tsv"
+      ],
+      "outline": null
+    },
+    {
+      "title": "Mishneh Torah, Rest on the Tenth of Tishrei",
+      "file": "data/Mishneh_Torah_Rest_on_the_Tenth_of_Tishrei.json",
+      "selected_source": "Safran",
+      "source": "bundled/own/Mishneh Torah, Rest on the Tenth of Tishrei/de/Mischne Tora, deutsch von L. Mandelstamm, St. Petersburg 1851 (Transkription eScriptorium) - German [de].json",
+      "source_manifest_entry": {
+        "rel": "own/Mishneh Torah, Rest on the Tenth of Tishrei/de/Mischne Tora, deutsch von L. Mandelstamm, St. Petersburg 1851 (Transkription eScriptorium) - German [de].json",
+        "title": "Mishneh Torah, Rest on the Tenth of Tishrei",
+        "heTitle": "משנה תורה, הלכות שביתת עשור",
+        "language": "English",
+        "versionTitle": "Mischne Tora, deutsch von L. Mandelstamm, St. Petersburg 1851 (Transkription eScriptorium) - German [de]",
+        "categories": [
+          "Halakhah",
+          "Mishneh Torah",
+          "Sefer Zemanim"
+        ],
+        "kind": "de",
+        "hash": "40918e4771c56bbf0721e90fc489416d1bdc9e24"
+      },
+      "text_language": "de",
+      "chapters": 3,
+      "segments": 28,
+      "nonempty_segments": 27,
+      "footnotes": 2,
+      "links": [
+        "links/Mishneh Torah, Rest on the Tenth of Tishrei.tsv"
+      ],
+      "outline": null
+    },
+    {
+      "title": "Mishneh Torah, Robbery and Lost Property",
+      "file": "data/Mishneh_Torah_Robbery_and_Lost_Property.json",
+      "selected_source": "Safran",
+      "source": "bundled/own/Mishneh Torah, Robbery and Lost Property/de/Mischne Tora, deutsch von L. Mandelstamm, St. Petersburg 1851 (Transkription eScriptorium) - German [de].json",
+      "source_manifest_entry": {
+        "rel": "own/Mishneh Torah, Robbery and Lost Property/de/Mischne Tora, deutsch von L. Mandelstamm, St. Petersburg 1851 (Transkription eScriptorium) - German [de].json",
+        "title": "Mishneh Torah, Robbery and Lost Property",
+        "heTitle": "משנה תורה, הלכות גזילה ואבידה",
+        "language": "English",
+        "versionTitle": "Mischne Tora, deutsch von L. Mandelstamm, St. Petersburg 1851 (Transkription eScriptorium) - German [de]",
+        "categories": [
+          "Halakhah",
+          "Mishneh Torah",
+          "Sefer Nezikim"
+        ],
+        "kind": "de",
+        "hash": "90c008aa7ebbb0a0e7ae2ad1c7201b04f7b882d8"
+      },
+      "text_language": "de",
+      "chapters": 18,
+      "segments": 275,
+      "nonempty_segments": 256,
+      "footnotes": 14,
+      "links": [
+        "links/Mishneh Torah, Robbery and Lost Property.tsv"
+      ],
+      "outline": null
+    },
+    {
+      "title": "Mishneh Torah, Sabbath",
+      "file": "data/Mishneh_Torah_Sabbath.json",
+      "selected_source": "Safran",
+      "source": "bundled/own/Mishneh Torah, Sabbath/de/Mischne Tora, deutsch von L. Mandelstamm, St. Petersburg 1851 (Transkription eScriptorium) - German [de].json",
+      "source_manifest_entry": {
+        "rel": "own/Mishneh Torah, Sabbath/de/Mischne Tora, deutsch von L. Mandelstamm, St. Petersburg 1851 (Transkription eScriptorium) - German [de].json",
+        "title": "Mishneh Torah, Sabbath",
+        "heTitle": "משנה תורה, הלכות שבת",
+        "language": "English",
+        "versionTitle": "Mischne Tora, deutsch von L. Mandelstamm, St. Petersburg 1851 (Transkription eScriptorium) - German [de]",
+        "categories": [
+          "Halakhah",
+          "Mishneh Torah",
+          "Sefer Zemanim"
+        ],
+        "kind": "de",
+        "hash": "abb11cce4f21f4e4fe50659845df8de05e2acb6d"
+      },
+      "text_language": "de",
+      "chapters": 30,
+      "segments": 659,
+      "nonempty_segments": 651,
+      "footnotes": 48,
+      "links": [
+        "links/Mishneh Torah, Sabbath.tsv"
+      ],
+      "outline": null
+    },
+    {
+      "title": "Mishneh Torah, Sales",
+      "file": "data/Mishneh_Torah_Sales.json",
+      "selected_source": "Safran",
+      "source": "bundled/own/Mishneh Torah, Sales/de/Mischne Tora, deutsch von L. Mandelstamm, St. Petersburg 1851 (Transkription eScriptorium) - German [de].json",
+      "source_manifest_entry": {
+        "rel": "own/Mishneh Torah, Sales/de/Mischne Tora, deutsch von L. Mandelstamm, St. Petersburg 1851 (Transkription eScriptorium) - German [de].json",
+        "title": "Mishneh Torah, Sales",
+        "heTitle": "משנה תורה, הלכות מכירה",
+        "language": "English",
+        "versionTitle": "Mischne Tora, deutsch von L. Mandelstamm, St. Petersburg 1851 (Transkription eScriptorium) - German [de]",
+        "categories": [
+          "Halakhah",
+          "Mishneh Torah",
+          "Sefer Kinyan"
+        ],
+        "kind": "de",
+        "hash": "f544c9204a140e034a2bc7400e9a397950c260ab"
+      },
+      "text_language": "de",
+      "chapters": 30,
+      "segments": 414,
+      "nonempty_segments": 405,
+      "footnotes": 11,
+      "links": [
+        "links/Mishneh Torah, Sales.tsv"
+      ],
+      "outline": null
+    },
+    {
+      "title": "Mishneh Torah, Scroll of Esther and Hanukkah",
+      "file": "data/Mishneh_Torah_Scroll_of_Esther_and_Hanukkah.json",
+      "selected_source": "Safran",
+      "source": "bundled/own/Mishneh Torah, Scroll of Esther and Hanukkah/de/Mischne Tora, deutsch von L. Mandelstamm, St. Petersburg 1851 (Transkription eScriptorium) - German [de].json",
+      "source_manifest_entry": {
+        "rel": "own/Mishneh Torah, Scroll of Esther and Hanukkah/de/Mischne Tora, deutsch von L. Mandelstamm, St. Petersburg 1851 (Transkription eScriptorium) - German [de].json",
+        "title": "Mishneh Torah, Scroll of Esther and Hanukkah",
+        "heTitle": "משנה תורה, הלכות מגילה וחנוכה",
+        "language": "English",
+        "versionTitle": "Mischne Tora, deutsch von L. Mandelstamm, St. Petersburg 1851 (Transkription eScriptorium) - German [de]",
+        "categories": [
+          "Halakhah",
+          "Mishneh Torah",
+          "Sefer Zemanim"
+        ],
+        "kind": "de",
+        "hash": "c9028eba480ec717c34f9ccb31bf6f09dbc6b321"
+      },
+      "text_language": "de",
+      "chapters": 4,
+      "segments": 60,
+      "nonempty_segments": 60,
+      "footnotes": 0,
+      "links": [
+        "links/Mishneh Torah, Scroll of Esther and Hanukkah.tsv"
+      ],
+      "outline": null
+    },
+    {
+      "title": "Mishneh Torah, Shofar, Sukkah and Lulav",
+      "file": "data/Mishneh_Torah_Shofar_Sukkah_and_Lulav.json",
+      "selected_source": "Safran",
+      "source": "bundled/own/Mishneh Torah, Shofar, Sukkah and Lulav/de/Mischne Tora, deutsch von L. Mandelstamm, St. Petersburg 1851 (Transkription eScriptorium) - German [de].json",
+      "source_manifest_entry": {
+        "rel": "own/Mishneh Torah, Shofar, Sukkah and Lulav/de/Mischne Tora, deutsch von L. Mandelstamm, St. Petersburg 1851 (Transkription eScriptorium) - German [de].json",
+        "title": "Mishneh Torah, Shofar, Sukkah and Lulav",
+        "heTitle": "משנה תורה, הלכות שופר וסוכה ולולב",
+        "language": "English",
+        "versionTitle": "Mischne Tora, deutsch von L. Mandelstamm, St. Petersburg 1851 (Transkription eScriptorium) - German [de]",
+        "categories": [
+          "Halakhah",
+          "Mishneh Torah",
+          "Sefer Zemanim"
+        ],
+        "kind": "de",
+        "hash": "7e2cee71fd6989b44e23fc68857d609e7b71348b"
+      },
+      "text_language": "de",
+      "chapters": 8,
+      "segments": 130,
+      "nonempty_segments": 130,
+      "footnotes": 4,
+      "links": [
+        "links/Mishneh Torah, Shofar, Sukkah and Lulav.tsv"
+      ],
+      "outline": null
+    },
+    {
+      "title": "Mishneh Torah, Slaves",
+      "file": "data/Mishneh_Torah_Slaves.json",
+      "selected_source": "Safran",
+      "source": "bundled/own/Mishneh Torah, Slaves/de/Mischne Tora, deutsch von L. Mandelstamm, St. Petersburg 1851 (Transkription eScriptorium) - German [de].json",
+      "source_manifest_entry": {
+        "rel": "own/Mishneh Torah, Slaves/de/Mischne Tora, deutsch von L. Mandelstamm, St. Petersburg 1851 (Transkription eScriptorium) - German [de].json",
+        "title": "Mishneh Torah, Slaves",
+        "heTitle": "משנה תורה, הלכות עבדים",
+        "language": "English",
+        "versionTitle": "Mischne Tora, deutsch von L. Mandelstamm, St. Petersburg 1851 (Transkription eScriptorium) - German [de]",
+        "categories": [
+          "Halakhah",
+          "Mishneh Torah",
+          "Sefer Kinyan"
+        ],
+        "kind": "de",
+        "hash": "9b35bf74c041a8e893434f2c86270e072a2bf7f6"
+      },
+      "text_language": "de",
+      "chapters": 9,
+      "segments": 116,
+      "nonempty_segments": 35,
+      "footnotes": 3,
+      "links": [],
+      "outline": null
+    },
+    {
+      "title": "Mishneh Torah, Tefillin, Mezuzah and the Torah Scroll",
+      "file": "data/Mishneh_Torah_Tefillin_Mezuzah_and_the_Torah_Scroll.json",
+      "selected_source": "Safran",
+      "source": "bundled/own/Mishneh Torah, Tefillin, Mezuzah and the Torah Scroll/de/Mischne Tora, deutsch von L. Mandelstamm, St. Petersburg 1851 (Transkription eScriptorium) - German [de].json",
+      "source_manifest_entry": {
+        "rel": "own/Mishneh Torah, Tefillin, Mezuzah and the Torah Scroll/de/Mischne Tora, deutsch von L. Mandelstamm, St. Petersburg 1851 (Transkription eScriptorium) - German [de].json",
+        "title": "Mishneh Torah, Tefillin, Mezuzah and the Torah Scroll",
+        "heTitle": "משנה תורה, הלכות תפילין ומזוזה וספר תורה",
+        "language": "English",
+        "versionTitle": "Mischne Tora, deutsch von L. Mandelstamm, St. Petersburg 1851 (Transkription eScriptorium) - German [de]",
+        "categories": [
+          "Halakhah",
+          "Mishneh Torah",
+          "Sefer Ahavah"
+        ],
+        "kind": "de",
+        "hash": "16f8b1d890846fcbc66155f0333ce6222234989b"
+      },
+      "text_language": "de",
+      "chapters": 10,
+      "segments": 146,
+      "nonempty_segments": 138,
+      "footnotes": 5,
+      "links": [],
+      "outline": null
+    },
+    {
+      "title": "Mishneh Torah, The Sanhedrin and the Penalties within Their Jurisdiction",
+      "file": "data/Mishneh_Torah_The_Sanhedrin_and_the_Penalties_within_Their_Jurisdiction.json",
+      "selected_source": "Safran",
+      "source": "bundled/own/Mishneh Torah, The Sanhedrin and the Penalties within Their Jurisdiction/de/Jad Haghasakkah, trans. by L. Mandelstamm. St. Petersburg, 1851. Corrected and edited by Igor Itkin - German [de].json",
+      "source_manifest_entry": {
+        "rel": "own/Mishneh Torah, The Sanhedrin and the Penalties within Their Jurisdiction/de/Jad Haghasakkah, trans. by L. Mandelstamm. St. Petersburg, 1851. Corrected and edited by Igor Itkin - German [de].json",
+        "title": "Mishneh Torah, The Sanhedrin and the Penalties within Their Jurisdiction",
+        "heTitle": "משנה תורה, הלכות סנהדרין והעונשין המסורין להם",
+        "language": "English",
+        "versionTitle": "Jad Haghasakkah, trans. by L. Mandelstamm. St. Petersburg, 1851. Corrected and edited by Igor Itkin - German [de]",
+        "categories": [
+          "Halakhah",
+          "Mishneh Torah",
+          "Sefer Shoftim"
+        ],
+        "kind": "de",
+        "hash": "ddd719354709203a2dbebbbec7bfdac981bc7117"
+      },
+      "text_language": "de",
+      "chapters": 26,
+      "segments": 254,
+      "nonempty_segments": 254,
+      "footnotes": 0,
+      "links": [
+        "links/Mishneh Torah, The Sanhedrin and the Penalties within Their Jurisdiction.tsv"
+      ],
+      "outline": null,
+      "sefaria_snapshot": "sources/sefaria/Mishneh_Torah_The_Sanhedrin_and_the_Penalties_within_Their_Jurisdiction.json"
+    },
+    {
+      "title": "Mishneh Torah, Theft",
+      "file": "data/Mishneh_Torah_Theft.json",
+      "selected_source": "Safran",
+      "source": "bundled/own/Mishneh Torah, Theft/de/Mischne Tora, deutsch von L. Mandelstamm, St. Petersburg 1851 (Transkription eScriptorium) - German [de].json",
+      "source_manifest_entry": {
+        "rel": "own/Mishneh Torah, Theft/de/Mischne Tora, deutsch von L. Mandelstamm, St. Petersburg 1851 (Transkription eScriptorium) - German [de].json",
+        "title": "Mishneh Torah, Theft",
+        "heTitle": "משנה תורה, הלכות גניבה",
+        "language": "English",
+        "versionTitle": "Mischne Tora, deutsch von L. Mandelstamm, St. Petersburg 1851 (Transkription eScriptorium) - German [de]",
+        "categories": [
+          "Halakhah",
+          "Mishneh Torah",
+          "Sefer Nezikim"
+        ],
+        "kind": "de",
+        "hash": "1a3704b41e98ecebf30126236adf3e1511e5bd20"
+      },
+      "text_language": "de",
+      "chapters": 9,
+      "segments": 131,
+      "nonempty_segments": 129,
+      "footnotes": 4,
+      "links": [],
+      "outline": null
+    },
+    {
+      "title": "Mishneh Torah, Torah Study",
+      "file": "data/Mishneh_Torah_Torah_Study.json",
+      "selected_source": "Safran",
+      "source": "bundled/own/Mishneh Torah, Torah Study/de/Jad Haghasakkah, trans. by L. Mandelstamm. St. Petersburg, 1851. Corrected and edited by Igor Itkin - German [de].json",
+      "source_manifest_entry": {
+        "rel": "own/Mishneh Torah, Torah Study/de/Jad Haghasakkah, trans. by L. Mandelstamm. St. Petersburg, 1851. Corrected and edited by Igor Itkin - German [de].json",
+        "title": "Mishneh Torah, Torah Study",
+        "heTitle": "משנה תורה, הלכות תלמוד תורה",
+        "language": "English",
+        "versionTitle": "Jad Haghasakkah, trans. by L. Mandelstamm. St. Petersburg, 1851. Corrected and edited by Igor Itkin - German [de]",
+        "categories": [
+          "Halakhah",
+          "Mishneh Torah",
+          "Sefer Madda"
+        ],
+        "kind": "de",
+        "hash": "c3ea406046ef05bbefc3fab42917239861524533"
+      },
+      "text_language": "de",
+      "chapters": 7,
+      "segments": 82,
+      "nonempty_segments": 81,
+      "footnotes": 0,
+      "links": [
+        "links/Mishneh Torah, Torah Study.tsv"
+      ],
+      "outline": null,
+      "sefaria_snapshot": "sources/sefaria/Mishneh_Torah_Torah_Study.json"
+    }
+  ],
+  "overlap_titles": 12,
+  "different_segment_pairs": 425,
+  "source_sha256": {
+    "bundled/own/Mishneh Torah, Agents and Partners/de/Mischne Tora, deutsch von L. Mandelstamm, St. Petersburg 1851 (Transkription eScriptorium) - German [de].json": "efea6b1e068ca633d136708ce6c8d1882bba78610deb57d55a11a4089ae683a1",
+    "bundled/own/Mishneh Torah, Blessings/de/Mischne Tora, deutsch von L. Mandelstamm, St. Petersburg 1851 (Transkription eScriptorium) - German [de].json": "cf452b39c4f172ae507b152af6e2f3360836785830b04efc3936f66e68c9d8e0",
+    "bundled/links/Mishneh Torah, Blessings.tsv": "91666a586c4dbe891cad27b6bab6222103a984b159b9260ac8bfae65ed89e688",
+    "bundled/own/Mishneh Torah, Borrowing and Deposit/de/Mischne Tora, deutsch von L. Mandelstamm, St. Petersburg 1851 (Transkription eScriptorium) - German [de].json": "52be0b7d1f6234c2fc015748513f57b7a28ae52d9ea7fef204e1a107df3c2b72",
+    "bundled/links/Mishneh Torah, Borrowing and Deposit.tsv": "c4c83c3163dad72d0004b9795500fbcd828e1bd07b210a33092df48df568e1a4",
+    "bundled/own/Mishneh Torah, Creditor and Debtor/de/Mischne Tora, deutsch von L. Mandelstamm, St. Petersburg 1851 (Transkription eScriptorium) - German [de].json": "bf8785c164354c544fd1b72935bfe01a59ff6eb8cf0d0b47728ea59855619557",
+    "bundled/own/Mishneh Torah, Damages to Property/de/Mischne Tora, deutsch von L. Mandelstamm, St. Petersburg 1851 (Transkription eScriptorium) - German [de].json": "1946d52ccb6abb45dc442132bdc1c4feddbd92ce8d03316332e0a4a2e53853a9",
+    "bundled/own/Mishneh Torah, Eruvin/de/Mischne Tora, deutsch von L. Mandelstamm, St. Petersburg 1851 (Transkription eScriptorium) - German [de].json": "6a312260fca3c6f097cfcf99a27ddb86b946bb94c776b4465dbda4e3e4bb1c03",
+    "bundled/own/Mishneh Torah, Fasts/de/Mischne Tora, deutsch von L. Mandelstamm, St. Petersburg 1851 (Transkription eScriptorium) - German [de].json": "413546a125935ef8eba2a1a51688fc48d196cdfce65596e3e3727777b37d7013",
+    "bundled/links/Mishneh Torah, Fasts.tsv": "bd10666ec9440dbfe0ee94ada6130e8308eec37085b2348884203a471cd66202",
+    "bundled/own/Mishneh Torah, Forbidden Foods/de/Jad Haghasakkah, trans. by L. Mandelstamm. St. Petersburg, 1851. Corrected and edited by Igor Itkin - German [de].json": "81b4f2c67db57c967a276be030843db8a4012d2a75c0be1c76fc411d3c930bd3",
+    "bundled/links/Mishneh Torah, Forbidden Foods.tsv": "0bef8d4429c633f908952dd9830dfc90fb5f23496bf91dc60ed39280e32f2ca0",
+    "bundled/own/Mishneh Torah, Foreign Worship and Customs of the Nations/de/Jad Haghasakkah, trans. by L. Mandelstamm. St. Petersburg, 1851. Corrected and edited by Igor Itkin - German [de].json": "127b22cc73c648addd31fd1d6ab4c09ff89112f8c88699506026f336a8ec8229",
+    "bundled/links/Mishneh Torah, Foreign Worship and Customs of the Nations.tsv": "4d29fe46644edad67b06ddb0f286c1397c29d94ebd183e127725aa4870f0f9a9",
+    "bundled/own/Mishneh Torah, Foundations of the Torah/de/Jad Haghasakkah, trans. by L. Mandelstamm. St. Petersburg, 1851. Corrected and edited by Igor Itkin - German [de].json": "8f29c486b763a0bd30f81dd807e6c8f63f6bd248acdbf8427dd702a8c43b76a7",
+    "bundled/links/Mishneh Torah, Foundations of the Torah.tsv": "34c372263c33d4428b8431a8f89dd5706a8891b4568052d9e847870a5c45c20a",
+    "bundled/own/Mishneh Torah, Fringes/de/Jad Haghasakkah, trans. by L. Mandelstamm. St. Petersburg, 1851. Corrected and edited by Igor Itkin - German [de].json": "42370f4075e8a6173336057ca0a8bee6a3c00a514780296899458c9f4d25d066",
+    "bundled/links/Mishneh Torah, Fringes.tsv": "9df9b897b7e0b5de692df1086f810c1e82243f2e92c741fdab1b55466a006270",
+    "bundled/own/Mishneh Torah, Gifts to the Poor/de/Mischne Tora, deutsch von L. Mandelstamm, St. Petersburg 1851 (Transkription eScriptorium) - German [de].json": "0fd5cc5eca61817bba256f149f4755957fc57fc377bd6ff0d4bb88435fad9254",
+    "bundled/links/Mishneh Torah, Gifts to the Poor.tsv": "b21323de0c19823fa9b96e534fe55ea03d21fc7a89a99dee06df42b90b9d0df8",
+    "bundled/own/Mishneh Torah, Hiring/de/Mischne Tora, deutsch von L. Mandelstamm, St. Petersburg 1851 (Transkription eScriptorium) - German [de].json": "952b9efa39889170a6731fa6601032000da7cc9f86578c94147f835bb11b6eb7",
+    "bundled/own/Mishneh Torah, Human Dispositions/de/Jad Haghasakkah, trans. by L. Mandelstamm. St. Petersburg, 1851. Corrected and edited by Igor Itkin - German [de].json": "f8a0710efdc23d97977656c5f1da71b739c89564ffa86acba83ca91c38bc62f8",
+    "bundled/links/Mishneh Torah, Human Dispositions.tsv": "52a1555bafe868d4b1134cc8030ddfbf225b272309d0ec069bd018d200fcd33e",
+    "bundled/own/Mishneh Torah, Inheritances/de/Mischne Tora, deutsch von L. Mandelstamm, St. Petersburg 1851 (Transkription eScriptorium) - German [de].json": "b54c2cc88a1a4f4a0c914ea28aa9f564ea43db383adf6727d332a6edbe037f4d",
+    "bundled/own/Mishneh Torah, Kings and Wars/de/Jad Haghasakkah, trans. by L. Mandelstamm. St. Petersburg, 1851. Corrected and edited by Igor Itkin - German [de].json": "b96950a45ce3b6704cf27d96137ee04bb3bfa37c06602e202489d6165a472ca8",
+    "bundled/links/Mishneh Torah, Kings and Wars.tsv": "a8a691255f0e1163cef2ec38f84065be28e953b3ece29925dafba73690796a35",
+    "bundled/own/Mishneh Torah, Leavened and Unleavened Bread/de/Mischne Tora, deutsch von L. Mandelstamm, St. Petersburg 1851 (Transkription eScriptorium) - German [de].json": "5876ac3aedc0dedca64985a300eac35ed616437b4708876a620f6257a1f54a4d",
+    "bundled/links/Mishneh Torah, Leavened and Unleavened Bread.tsv": "0697e80254a718d29812bf32bd6febbb9a53d7c42709b14a00f3194443006f79",
+    "bundled/own/Mishneh Torah, Mourning/de/Mischne Tora, deutsch von L. Mandelstamm, St. Petersburg 1851 (Transkription eScriptorium) - German [de].json": "0a46d2ed9fdae6476bd6e39a073af02ceff97ff8a9355de25a0f047cbb75195c",
+    "bundled/links/Mishneh Torah, Mourning.tsv": "bdec3dfcdec155753d4d2e510bca498ed879143b3484b521dba5e5c8bbae6669",
+    "bundled/own/Mishneh Torah, Murderer and the Preservation of Life/de/Jad Haghasakkah, trans. by L. Mandelstamm. St. Petersburg, 1851. Corrected and edited by Igor Itkin - German [de].json": "113a49746c6993b262e7f4b030c0e82c22a2d19e8c703e549f93e038c07a424a",
+    "bundled/links/Mishneh Torah, Murderer and the Preservation of Life.tsv": "b5126690974d1c723456736e0e639ce62f8c126aa6ae4daaffcdcf8f1de98616",
+    "bundled/own/Mishneh Torah, Neighbors/de/Mischne Tora, deutsch von L. Mandelstamm, St. Petersburg 1851 (Transkription eScriptorium) - German [de].json": "928e8306e818b2ebb1d6e031603194ffc11b58922144a9f9531de07882aebd2e",
+    "bundled/own/Mishneh Torah, One Who Injures a Person or Property/de/Mischne Tora, deutsch von L. Mandelstamm, St. Petersburg 1851 (Transkription eScriptorium) - German [de].json": "e51cbc6fe70df8212d57f6948ebeb9c659284bb9ac963953aa43474d472adc3e",
+    "bundled/own/Mishneh Torah, Ownerless Property and Gifts/de/Mischne Tora, deutsch von L. Mandelstamm, St. Petersburg 1851 (Transkription eScriptorium) - German [de].json": "ad53bbba9e2e119761811f9e1f3351687ccc2fecfef38bc8ed338cce37e494f5",
+    "bundled/own/Mishneh Torah, Plaintiff and Defendant/de/Mischne Tora, deutsch von L. Mandelstamm, St. Petersburg 1851 (Transkription eScriptorium) - German [de].json": "0e7dea8e9e2e878318359947ac0b15865cc64571ec2644385337df7fa0ddd35a",
+    "bundled/own/Mishneh Torah, Prayer and the Priestly Blessing/de/Jad Haghasakkah, trans. by L. Mandelstamm. St. Petersburg, 1851. Corrected and edited by Igor Itkin - German [de].json": "0f85de94e6034d5b382f1c20646a4d97e2c13e446e3f61db045d9bb87a53a12c",
+    "bundled/links/Mishneh Torah, Prayer and the Priestly Blessing.tsv": "bbb6757e33b559d874811455cc7b5d164b7992361c416b5b5c08e11f9154461d",
+    "bundled/own/Mishneh Torah, Reading the Shema/de/Jad Haghasakkah, trans. by L. Mandelstamm. St. Petersburg, 1851. Corrected and edited by Igor Itkin - German [de].json": "c3c9610afba5c5a2f17f3e0f7a7343c6185a9ceec38edeb188ce0eb2ab6f9eae",
+    "bundled/links/Mishneh Torah, Reading the Shema.tsv": "58e9e976ee2c804eb552d7923551308c8023bb453774e99c71eecdcd13c118ee",
+    "bundled/own/Mishneh Torah, Rebels/de/Mischne Tora, deutsch von L. Mandelstamm, St. Petersburg 1851 (Transkription eScriptorium) - German [de].json": "26a17e64cf4446e6e1fdd93a15f53b51a692d5fc82d3bd3bfe386f4bf12d6c97",
+    "bundled/own/Mishneh Torah, Repentance/de/Jad Haghasakkah, trans. by L. Mandelstamm. St. Petersburg, 1851. Corrected and edited by Igor Itkin - German [de].json": "cb4794d5324fa09a1c7c1526d48741a3a39f902d6d55e59f05fe6754b076713f",
+    "bundled/links/Mishneh Torah, Repentance.tsv": "9bf80e3ac8e0dfbb41ab1012b0afb3fe6087e9e42e2d8209b2e3da8251a0a551",
+    "bundled/own/Mishneh Torah, Rest on a Holiday/de/Mischne Tora, deutsch von L. Mandelstamm, St. Petersburg 1851 (Transkription eScriptorium) - German [de].json": "50430106ef812dc1b0637cf2256a654a88b7a2594b07c028d4103172766e48b9",
+    "bundled/links/Mishneh Torah, Rest on a Holiday.tsv": "62c542c466efe97d4a9256e6400bd911d867da8996e6eed7c1c217b689eff7db",
+    "bundled/own/Mishneh Torah, Rest on the Tenth of Tishrei/de/Mischne Tora, deutsch von L. Mandelstamm, St. Petersburg 1851 (Transkription eScriptorium) - German [de].json": "70b78b17c3e9c0d55d6c5bf572ca5c6decca61598777d15af240a6644a30fef3",
+    "bundled/links/Mishneh Torah, Rest on the Tenth of Tishrei.tsv": "a01d2b75a95beff08f90e9c277c2a9222fd187b5b9d6ebd26cd02bf6b0a48576",
+    "bundled/own/Mishneh Torah, Robbery and Lost Property/de/Mischne Tora, deutsch von L. Mandelstamm, St. Petersburg 1851 (Transkription eScriptorium) - German [de].json": "bc40f0571d5007c40f13d1a62e60667683d1eebb98aedc756bce7d2275bbb3c9",
+    "bundled/links/Mishneh Torah, Robbery and Lost Property.tsv": "c00bf3667e78276a917521e5697f2c60cf78ab7c9ba36ffc9572fa8b545b1097",
+    "bundled/own/Mishneh Torah, Sabbath/de/Mischne Tora, deutsch von L. Mandelstamm, St. Petersburg 1851 (Transkription eScriptorium) - German [de].json": "5fb0e4b4687b84fcc3236d411c8f9451531c83748ab0adabe89c19aa663c1f66",
+    "bundled/links/Mishneh Torah, Sabbath.tsv": "12374a8a0b67ef166fd71296d2ede13e548d5d9ca17add5534326782f5d82331",
+    "bundled/own/Mishneh Torah, Sales/de/Mischne Tora, deutsch von L. Mandelstamm, St. Petersburg 1851 (Transkription eScriptorium) - German [de].json": "c292d01428137961dd3db0cce92ecc6854f5156a2ac2a19e05423e26813ef314",
+    "bundled/links/Mishneh Torah, Sales.tsv": "7e36783c14b3d23731bd01bad676f1920b968379e99510b9d087ed8dea06ebf0",
+    "bundled/own/Mishneh Torah, Scroll of Esther and Hanukkah/de/Mischne Tora, deutsch von L. Mandelstamm, St. Petersburg 1851 (Transkription eScriptorium) - German [de].json": "b08a5e3efb96b85a5d5278aaae202f111363e6008dd0295cff3af7ff7b325fd1",
+    "bundled/links/Mishneh Torah, Scroll of Esther and Hanukkah.tsv": "5bd524d2a361d7f4c64ba312b1858c2f218981088596cc57ac366094228d99b3",
+    "bundled/own/Mishneh Torah, Shofar, Sukkah and Lulav/de/Mischne Tora, deutsch von L. Mandelstamm, St. Petersburg 1851 (Transkription eScriptorium) - German [de].json": "0de139e990ecd36115e9f1a218feb6a4709fb4e932f0a360855b1cae64fedc99",
+    "bundled/links/Mishneh Torah, Shofar, Sukkah and Lulav.tsv": "ef0635f8964e461cd4ad2b38cdeb7c55341dc818cd7b6d1463aaabf33f24efed",
+    "bundled/own/Mishneh Torah, Slaves/de/Mischne Tora, deutsch von L. Mandelstamm, St. Petersburg 1851 (Transkription eScriptorium) - German [de].json": "f10a738150405b5ce30eaebf04e497d95ddc76fd61f786e7a58f1e6bc2d40261",
+    "bundled/own/Mishneh Torah, Tefillin, Mezuzah and the Torah Scroll/de/Mischne Tora, deutsch von L. Mandelstamm, St. Petersburg 1851 (Transkription eScriptorium) - German [de].json": "d36e1c2506756032dcd6d57f89ae87f203b0df95abe59065cd40139dba7506c6",
+    "bundled/own/Mishneh Torah, The Sanhedrin and the Penalties within Their Jurisdiction/de/Jad Haghasakkah, trans. by L. Mandelstamm. St. Petersburg, 1851. Corrected and edited by Igor Itkin - German [de].json": "410dfc5e7143f4dd41f2b7cc11fe3c230774df43dc7c8069c6ff373391854252",
+    "bundled/links/Mishneh Torah, The Sanhedrin and the Penalties within Their Jurisdiction.tsv": "123881bf5a447aa63a08e882cf49282226aef8c7891e1c47b8050c76483f2384",
+    "bundled/own/Mishneh Torah, Theft/de/Mischne Tora, deutsch von L. Mandelstamm, St. Petersburg 1851 (Transkription eScriptorium) - German [de].json": "3937802fba56e524f92a2f111119a4fad8f60929a591e97ed3ad2d0562a5cb32",
+    "bundled/own/Mishneh Torah, Torah Study/de/Jad Haghasakkah, trans. by L. Mandelstamm. St. Petersburg, 1851. Corrected and edited by Igor Itkin - German [de].json": "2273dbcde562a77e648da7797bf74d5696078aa85ace2220698a391fc80b8ace",
+    "bundled/links/Mishneh Torah, Torah Study.tsv": "2138045988e5207d11d34800073310753932aed1041290ce9f7ff1c4cbed9d09",
+    "portraits/mandelstamm.jpg": "aaf81ff24cffd8c32a003ee0ee71a644583215c00c6070bb34e63b521a6f6f9f",
+    "tools/mandelstamm/kings-and-wars-corrections.json": "09ddf475991eefa8b94dddfbe9509089efe97142135be1d102080aa90670db97"
+  },
+  "exported_sha256": {
+    "data/Mishneh_Torah_Agents_and_Partners.json": "efea6b1e068ca633d136708ce6c8d1882bba78610deb57d55a11a4089ae683a1",
+    "data/Mishneh_Torah_Blessings.json": "cf452b39c4f172ae507b152af6e2f3360836785830b04efc3936f66e68c9d8e0",
+    "links/Mishneh Torah, Blessings.tsv": "91666a586c4dbe891cad27b6bab6222103a984b159b9260ac8bfae65ed89e688",
+    "data/Mishneh_Torah_Borrowing_and_Deposit.json": "52be0b7d1f6234c2fc015748513f57b7a28ae52d9ea7fef204e1a107df3c2b72",
+    "links/Mishneh Torah, Borrowing and Deposit.tsv": "c4c83c3163dad72d0004b9795500fbcd828e1bd07b210a33092df48df568e1a4",
+    "data/Mishneh_Torah_Creditor_and_Debtor.json": "bf8785c164354c544fd1b72935bfe01a59ff6eb8cf0d0b47728ea59855619557",
+    "data/Mishneh_Torah_Damages_to_Property.json": "1946d52ccb6abb45dc442132bdc1c4feddbd92ce8d03316332e0a4a2e53853a9",
+    "data/Mishneh_Torah_Eruvin.json": "6a312260fca3c6f097cfcf99a27ddb86b946bb94c776b4465dbda4e3e4bb1c03",
+    "data/Mishneh_Torah_Fasts.json": "413546a125935ef8eba2a1a51688fc48d196cdfce65596e3e3727777b37d7013",
+    "links/Mishneh Torah, Fasts.tsv": "bd10666ec9440dbfe0ee94ada6130e8308eec37085b2348884203a471cd66202",
+    "data/Mishneh_Torah_Forbidden_Foods.json": "81b4f2c67db57c967a276be030843db8a4012d2a75c0be1c76fc411d3c930bd3",
+    "links/Mishneh Torah, Forbidden Foods.tsv": "0bef8d4429c633f908952dd9830dfc90fb5f23496bf91dc60ed39280e32f2ca0",
+    "data/Mishneh_Torah_Foreign_Worship_and_Customs_of_the_Nations.json": "127b22cc73c648addd31fd1d6ab4c09ff89112f8c88699506026f336a8ec8229",
+    "links/Mishneh Torah, Foreign Worship and Customs of the Nations.tsv": "4d29fe46644edad67b06ddb0f286c1397c29d94ebd183e127725aa4870f0f9a9",
+    "data/Mishneh_Torah_Foundations_of_the_Torah.json": "8f29c486b763a0bd30f81dd807e6c8f63f6bd248acdbf8427dd702a8c43b76a7",
+    "links/Mishneh Torah, Foundations of the Torah.tsv": "34c372263c33d4428b8431a8f89dd5706a8891b4568052d9e847870a5c45c20a",
+    "data/Mishneh_Torah_Fringes.json": "42370f4075e8a6173336057ca0a8bee6a3c00a514780296899458c9f4d25d066",
+    "links/Mishneh Torah, Fringes.tsv": "9df9b897b7e0b5de692df1086f810c1e82243f2e92c741fdab1b55466a006270",
+    "data/Mishneh_Torah_Gifts_to_the_Poor.json": "0fd5cc5eca61817bba256f149f4755957fc57fc377bd6ff0d4bb88435fad9254",
+    "links/Mishneh Torah, Gifts to the Poor.tsv": "b21323de0c19823fa9b96e534fe55ea03d21fc7a89a99dee06df42b90b9d0df8",
+    "data/Mishneh_Torah_Hiring.json": "952b9efa39889170a6731fa6601032000da7cc9f86578c94147f835bb11b6eb7",
+    "data/Mishneh_Torah_Human_Dispositions.json": "f8a0710efdc23d97977656c5f1da71b739c89564ffa86acba83ca91c38bc62f8",
+    "links/Mishneh Torah, Human Dispositions.tsv": "52a1555bafe868d4b1134cc8030ddfbf225b272309d0ec069bd018d200fcd33e",
+    "data/Mishneh_Torah_Inheritances.json": "b54c2cc88a1a4f4a0c914ea28aa9f564ea43db383adf6727d332a6edbe037f4d",
+    "data/Mishneh_Torah_Kings_and_Wars.json": "b96950a45ce3b6704cf27d96137ee04bb3bfa37c06602e202489d6165a472ca8",
+    "links/Mishneh Torah, Kings and Wars.tsv": "a8a691255f0e1163cef2ec38f84065be28e953b3ece29925dafba73690796a35",
+    "data/Mishneh_Torah_Leavened_and_Unleavened_Bread.json": "5876ac3aedc0dedca64985a300eac35ed616437b4708876a620f6257a1f54a4d",
+    "links/Mishneh Torah, Leavened and Unleavened Bread.tsv": "0697e80254a718d29812bf32bd6febbb9a53d7c42709b14a00f3194443006f79",
+    "data/Mishneh_Torah_Mourning.json": "0a46d2ed9fdae6476bd6e39a073af02ceff97ff8a9355de25a0f047cbb75195c",
+    "links/Mishneh Torah, Mourning.tsv": "bdec3dfcdec155753d4d2e510bca498ed879143b3484b521dba5e5c8bbae6669",
+    "data/Mishneh_Torah_Murderer_and_the_Preservation_of_Life.json": "113a49746c6993b262e7f4b030c0e82c22a2d19e8c703e549f93e038c07a424a",
+    "links/Mishneh Torah, Murderer and the Preservation of Life.tsv": "b5126690974d1c723456736e0e639ce62f8c126aa6ae4daaffcdcf8f1de98616",
+    "data/Mishneh_Torah_Neighbors.json": "928e8306e818b2ebb1d6e031603194ffc11b58922144a9f9531de07882aebd2e",
+    "data/Mishneh_Torah_One_Who_Injures_a_Person_or_Property.json": "e51cbc6fe70df8212d57f6948ebeb9c659284bb9ac963953aa43474d472adc3e",
+    "data/Mishneh_Torah_Ownerless_Property_and_Gifts.json": "ad53bbba9e2e119761811f9e1f3351687ccc2fecfef38bc8ed338cce37e494f5",
+    "data/Mishneh_Torah_Plaintiff_and_Defendant.json": "0e7dea8e9e2e878318359947ac0b15865cc64571ec2644385337df7fa0ddd35a",
+    "data/Mishneh_Torah_Prayer_and_the_Priestly_Blessing.json": "0f85de94e6034d5b382f1c20646a4d97e2c13e446e3f61db045d9bb87a53a12c",
+    "links/Mishneh Torah, Prayer and the Priestly Blessing.tsv": "bbb6757e33b559d874811455cc7b5d164b7992361c416b5b5c08e11f9154461d",
+    "data/Mishneh_Torah_Reading_the_Shema.json": "c3c9610afba5c5a2f17f3e0f7a7343c6185a9ceec38edeb188ce0eb2ab6f9eae",
+    "links/Mishneh Torah, Reading the Shema.tsv": "58e9e976ee2c804eb552d7923551308c8023bb453774e99c71eecdcd13c118ee",
+    "data/Mishneh_Torah_Rebels.json": "26a17e64cf4446e6e1fdd93a15f53b51a692d5fc82d3bd3bfe386f4bf12d6c97",
+    "data/Mishneh_Torah_Repentance.json": "cb4794d5324fa09a1c7c1526d48741a3a39f902d6d55e59f05fe6754b076713f",
+    "links/Mishneh Torah, Repentance.tsv": "9bf80e3ac8e0dfbb41ab1012b0afb3fe6087e9e42e2d8209b2e3da8251a0a551",
+    "data/Mishneh_Torah_Rest_on_a_Holiday.json": "50430106ef812dc1b0637cf2256a654a88b7a2594b07c028d4103172766e48b9",
+    "links/Mishneh Torah, Rest on a Holiday.tsv": "62c542c466efe97d4a9256e6400bd911d867da8996e6eed7c1c217b689eff7db",
+    "data/Mishneh_Torah_Rest_on_the_Tenth_of_Tishrei.json": "70b78b17c3e9c0d55d6c5bf572ca5c6decca61598777d15af240a6644a30fef3",
+    "links/Mishneh Torah, Rest on the Tenth of Tishrei.tsv": "a01d2b75a95beff08f90e9c277c2a9222fd187b5b9d6ebd26cd02bf6b0a48576",
+    "data/Mishneh_Torah_Robbery_and_Lost_Property.json": "bc40f0571d5007c40f13d1a62e60667683d1eebb98aedc756bce7d2275bbb3c9",
+    "links/Mishneh Torah, Robbery and Lost Property.tsv": "c00bf3667e78276a917521e5697f2c60cf78ab7c9ba36ffc9572fa8b545b1097",
+    "data/Mishneh_Torah_Sabbath.json": "5fb0e4b4687b84fcc3236d411c8f9451531c83748ab0adabe89c19aa663c1f66",
+    "links/Mishneh Torah, Sabbath.tsv": "12374a8a0b67ef166fd71296d2ede13e548d5d9ca17add5534326782f5d82331",
+    "data/Mishneh_Torah_Sales.json": "c292d01428137961dd3db0cce92ecc6854f5156a2ac2a19e05423e26813ef314",
+    "links/Mishneh Torah, Sales.tsv": "7e36783c14b3d23731bd01bad676f1920b968379e99510b9d087ed8dea06ebf0",
+    "data/Mishneh_Torah_Scroll_of_Esther_and_Hanukkah.json": "b08a5e3efb96b85a5d5278aaae202f111363e6008dd0295cff3af7ff7b325fd1",
+    "links/Mishneh Torah, Scroll of Esther and Hanukkah.tsv": "5bd524d2a361d7f4c64ba312b1858c2f218981088596cc57ac366094228d99b3",
+    "data/Mishneh_Torah_Shofar_Sukkah_and_Lulav.json": "0de139e990ecd36115e9f1a218feb6a4709fb4e932f0a360855b1cae64fedc99",
+    "links/Mishneh Torah, Shofar, Sukkah and Lulav.tsv": "ef0635f8964e461cd4ad2b38cdeb7c55341dc818cd7b6d1463aaabf33f24efed",
+    "data/Mishneh_Torah_Slaves.json": "f10a738150405b5ce30eaebf04e497d95ddc76fd61f786e7a58f1e6bc2d40261",
+    "data/Mishneh_Torah_Tefillin_Mezuzah_and_the_Torah_Scroll.json": "d36e1c2506756032dcd6d57f89ae87f203b0df95abe59065cd40139dba7506c6",
+    "data/Mishneh_Torah_The_Sanhedrin_and_the_Penalties_within_Their_Jurisdiction.json": "410dfc5e7143f4dd41f2b7cc11fe3c230774df43dc7c8069c6ff373391854252",
+    "links/Mishneh Torah, The Sanhedrin and the Penalties within Their Jurisdiction.tsv": "123881bf5a447aa63a08e882cf49282226aef8c7891e1c47b8050c76483f2384",
+    "data/Mishneh_Torah_Theft.json": "3937802fba56e524f92a2f111119a4fad8f60929a591e97ed3ad2d0562a5cb32",
+    "data/Mishneh_Torah_Torah_Study.json": "2273dbcde562a77e648da7797bf74d5696078aa85ace2220698a391fc80b8ace",
+    "links/Mishneh Torah, Torah Study.tsv": "2138045988e5207d11d34800073310753932aed1041290ce9f7ff1c4cbed9d09",
+    "comparison/safran-sefaria.json": "5e849d1e3755db80ec5b0fe2ee2abc83088bf50a58c583ce5805d089d6b75d9f",
+    "portraits/mandelstamm.jpg": "aaf81ff24cffd8c32a003ee0ee71a644583215c00c6070bb34e63b521a6f6f9f",
+    "corrections/kings-and-wars.json": "09ddf475991eefa8b94dddfbe9509089efe97142135be1d102080aa90670db97"
+  }
+}

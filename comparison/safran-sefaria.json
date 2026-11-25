@@ -1,0 +1,2235 @@
+[
+  {
+    "title": "Mishneh Torah, Forbidden Foods",
+    "selected_source": "Safran",
+    "sefaria_file": "sources/sefaria/Mishneh_Torah_Forbidden_Foods.json",
+    "different_segments": [
+      {
+        "ref": "1:3",
+        "safran_sha256": "9c7bd5fcaba9bd023185199dc8a353a55edd4def0b1b573aa2af019e3f37bda4",
+        "sefaria_sha256": "9f6868ce669e162f2b815bd0c1cf07aa33e894c12aa9932e4e644695533c61cd"
+      },
+      {
+        "ref": "1:6",
+        "safran_sha256": "8a32892e74c2633a4f7b1b9f177993e011ce9935d4743f5c38992105744a6ce6",
+        "sefaria_sha256": "9d88355ac5e9f1cefd0c52c18f205e6f39390d657bc100837b8df087dccfe899"
+      },
+      {
+        "ref": "1:14",
+        "safran_sha256": "721a4bb66547072d1ff6ec67eef2bf005e2b01ec204be2893d92724009faed0e",
+        "sefaria_sha256": "379d30f903ae892eb9480742c4d4dd724f037a9a208ac23d16d43fa587768a07"
+      },
+      {
+        "ref": "2:3",
+        "safran_sha256": "76f4f30d1c26ae6f57a0c7698447cafa4fe194ab3310d9349ceeb645855a17c2",
+        "sefaria_sha256": "7e4b2254029a34974979f1514d336562066169b44a576652baf5b216a9912812"
+      },
+      {
+        "ref": "2:5",
+        "safran_sha256": "8a6244794ef97670d8634bb56fcc11e3a58f64a48187a084d7d1db4ff1ba046e",
+        "sefaria_sha256": "c14a326f245b3ec30b45d3b6258aa4f4feb4962c46eb3e427bd9bf218dd108e0"
+      },
+      {
+        "ref": "2:8",
+        "safran_sha256": "4ed10c24caf1d65fbc3beb60d46dd4a03874676783d9e70bd3a583b3eab544cb",
+        "sefaria_sha256": "e343d471d5fcfea95f795679b7f04296d83b1a7586dc9b798f6bdb72738d0740"
+      },
+      {
+        "ref": "2:24",
+        "safran_sha256": "177deca7d70f7e40921a7c8f14a3eb1f2360c653ecb77f9d12b45e82e02fe494",
+        "sefaria_sha256": "bf01640ba5f740464d64759f2a74c940a16f11c3359a4e01af9392a0cc9f40fc"
+      },
+      {
+        "ref": "3:14",
+        "safran_sha256": "c839d7e9b76edf9def492617236abce7102af908c5581380963961647d5c0910",
+        "sefaria_sha256": "a8b0984cb7541ebf6e133fa9a4576fa5033dbbde261b5bce77c6d2f7570efe3c"
+      },
+      {
+        "ref": "3:15",
+        "safran_sha256": "94d3a34a860402513a5257a8d5017edaa77df682af849653aa67d3d6fdec4f51",
+        "sefaria_sha256": "601cf0764c88e5c23159a3ba3f69fb2fbf13bd3989eba18ea3292185c8fe7d8d"
+      },
+      {
+        "ref": "3:20",
+        "safran_sha256": "23e00e68d36b559c4d90061e74ecc0e02e4aaae820b017b572573abdffdb02c6",
+        "sefaria_sha256": "c2c6a1ac7289877f68022e3d628c6fb6938a91489d6cd3eee1f640e5f73cfa64"
+      },
+      {
+        "ref": "3:23",
+        "safran_sha256": "b306c2f2159ca5533a3f2110fb3f3534aefb55e9328684f1337e2161970b4092",
+        "sefaria_sha256": "7c47b63cfb6cd682ca76c630f62e0a65235eb7339b8399cc638cf5578e7a4734"
+      },
+      {
+        "ref": "4:7",
+        "safran_sha256": "a343841e7dd382cd72ad20d3c8ea730bc8f59d00b91ce87661a802f0a1049eed",
+        "sefaria_sha256": "a02ef87bed96d145d6a4274e80f8d31538c0a503ceebf572e8c0da4c613b7ddd"
+      },
+      {
+        "ref": "4:8",
+        "safran_sha256": "13d2198fef8bff3144a38bca151fb3f7d2e084d4537722d0befbe1adb648b5fc",
+        "sefaria_sha256": "7e31f0aeab3aa8d13ca47255089f3a9b9cc479a3a4e55325835e57d9aed3fc1b"
+      },
+      {
+        "ref": "4:9",
+        "safran_sha256": "b813428f5caf6fed57c5f54f9d3638b8923c8e20b2d8b6b374d9f444318f56f5",
+        "sefaria_sha256": "a5d38542c9011d3d7014dbd67589bfbecf6bf19317be82e80ba1bf4c0a82c74f"
+      },
+      {
+        "ref": "4:14",
+        "safran_sha256": "70c3372862f9089072be3deb6c6f8170a7ac5fa71821cfc5a2d3437d623f72a1",
+        "sefaria_sha256": "9d374f3f39717e73e003262f97905fc07f50fca1a54ba667094408150a168a49"
+      },
+      {
+        "ref": "4:20",
+        "safran_sha256": "c6c66e7776b0f269292b22c79835c0ef049921c21bc840837ba29c6451f4969f",
+        "sefaria_sha256": "ccaff5153b19ae91dca504725ca54bcf6a761fd340040370079106213fb749c5"
+      },
+      {
+        "ref": "5:8",
+        "safran_sha256": "c8d2e5a6ba4b7e50d0958a06c25f7b642b9f3038713bc7d7cc0eeaf6f559a1c7",
+        "sefaria_sha256": "568cf4d3a9b04b04380ad09f1db3455b46cc29cfbf1920d53019847b9f9f2546"
+      },
+      {
+        "ref": "5:13",
+        "safran_sha256": "2e01639ca3c11f71b72860cc9d0953c038d27a14cc9d84579ac2361ec30b7787",
+        "sefaria_sha256": "380389d57a82f559fc565bd2c855436d62abe9ff668a876c01d4c10febd7fae3"
+      },
+      {
+        "ref": "6:2",
+        "safran_sha256": "64811bc26ab7ace5dfdd8ef34246cd420d3f4f03a11c0a4fa54fe31d30235000",
+        "sefaria_sha256": "795ad3c9348aa389fe0503d9f7fa141a4f353206195896b4052ff9f6a3a8ae21"
+      },
+      {
+        "ref": "6:6",
+        "safran_sha256": "4c8e13daa09cf054b9c209af4c59718a38659b9908482585a72014553a6ae41f",
+        "sefaria_sha256": "3630b3e770891c1dd98d94bc7164ba6c0cfa416124374ce0a8fcf9817c537c1f"
+      },
+      {
+        "ref": "6:16",
+        "safran_sha256": "7a8833b10f04da34097fe0f8da40c18d3b25915f6471a73a79c782eaeb563cea",
+        "sefaria_sha256": "8321b1c8122decb583937a0fc4c2696102da4f92a26c9c31b9b17878d3f7ba57"
+      },
+      {
+        "ref": "7:1",
+        "safran_sha256": "ac2413cce8f356052c4e6590876d5e5d90315814d43628507514fd5ba6cf850e",
+        "sefaria_sha256": "edffb97114b16bb1b2094799c15142864e6472cca88ed4d9e4afbee478f8f25a"
+      },
+      {
+        "ref": "7:5",
+        "safran_sha256": "134768f3f679c7bc17a45d761285305bda8c549b1c554a486a9d154999aff7d3",
+        "sefaria_sha256": "e61c58f1cb2d6252dbfce02ad1231baff26d555726020fcc70575366a00be7c1"
+      },
+      {
+        "ref": "7:11",
+        "safran_sha256": "2c08b8f12528b27864889ac0a23af299515ef675e1b52c1ee8e6f3d639374bba",
+        "sefaria_sha256": "e53c0c29a95d24652512999c30c84d81616c7ce08e22896e25eba20be29b7d2e"
+      },
+      {
+        "ref": "7:13",
+        "safran_sha256": "fe0642d69bf922433bdee784a6415a7fe3173da8d840783e9af3847f5fa8dc9a",
+        "sefaria_sha256": "ac84f573c30f8077bb2bb1cd8e6873f8d2b42f75f04815feb8c2b58a36387b94"
+      },
+      {
+        "ref": "7:16",
+        "safran_sha256": "a61bc905fda2edce6fcdab43b36a84922ec1acbd43b65d11725379a5dce1e031",
+        "sefaria_sha256": "42c3bff6ad1c13f5c420e543c3610b9639bd327e29e270a52ed78c0dcaa2e380"
+      },
+      {
+        "ref": "8:4",
+        "safran_sha256": "1232bb60a0af42f26b82f04c0a3217f424a9cbaafe7bf7815c432bb5061c371d",
+        "sefaria_sha256": "6a0a444b9c36976ca2cdfc8628a3f758030cfad3dc711e423e4e55024c5b39f8"
+      },
+      {
+        "ref": "8:15",
+        "safran_sha256": "252f819f3c318fc352989a7f687cf28a25534ecda6b5f33b9bffb4508fdfba22",
+        "sefaria_sha256": "6c17adbb1021276002b60b1edb0b8695e94a23b67cbb344bee9e5f3c84bffe29"
+      },
+      {
+        "ref": "8:16",
+        "safran_sha256": "e6a246846944f6aefa12df6a870168c84359b3ca1addb8bb3db592df6492f23a",
+        "sefaria_sha256": "9c9df6294617a37cbeb5b5fcce9b6393e970421552e37235061e0f81d6ff5a33"
+      },
+      {
+        "ref": "9:26",
+        "safran_sha256": "84fc5135f98b32b4822366c68b05884de2d5d61e693f1995d41f015c5d4de32b",
+        "sefaria_sha256": "ad47156d0de13d626c468a7571951edd0f932efe82d355bbc12e009a80539759"
+      },
+      {
+        "ref": "10:5",
+        "safran_sha256": "986dead9329a9250258c131ca297a752bd146ecb700ef984a5795786585b04b0",
+        "sefaria_sha256": "722fd3cd7f8af50e743b95772df1a4ac713027a7030ff895dac534f5d1feb50c"
+      },
+      {
+        "ref": "10:17",
+        "safran_sha256": "d058133a0a4527cb396b68639ca27a7f81208febce5db4d29882324b2339a9a2",
+        "sefaria_sha256": "e1a5ded5f426336c70ad383e95b57c86d6aeb6b988f74eb2dc7311ee6d872950"
+      },
+      {
+        "ref": "10:19",
+        "safran_sha256": "7567023cac0ed0c39df1c3c6beeae824c49bed875a75f8905a78d52b98c2cc74",
+        "sefaria_sha256": "06953f91f4f348262dc600e975be13ccbfed197149eeef33d1c2c87ee82676e2"
+      },
+      {
+        "ref": "14:2",
+        "safran_sha256": "ca3499909000ddf511ce13a776dfc0a1d7480b68f508714e2ef5042099ef3d67",
+        "sefaria_sha256": "a6986fb2c423128a42032f4365880268bc563f4140aa5773fee3d15d5902798b"
+      },
+      {
+        "ref": "14:6",
+        "safran_sha256": "bace8514fbac47a712ff95d845fbc080b5db73472b01f1feef66d8be742e7653",
+        "sefaria_sha256": "3397c7023b057bfe63fed2ebdf79710935ceb44eb3ca5ffb673cf6cc48b0eccf"
+      },
+      {
+        "ref": "14:17",
+        "safran_sha256": "88282b66704bcec648b6a3e2c96c51e059bd8b4668432d3528a0bc10ec362dd9",
+        "sefaria_sha256": "c07d91b770227f49d0e2567db8ca08451e190080830b5b4f0bd685c84b92814e"
+      },
+      {
+        "ref": "15:3",
+        "safran_sha256": "685a056ba41f59f2399d5a6ab076c81af25db2fae066d685db59d00642ac15fc",
+        "sefaria_sha256": "cd8c10ac4d90a38708db02149f08568ef5ce1688d599568376d35f622510a9ac"
+      },
+      {
+        "ref": "15:5",
+        "safran_sha256": "c21d9610242fdbfe4ae98069bc887a2b85a78941682582bc45b513ddd24a538f",
+        "sefaria_sha256": "3b0483bc0a2e02d79626bf8cc56051009ebe9819c9400fe8878f0d0ef06910a1"
+      },
+      {
+        "ref": "15:10",
+        "safran_sha256": "8e9409a3e6109de3ee70fa180d35165d2e2588f4dbb37f2bc7613cf411957493",
+        "sefaria_sha256": "7001f262fde4d21731bce0ea1bf84ed3e30c5492a7bf3d975cf937178ee94c67"
+      },
+      {
+        "ref": "15:13",
+        "safran_sha256": "d5a1aecb0909970547491be325c2900596191b43f464e5e2c912c1531f740a4b",
+        "sefaria_sha256": "5a03a208397940c174bb64196ee1da8d003c68d6683e1d54c1f4abf7739eeb8c"
+      },
+      {
+        "ref": "15:17",
+        "safran_sha256": "3a3aa59cdbeb3420ceea19026afa9332182f822da414d3de911098974f8c981a",
+        "sefaria_sha256": "eefea9fa83aae506abf7d568d168e2a895e4e9cef02522f892cd544851ae659a"
+      },
+      {
+        "ref": "15:22",
+        "safran_sha256": "82e2437ae41f8aa9608b4acd05b6e08fc3c822d68997f3aaddfc77992dbac5ea",
+        "sefaria_sha256": "5c6450845bc4e26d89d338d5ab5f0a2394083347607ef08db34731c6ba1cd158"
+      },
+      {
+        "ref": "15:23",
+        "safran_sha256": "fc32e245d318ca86be789f648120a65b36863ba156e0c967bfd53a5fae27d377",
+        "sefaria_sha256": "c9093b178e892fb2883dbb0cae75e121ed8ceb7b2b1e19adce09125be527eb46"
+      },
+      {
+        "ref": "15:28",
+        "safran_sha256": "d778b8ff20145160500130a4766e8c41b48fd765140dc30b033c99be86c553ac",
+        "sefaria_sha256": "7ae90a7acde7887e4510db31fde519ff5808789cf6c5a553088d77d882b90adf"
+      },
+      {
+        "ref": "16:12",
+        "safran_sha256": "fd2dc59401deac05cb13cd23e1addb09945754f23b2e4e8d7d08558d66be449b",
+        "sefaria_sha256": "423ddd76d2e8e952b00ae47283ab8dfe55d3f4658f0b1be12b0ef37586bf9677"
+      },
+      {
+        "ref": "16:13",
+        "safran_sha256": "9ee0b104a2d096bb903d242d31b722373ffc813df633a7c1e272bb5c86db0030",
+        "sefaria_sha256": "c3dd296a6e8612e35dab51cf2d03bda364210f21b78859d879448587e1cff725"
+      },
+      {
+        "ref": "16:17",
+        "safran_sha256": "12a9b4c681be346e1885da592475b66370d9e1490bdef4387ab14c56646df462",
+        "sefaria_sha256": "e45296d2cae2a31fdf141d5c1115a437d8b74902c91e1440b85697a8c624e936"
+      },
+      {
+        "ref": "16:19",
+        "safran_sha256": "02374427ab772914b7587a340fb9b385bb1cbf652261bef1ea55ef035be4e3f7",
+        "sefaria_sha256": "2bf697bb670853e41b54ea191f029f138b98b18b9964aaf7daa31a8c500cbf23"
+      },
+      {
+        "ref": "16:21",
+        "safran_sha256": "31073e2eacbfe0abba3909bc72a337ea1099ccbbb50b48e8d18576275c69526f",
+        "sefaria_sha256": "829e95921eb8ec6988f82234456a8bcad55fe48114fbfa96c65d060898a523af"
+      },
+      {
+        "ref": "16:22",
+        "safran_sha256": "05068cd961ab4f00e7a577527847b6839dd6cb37bafb702d0a6531761210eb40",
+        "sefaria_sha256": "cba91692085919e468d52f413ddb6f484e1ae70496a7cda33804fe53a79f2460"
+      },
+      {
+        "ref": "16:23",
+        "safran_sha256": "658c589d1294ddad1790660b2e3628edf64882c39e064f1122195f47adc54b62",
+        "sefaria_sha256": "097139fce56e75da036180fe1af9b4f8e027b29baacdf61a4d0d28579960876a"
+      },
+      {
+        "ref": "16:35",
+        "safran_sha256": "5854b907e488beb990b1a304940c21cb92a379a2f2b5f31e2c7e1a730c9cd99e",
+        "sefaria_sha256": "4420a3b53ef86348ddf7d70a41595f4b00e5206abf6486f9dd016249ba91f1cb"
+      },
+      {
+        "ref": "17:5",
+        "safran_sha256": "69733164cc3df2cdfcb158dc5529da7b4164958ea5317e7159bac96cadd93a20",
+        "sefaria_sha256": "3199fee0ec08028bfa22a0af6c5749f8b63867927b2ab8f69fd5237d19bc6fdc"
+      },
+      {
+        "ref": "17:6",
+        "safran_sha256": "bce63daeb52d7bcd0b8685d5cf5a3c854f1f084580d7bf638e98cef1cafad49a",
+        "sefaria_sha256": "ce996637c8919949835a32df12148859568108eee0d4946a719f764b5f59c4d6"
+      },
+      {
+        "ref": "17:9",
+        "safran_sha256": "fb9b74550bbd91e320afe809f2026731afff9f2f8b61b3e566bbc0105d0a4572",
+        "sefaria_sha256": "17e8fb74887a23678c358b01467b5311f46a5f3ad43d663de5323de24bef316c"
+      },
+      {
+        "ref": "17:11",
+        "safran_sha256": "37c9da7fcd445e4070078f3978fbb0d6748d1f37215ec0ab60cbf9d2c192891b",
+        "sefaria_sha256": "3a2dfbfe3f92aae495128dbc393c7052a172e871aeb5d4060d89cde42c4d70ad"
+      },
+      {
+        "ref": "17:16",
+        "safran_sha256": "d58e2f3efdc7ebc011c69c74ca437c1e5a9f47e4ad81c7cfa20d6834fd778625",
+        "sefaria_sha256": "9feb7192ff284382843e2934657d39052c0da2b0666fad40c7c8e7e44a4788de"
+      },
+      {
+        "ref": "17:22",
+        "safran_sha256": "8003665d9cf291a10a516a01717f9a97b49fed14d048615198541dab2661142b",
+        "sefaria_sha256": "87c0fcfc0c13fdd03ea0c1a458a0b93ac1ab978cb0156edd7c6b2ff47ae38d1f"
+      },
+      {
+        "ref": "17:26",
+        "safran_sha256": "c931b57e902020220cc5055867e178122f2263a87ab62792c32a787813d1b751",
+        "sefaria_sha256": "516996b2894c8b0c59c478912b245a7045df7f4c91c9ba1ab2807b9ce8e141a0"
+      },
+      {
+        "ref": "17:28",
+        "safran_sha256": "82dad8317dc0f6eff5107782f9d46f82710f8d16719d4bcf73d08380a3a97c1c",
+        "sefaria_sha256": "06c554811c663cc9a60999af4b7fdd3fb9b5e25f99112b58e4dbb192d9596b29"
+      },
+      {
+        "ref": "17:31",
+        "safran_sha256": "4e1bbb12ae9e869c30536aac594791adb68e587181c149830d636bcb31f131f2",
+        "sefaria_sha256": "66fa84b8b171085f7c4e1aec38774afaf761456556bd68840e777b53a94977b4"
+      }
+    ],
+    "sefaria_only_nonempty_refs": [],
+    "safran_only_nonempty_refs": []
+  },
+  {
+    "title": "Mishneh Torah, Foreign Worship and Customs of the Nations",
+    "selected_source": "Safran",
+    "sefaria_file": "sources/sefaria/Mishneh_Torah_Foreign_Worship_and_Customs_of_the_Nations.json",
+    "different_segments": [
+      {
+        "ref": "1:3",
+        "safran_sha256": "35fd5caee31ebf2845af3a30fa5621fed72043fac3da07f301e8c8049ca5f010",
+        "sefaria_sha256": "4f0a48e0c5f5c08b65c5ab5df61105b3ada9703ca19fbc9716013e87d9958d8f"
+      },
+      {
+        "ref": "2:1",
+        "safran_sha256": "fcd7697327756bf18083359f5792e40f61b3c89224688e2327855fddf0c327f4",
+        "sefaria_sha256": "6e82ea7a4d728f6986337c492062252d1890eedc5df9ddb7b53c98809c7c707b"
+      },
+      {
+        "ref": "2:2",
+        "safran_sha256": "edf1243300105db5ba75d29e9c766285a5cd1a8067dca9af96a2ae5ad6fee7f5",
+        "sefaria_sha256": "853c00372bb0bd4c76dc2b181668dc3fd573b2b765b36c7e4bf2f54bac86d797"
+      },
+      {
+        "ref": "2:6",
+        "safran_sha256": "868bd5cc12a4aafa71da6c5f549fb61b7a17051fe76bd9a42b762e2e8656a86c",
+        "sefaria_sha256": "3656efe00ae36adce309e3b8a5a29c514eeabb1e59710de2223d56e2a9c45613"
+      },
+      {
+        "ref": "2:8",
+        "safran_sha256": "d4eec8cb7ac528bfb6eb613cd7f64e24d056241c2d2d7a06bb1898a0c394e712",
+        "sefaria_sha256": "e1304a72b615d12b2e3bd532f23bd4e9a7328924382b1a2d41fdad2decc9484c"
+      },
+      {
+        "ref": "2:10",
+        "safran_sha256": "aec7b3a23386a911d13e8680037b378e5083be6963984a81cdb3d1fdadd63894",
+        "sefaria_sha256": "e8ee61557529b947da66f1a79e94ff10cb418aaa1aea9768377dd6415e871148"
+      },
+      {
+        "ref": "3:2",
+        "safran_sha256": "2d75c16413ffd957eeef1434fa42a5984fd3782534585f757ddf03839ead4cd5",
+        "sefaria_sha256": "a0a15bb516f5e9a95ed493dc75c5676a58f55e3e488ca547eaae0dd6676350f2"
+      },
+      {
+        "ref": "3:6",
+        "safran_sha256": "8ccb05d56061057021a6805dcaad08298fa97a8a8b8549068710fc8304479c80",
+        "sefaria_sha256": "34b52330fb390e457a0ed8f444303a095af948e4e9c88e63294c2f726e9d4062"
+      },
+      {
+        "ref": "4:3",
+        "safran_sha256": "4c6b3b2840fd8b5ff3e9151425f798e3080d7e8c8c7762fb5011ef4018478e4d",
+        "sefaria_sha256": "b8c9e4664698cd51bcbf55e98af2448275edf8479e3d7f537c6eac26006b3fc2"
+      },
+      {
+        "ref": "4:5",
+        "safran_sha256": "e45f1951481bf0a5c84963ea9ed489d448f819ff48a004dce8b2bab3c70fbf4c",
+        "sefaria_sha256": "4ac618e02eb8824917caf0448251eb18cbf8eaf7bf3e535ec70263d3a0ae8087"
+      },
+      {
+        "ref": "4:6",
+        "safran_sha256": "f999dfd468152b10a21de483ec918887fe9d58728d0e41f736ced6f9608b8487",
+        "sefaria_sha256": "6970f75abc29a5e8913a11372804d872717d0ed1102fa5b6111375bbf0f5d9b6"
+      },
+      {
+        "ref": "4:13",
+        "safran_sha256": "fdcc1e5a6d2508d33a19f952f926ad6b2d226b9adacaf40107df5c3c1523ad63",
+        "sefaria_sha256": "ebf351bdbc390d8a66b8c8835d2a958580a6e39e05dce675c5984c19444e2234"
+      },
+      {
+        "ref": "5:4",
+        "safran_sha256": "93047c8ea2c53d6007abc5993c71479f0f89eb302c7d15353facd31d06fbcb58",
+        "sefaria_sha256": "45076b0fe98d748ceefdb7802db1fc3911dd48322389e23b93909402a1715be1"
+      },
+      {
+        "ref": "5:6",
+        "safran_sha256": "8769c4ffab567ee3ad21f60787acf0ce76e80ed3adba9050eacef3269a3be357",
+        "sefaria_sha256": "95df60c0ca5fb9fc9f92c9140ae4a4ef3a8bfc3b8b3e8f45111fb66e0121024f"
+      },
+      {
+        "ref": "6:3",
+        "safran_sha256": "fcd0d09b0c1b3e23d376b81a19cac3d0e30083af00363eb94f3d63a2da580855",
+        "sefaria_sha256": "0bffc8b8b20a3217e3504209e61f2cec0ccbaeebbc4539abc8e365787332a956"
+      },
+      {
+        "ref": "6:7",
+        "safran_sha256": "7ced7d47292302bb43d14671fc2bddb6d2b844874d53da380c2259062dec21e2",
+        "sefaria_sha256": "854f2b8e1d86a5489fc38aca61c1088846de6bb6e01b61f6601a2163f00a0145"
+      },
+      {
+        "ref": "7:1",
+        "safran_sha256": "e52543bb8c6f36cbf7358c1c6ac95a0376c68b8641be72d31927484153a5ef26",
+        "sefaria_sha256": "e862172c4f25866f82b5ac3ec040e39df617293f71fee8cd4d40579ef257e98e"
+      },
+      {
+        "ref": "7:5",
+        "safran_sha256": "13613e067d7229388bf56c4cc192b2725a409adb802268f589228c4a099da599",
+        "sefaria_sha256": "5e80384419ff00cb7da3c5bb8f239117cde21031f315794064380fd4fe43c172"
+      },
+      {
+        "ref": "7:9",
+        "safran_sha256": "dafac7ebf845e1cd38a6810741157bff574599bb203ce6a141ca63ee7fc69cb6",
+        "sefaria_sha256": "32a022a8985a0fbedff25498b7574b85fc183f97376b2407c0a4bc57ad3a39d7"
+      },
+      {
+        "ref": "7:10",
+        "safran_sha256": "b0ed52fd5941df7ff3798733259b56a83fbdc022592b358193003ba5237740d1",
+        "sefaria_sha256": "933a8e82d4719481b9958dd1ba526942adcf217746de52716aec5c2d306e8a78"
+      },
+      {
+        "ref": "7:13",
+        "safran_sha256": "94e25a7f13095b03067b03e71997add430700e925dda55e0fa9f5a1b3e1235be",
+        "sefaria_sha256": "6c8bb59b2dbc12d1cb34717f115333aaf75c42460d9ef02bdb9546d3cc34fe09"
+      },
+      {
+        "ref": "7:14",
+        "safran_sha256": "f5db8efc2bfcb53778a6ee1523590416d67242a81f8b08663886b70866f19829",
+        "sefaria_sha256": "c801836d13fa0aa32681f87552bd25ca170cade422d10a53da88c883b13261fd"
+      },
+      {
+        "ref": "7:16",
+        "safran_sha256": "c3fa629501f402904b31353eb668b24ef0a12f66cc99362afac0d8bce6283e71",
+        "sefaria_sha256": "764664e2fc95f4c793f9b4b74e51c7e390f506c5cffafeffb42c7cf7ab7701fd"
+      },
+      {
+        "ref": "8:4",
+        "safran_sha256": "3cea2521126c0e2ae74086f5f44be504f40201f6499b3667c141d244f8d619ef",
+        "sefaria_sha256": "b03006b3ab1c7fa9c5a822a13fbf1e785fd6b66a93ad5780538671401f17be3c"
+      },
+      {
+        "ref": "8:5",
+        "safran_sha256": "fd6b7cb4361fcfd4fa2e2aa8759c63122d70c18487f3c345bbac9334a7494531",
+        "sefaria_sha256": "21d8d0846a1cb5932c226ce970ee648700a11ba2a2124ee9984395f73c05c68d"
+      },
+      {
+        "ref": "8:6",
+        "safran_sha256": "49783d11e393f1705f4fac052d87a827ad95c9138a7af83506162ceaa97c470b",
+        "sefaria_sha256": "656202511d58ed4fe32bb02e9a706975105a34e3d3b2e4b24d1751beb03d6e23"
+      },
+      {
+        "ref": "8:12",
+        "safran_sha256": "088db81b12e9c1e824fa977f01b4694909db602e2ad80ef9226e294d338734c8",
+        "sefaria_sha256": "33347de4d514c1d28ebc5d78a9a96a3a626fadbe0a827e0eba47d01ad9adabc4"
+      },
+      {
+        "ref": "9:1",
+        "safran_sha256": "c0100091830c8e12932262b28c70e39d8e2801f3af85b187dddaa4d722ce772a",
+        "sefaria_sha256": "584343a595da6e79dc7f57b9018d8bffe2c74be73d7d607efe1d3b5e0e4cb8d0"
+      },
+      {
+        "ref": "9:4",
+        "safran_sha256": "fbd81cc3cd3a10ab2c43ec2c0dd5eb8c0f8840d7a9ec42f4d9fdb7ba6f891484",
+        "sefaria_sha256": "5119a75e55c2e3500957883990b998f42a0ad986798a9f63459357798b5a2ba1"
+      },
+      {
+        "ref": "9:5",
+        "safran_sha256": "6071fe50dc8036187c6a02611aba232d317b361146e9ab75169fcc1cfd8d0e4f",
+        "sefaria_sha256": "ff9ee33f61168c50c8d93ecfd07a7924ea24ebdb49fb3904e200bf153b876942"
+      },
+      {
+        "ref": "9:9",
+        "safran_sha256": "85ff70a0f0947185f0265adbd17eec1191f3a65cd24b36278d0ca990edc6edb8",
+        "sefaria_sha256": "233a68dc4e0d86240696447096370c4fbe9d21c2a86b887742c447f06156e243"
+      },
+      {
+        "ref": "9:11",
+        "safran_sha256": "8ec6ce186c61d6032b79a250e093885bac08187a57a48460adaedd8fb791a7e0",
+        "sefaria_sha256": "3a12c5647a4c3bc5d59b7b8be7d0de21c3fc87af6cc73ad62a42f61f0d379f85"
+      },
+      {
+        "ref": "9:12",
+        "safran_sha256": "c3fd5bcef11e0b922e758cd57426119ae1b60f8a34f6a954c532455874cd3d0a",
+        "sefaria_sha256": "d307aa87d918d647e2887719981d6a4c84bd8cabc5b9119df9b34eac2970be96"
+      },
+      {
+        "ref": "9:13",
+        "safran_sha256": "f44e8e554b95d525b5439b2c775cfd90633293118be41bf1a12c3df28fe0a6c3",
+        "sefaria_sha256": "ca6117ab05848d769ecb57b688d81f412332c907f033a181e6a38a577100717b"
+      },
+      {
+        "ref": "9:14",
+        "safran_sha256": "cb2a6346d7d2b0360bf679c61415234745962b92396da6d7adc2160b00e1a9ad",
+        "sefaria_sha256": "762e1b169ca26d1e2ac139309d8e702e3fcc48e053f72b1c7cf0eb5ae7d6240c"
+      },
+      {
+        "ref": "9:17",
+        "safran_sha256": "3595310b42494af6da116b57c56487ded1ed8c2493a10466587b249a55e8a710",
+        "sefaria_sha256": "90ee71fe7d5ba1e208cc88062c71067b119b18befc6337577699ca33e60a2710"
+      },
+      {
+        "ref": "9:18",
+        "safran_sha256": "d09f3faec13a9c087a78ce724e29e6527d53a06b9b20868d3229b3006e57ff59",
+        "sefaria_sha256": "111305c25218699818392744949593b9913f4799c684315fb5272d6abc190445"
+      },
+      {
+        "ref": "10:1",
+        "safran_sha256": "4768783628105007932e242cdcc4ca5cab0813ac854273f8ca81ab05215f9c65",
+        "sefaria_sha256": "5a9157c2932f8656f2313d7cd1e00470d30c44ee879d759fdd0d1e82d9dbda92"
+      },
+      {
+        "ref": "10:4",
+        "safran_sha256": "6af90fbec779b7354a764c6e23fc5bed12595326c9f6fb009e60b970df34a2dd",
+        "sefaria_sha256": "fc7372dad3ee6c597bffbed1487a4eda16d87da85ed8ed6ccfe209d0ca66e028"
+      },
+      {
+        "ref": "10:6",
+        "safran_sha256": "04c4a2483862d4ee12596e8abbe922ad69fb6a8bf4afde62da2d09827c7b2655",
+        "sefaria_sha256": "63018b18f9006df7946085999ea4a3552d747055c3540a92d9ae3501b28afb88"
+      },
+      {
+        "ref": "11:1",
+        "safran_sha256": "aff54b64cf2fb2e55dbad03f760270f0fd8ca73d69f4c56d60465445edf83d4c",
+        "sefaria_sha256": "6e80b4ba1a5da680b9c1420435e7eeb06008481b9e331a7b9025dc614d449a5d"
+      },
+      {
+        "ref": "11:4",
+        "safran_sha256": "70a5229b55bafbc2a63b861a09be61c23311199575005d34dcb7e28eaa0fbb7b",
+        "sefaria_sha256": "7574cca3d3c2d78775ce5c4778760fe98b99e9efc4f3ebe0531cd70db105061a"
+      },
+      {
+        "ref": "11:13",
+        "safran_sha256": "e713bd501b61ad7ed6fb1c328c99ab315df6586ee0344ba3f6469c82b462ade2",
+        "sefaria_sha256": "d765212aba370985eb50c8f418a7c0e62a8487ba97d43a6b82caf729301d5570"
+      },
+      {
+        "ref": "11:16",
+        "safran_sha256": "3b8b16e5801866594317bd7ae49634034735f8e438d7e413e28697f2c1930bc2",
+        "sefaria_sha256": "f8ea7f3181f50ae1a1d648554ec664c455bf74be5f49288cdad0dacd4982a9d7"
+      },
+      {
+        "ref": "12:3",
+        "safran_sha256": "2c871f8fe1f4de6570c264df8ed58642ed858ec9f4c3df5a6512f89bc21130e5",
+        "sefaria_sha256": "24c4fac72159104acad9181afde73bd1be0fc45ed2b21a99554c61a6651e8835"
+      },
+      {
+        "ref": "12:6",
+        "safran_sha256": "a54ea7a0a05a95fe438945e430da83f608ef587cbc310f8c79117d6d687b455c",
+        "sefaria_sha256": "1460e0974897510443b535993be43f9b4cd750b36bc2e6253a891bf9a4366bbc"
+      },
+      {
+        "ref": "12:8",
+        "safran_sha256": "10db9aa43f4e672bc2bb6c5958d50103f83c1ad7d00999dad0fce927c59bce12",
+        "sefaria_sha256": "a23370dddd0521f43beecf08c91db9636d319b6cbfb5f06348c597fa184dd7cc"
+      },
+      {
+        "ref": "12:13",
+        "safran_sha256": "0fe1bb7b938fdf41a4792fc00fcce6dce9511eb4b4a8543897f03e6877b38c87",
+        "sefaria_sha256": "63fc20953d9652abacd4ff952c3fd3022707f8c9292c1b95917d020597dcec28"
+      }
+    ],
+    "sefaria_only_nonempty_refs": [],
+    "safran_only_nonempty_refs": []
+  },
+  {
+    "title": "Mishneh Torah, Foundations of the Torah",
+    "selected_source": "Safran",
+    "sefaria_file": "sources/sefaria/Mishneh_Torah_Foundations_of_the_Torah.json",
+    "different_segments": [
+      {
+        "ref": "1:4",
+        "safran_sha256": "b9045351897385cad765ab20fb6e89859815baf5bf4231f764373218c1184af3",
+        "sefaria_sha256": "4204402729dcc1081d49eebc66712f4e7c16de85457b530668c377039764b1ab"
+      },
+      {
+        "ref": "1:7",
+        "safran_sha256": "3c515e96a4ea0af16c327056bb055a6708dc37f4f563e75385bb5c35e5f5c675",
+        "sefaria_sha256": "59103ddef8abea470171d4372bff261a40fd4945d2900263e33220cbd9b389e9"
+      },
+      {
+        "ref": "1:8",
+        "safran_sha256": "662058f0a8e4cf82390e9071a1e4169d46def9333aaf3e13f5947fab5d587703",
+        "sefaria_sha256": "f31ee41a4a83757e1b3e959943ee17baa14ec5c3c2297214991384f0c95b3ff8"
+      },
+      {
+        "ref": "1:9",
+        "safran_sha256": "6a873333882294b5f8ad21342713122fd0056c6e0b33659a9c1a26ef003d9f08",
+        "sefaria_sha256": "790c3a2c6ad0d540348063092d353de087102cb6fa36bcb4be40bd62431dcf25"
+      },
+      {
+        "ref": "1:10",
+        "safran_sha256": "43e654d2cbd95d6871134b4e7f9509ead22ac53dac16e0febd1fb613b514adc1",
+        "sefaria_sha256": "6914d3df2077d028a3dd635f6e858ea2c137b28297c53f1d1fe27fb6597059c9"
+      },
+      {
+        "ref": "1:11",
+        "safran_sha256": "68bb7c43d9b3a2f28b9898fa11f0b4f7d0e2e753881c974f6a04789f7defcec2",
+        "sefaria_sha256": "9d27e759d73a583a2da73fc9c92960513ba93690307716719a7e393f3021dc6d"
+      },
+      {
+        "ref": "1:12",
+        "safran_sha256": "ef5da6cc33a21a9cc1518aaf18906a6cf5b82829723381ca5a1d7c51d9b4677d",
+        "sefaria_sha256": "6c90110a7aabbddced72073e058225b9debcaa7152db72f0fc5ef30141ae9b9e"
+      },
+      {
+        "ref": "2:2",
+        "safran_sha256": "7ec7354b44e28ea7f9c657b7d8ce4bc621695ff2e1334b58c778dcf81a7ec9b7",
+        "sefaria_sha256": "5041869331e8c2a524d1763658fdcaaf6e010ffe76e36ae728a6d85232f5bf27"
+      },
+      {
+        "ref": "2:5",
+        "safran_sha256": "e04b8899495b0a57100428fe1c4ba468baae4e7093747e34f8ddd9b53f0a5b5e",
+        "sefaria_sha256": "72e4013d9758ac97a177a781ace9d532505d78afcbb07c9c456e8802f7c8feb7"
+      },
+      {
+        "ref": "2:7",
+        "safran_sha256": "50dbfd7cc9befa0dcffed04872cac3b654dad9bfe6792666364b742f291c358c",
+        "sefaria_sha256": "aa938429f56be0a4fdbdb29c287593624e65e5ab3326add321312f1d52ffd416"
+      },
+      {
+        "ref": "2:10",
+        "safran_sha256": "919abaccec98c640c60e2822e892ba13e01938741369ebb1f5aaaed81399ffba",
+        "sefaria_sha256": "534d3d532af08e04289dbc991dac33a7599e8d47b50352bab939b2d469da1b86"
+      },
+      {
+        "ref": "3:1",
+        "safran_sha256": "3edfba912f002c0761beba48323ba84d6d111ecf8547c935008159c66ffbc2d6",
+        "sefaria_sha256": "1933e33e5d962b6a3fff1a0aa060f43929caef088f7e86ddeefd4b92104f9b01"
+      },
+      {
+        "ref": "3:3",
+        "safran_sha256": "dad2b2ebbe62c0a40102d2acfba0c35456ee52cab7502ed63787a3a0cf9ed55c",
+        "sefaria_sha256": "c880777f379e860b330edf00c69c194e51f981584336b28579f7adc6511dbbe2"
+      },
+      {
+        "ref": "3:6",
+        "safran_sha256": "d9dd1bfd3cbeed06b90b5158c104da05c4db28ddd5a9b9357dbe6e252b034a82",
+        "sefaria_sha256": "9ef03a947e2c5ce5205d72013ede505d51c8f691d6288048f6c10dd82a85e663"
+      },
+      {
+        "ref": "3:8",
+        "safran_sha256": "4873beed8d89ab083f195981e03396a555785c636a37e278b4027fcd7bfc9f90",
+        "sefaria_sha256": "acf61339bfa0c6e9b1549173a5d774afefc26f53aaae726578c62aaab851880a"
+      },
+      {
+        "ref": "3:9",
+        "safran_sha256": "cfc9c43875a5723982ce46cad29500a69452fe0407c19e084d6a2b46c74df0b8",
+        "sefaria_sha256": "f1bff8dafda777943aae45ec33f4b4cfacc4fd1159980a486fe51b209e646c0f"
+      },
+      {
+        "ref": "3:10",
+        "safran_sha256": "7a075f65e7313b0bfcc051aefc0d8e5bfd99797098a2ef9ddd15e42a6fbb7d80",
+        "sefaria_sha256": "7bfeb9806a8c4417ae8656cefcedf451100d0b050e80c25081c7461a45a39e86"
+      },
+      {
+        "ref": "3:11",
+        "safran_sha256": "7509f9ca8ba0effe642dc46a0745032b3426e7afe48d3bd796742de88da0c8f5",
+        "sefaria_sha256": "1d69e8844b2a846096a48d7c55aaf870822824c23931d52c7d88f5f801b569f6"
+      },
+      {
+        "ref": "4:2",
+        "safran_sha256": "3a96c4368c84b8b4eb30fad82c0bf3cca7a52fad4f78c873d9d26565e77e23e7",
+        "sefaria_sha256": "180c90356ec3c0aea418e65aa3632bea06117afb9e2204c72cf69a4234af1be7"
+      },
+      {
+        "ref": "4:6",
+        "safran_sha256": "31f65aeb6599554b6c292dc640c3f74eb6601c4d43ecb9fcda96fa1d07d035b8",
+        "sefaria_sha256": "5e144de980ee7c5898c3ee051cda91b84c03ece2ff09f0fbea0d16d0c8336c8a"
+      },
+      {
+        "ref": "4:8",
+        "safran_sha256": "0a714ae38b0598e5fca3868a66362256396004e120e9b20367c7f752750a0ee5",
+        "sefaria_sha256": "ae64bf91a35dd9106f7e612bd96ae3c98a62df9031e8901c0f27b53e462fcde3"
+      },
+      {
+        "ref": "4:9",
+        "safran_sha256": "c4be7ff9239e8194ece6e9b556870bf33047ee55fee21bcdce46be3b69fcd43f",
+        "sefaria_sha256": "b78bfdbc29f9853e030349e1eb8cb1e91ccfbfc561c157e54b81844de437f7f3"
+      },
+      {
+        "ref": "4:10",
+        "safran_sha256": "d47d5f3d940dc65c5dbe6ff15cddfa83b1bcc8f7bda9e08fd781091ca12ba627",
+        "sefaria_sha256": "dd03b94c60290b62417d02d0dff7dc9259f75afb5272a44c2c50b0dd0d56557a"
+      },
+      {
+        "ref": "4:11",
+        "safran_sha256": "fc0b0b125a88b05733d6c9cd61a5328c8362c289537d016afc282498202d4295",
+        "sefaria_sha256": "a0a4820da6235373059a8c66eda74ba5948ccf84739173291ddb16cfaed7d18d"
+      },
+      {
+        "ref": "4:12",
+        "safran_sha256": "1c5d24d56fb52464db984053568ef4659fa428c4d1ab1f05036b712f7fc2ec94",
+        "sefaria_sha256": "4a86c8b943eb12e37e7e3058c9c548124b20fa3bbdf148670f6ab6f2268b9bba"
+      },
+      {
+        "ref": "4:13",
+        "safran_sha256": "be798e8c533e1268b6cb17ae379acaf8fa225a0685bcfeadca272801b2532119",
+        "sefaria_sha256": "929342aecd6db065f42bbc772f01e6a4e4a69e3e7ba901b20c8c65097f4cba79"
+      },
+      {
+        "ref": "5:1",
+        "safran_sha256": "fb686604a5e79117da9181b5f15424b76dbc1fad140c4f103d9b5fd0bbcfc230",
+        "sefaria_sha256": "7750c7ee4a2bfb987c407fd325df1e7c47e13efdf1d53c7c25acd04acda516f9"
+      },
+      {
+        "ref": "5:4",
+        "safran_sha256": "38cf602ebec6819a52eb748b69691564749dbfc34e68e3b71587011f45172ec7",
+        "sefaria_sha256": "f36e478caa736a1e63f8ca52beff747649cc3c7076682cfaddc1cb0bb1a7e291"
+      },
+      {
+        "ref": "5:5",
+        "safran_sha256": "5d64b7fc99a2b3cd4ecb16f7402fdc55c44d5bbec13096a12141e617141c27d6",
+        "sefaria_sha256": "17683cbf4f18ff761e6b4230651b41e81527b42c794c326e10bba48581770f39"
+      },
+      {
+        "ref": "5:11",
+        "safran_sha256": "7f274cff83c4dbb3d8466a98ceb5318ac2248c5773a3cc00e1369ba087bbad63",
+        "sefaria_sha256": "1b60a96395a449d52bdd8a6722bffae218275f5e3df1d2ab7ac1cc8db68b72c4"
+      },
+      {
+        "ref": "6:2",
+        "safran_sha256": "e0020d5bb948bb29c854b6313c46db10854019ff089ad43206a7e03fa672cf3e",
+        "sefaria_sha256": "303835c40565d3e7bfc69d99d8b84822cd3e3a3c9dc297b6aafc6ac29fd6e47c"
+      },
+      {
+        "ref": "6:3",
+        "safran_sha256": "15eb973dcfcb018d6ba2c1abedb4a6d27db1c22545789598b2301a3457c47d78",
+        "sefaria_sha256": "88f8eba219eacce8c4955bbcf6ee8a0bb77b0bec839e16a0e5d3b8b201772434"
+      },
+      {
+        "ref": "6:4",
+        "safran_sha256": "a45a3c742c1c28f3c68d314d3082ac2912ea985754c3608cc3eb4fc9c71ad1c7",
+        "sefaria_sha256": "b8a234bfbfd9fc24afe841eedf9107e7fc72619f32dc6217f542553f1f451724"
+      },
+      {
+        "ref": "6:5",
+        "safran_sha256": "86b6fb81f55f9021e23613b97478bf7b07bb4ab1ad538018ace3bc548c1821c5",
+        "sefaria_sha256": "644375683595ddaed5956a0e7900cbb527793f2dd667e5a710f716c335d6e1e7"
+      },
+      {
+        "ref": "6:6",
+        "safran_sha256": "2028b0829fc20e11644a6ad0015f53d22ebc86c7330ebe65a88840114fb2c54a",
+        "sefaria_sha256": "4867525cef122ce7a5a4800eb4feaf03c8257b4fc1d9fb44449a0fd003cd28d0"
+      },
+      {
+        "ref": "6:7",
+        "safran_sha256": "a8296b2d9b871b1233d044966c8e536bb95392fd016066725245c88b98e238b1",
+        "sefaria_sha256": "83276149757af449f67f07559309b0db6724e40b22c4008a641e33f699354e6d"
+      },
+      {
+        "ref": "6:9",
+        "safran_sha256": "a581635521457c3a2a1899f3f55b61094c198087fc4af76a6a25b8774191e05f",
+        "sefaria_sha256": "80f5209ca7a0d7e89d596bac198c1a4a646961a23279248e390149dc42fcb066"
+      },
+      {
+        "ref": "7:1",
+        "safran_sha256": "cd9d7f146ee1e35a6ebfba79f0e22339832157657d8342934b1c17b80fda0a7a",
+        "sefaria_sha256": "dc428f27cbc9fec00a3da3a24b088b8451cfedf2fc0671ed5bf5bcd369255d2d"
+      },
+      {
+        "ref": "7:3",
+        "safran_sha256": "10a1c827550a61b0f6d407a18d20cbdd681ac1bcc3b0bd67e0285f742ca5b33b",
+        "sefaria_sha256": "9b0be94b33d68774d1e02a5cc702f0d58d6d89a4cfe6fb1e8ea8ec4dda9e5b57"
+      },
+      {
+        "ref": "7:4",
+        "safran_sha256": "775c009ca830a9c57de83e42227326456bfc44f8f01980c9e969922c9c4b8d0f",
+        "sefaria_sha256": "c007a3315864fd4f495be8ec121fa3591fcb61e8b244be2a521d6883586b68a6"
+      },
+      {
+        "ref": "7:6",
+        "safran_sha256": "3354874e3fec06a5942085806efa279edbeaf9f81e50f21b9549892fa8f8bc85",
+        "sefaria_sha256": "48cc80fd50e4793823e13e318745275ec9a4d0a2504d1eda422140b268ecf1a6"
+      },
+      {
+        "ref": "7:7",
+        "safran_sha256": "671d6c19f4259aeaae6f05db7e9baa9ad83854572fe39e5e33fd6388beb14035",
+        "sefaria_sha256": "07c281eb0fe19464ff59c37c42df756848cbf79c74502a2d2970b3fd2dadf575"
+      },
+      {
+        "ref": "8:2",
+        "safran_sha256": "963d47921dd7b5e31dbab4af6e4fd24531decf3e566914d3ee091710adfefdaf",
+        "sefaria_sha256": "06b761df7c05443b6768f6f376ffed6dd716dc96c2c4cded7844a7cc91d574f9"
+      },
+      {
+        "ref": "8:3",
+        "safran_sha256": "b59dfb98152064d1a296a617c3c201ef1e69bc33caaa4bc9caba39d68581fe12",
+        "sefaria_sha256": "97d814a847f9dad85040fc2af94e00e8f410438628f1ae1082f92f9a5765a0ee"
+      },
+      {
+        "ref": "9:1",
+        "safran_sha256": "df033592e4c84402833d760eb9b9e08a5019f47c093432ac08aa5c202f9d5bd6",
+        "sefaria_sha256": "c557dc959b9f33586c06c2833385c03419c21213afa8393a612c889f01724a1b"
+      },
+      {
+        "ref": "9:2",
+        "safran_sha256": "a6538ddf8ba18d0e10fe2c69736378cec85c6568c654afb24734f3438b9953a3",
+        "sefaria_sha256": "6f23b0b308708f8c5d973592008eff0ec8dcfbf9104a6a45c90880be5c85884e"
+      },
+      {
+        "ref": "9:3",
+        "safran_sha256": "feb1fec4c0921fc9aab9b0adeba5a70195a99d3dec676ea66c0c0ad6bc75de16",
+        "sefaria_sha256": "316d7d189dee2e00a1228c99bb0af7f50c54cfc9f24093a34b5b8bee047a0b6e"
+      },
+      {
+        "ref": "10:3",
+        "safran_sha256": "6327e50bce202a1636b8dfc0840fbc20312e3cd77d73cea6cb96210db6ec26b5",
+        "sefaria_sha256": "d10862ea0e2cf4b4db10f27baf240cd75173eb65f793d3a2ea36b24364ba1c07"
+      },
+      {
+        "ref": "10:4",
+        "safran_sha256": "8bb472bdbbef3b2b0ea2ef1ce3d205217c9031e4d58e5c36d95f13763d4782b6",
+        "sefaria_sha256": "6f4b4cabaf4e7771089e45c61fd02b864000e472ee4f9b429edd9fec802a77ac"
+      },
+      {
+        "ref": "10:5",
+        "safran_sha256": "f87e6255fac3efce32cf3b6acd45189e2d968d7ab0fb5fc20579d183bd988e54",
+        "sefaria_sha256": "16b5b9255a1a37b8c434dc01c273825740620d3105e9c80e53ea9a26494effbb"
+      }
+    ],
+    "sefaria_only_nonempty_refs": [],
+    "safran_only_nonempty_refs": []
+  },
+  {
+    "title": "Mishneh Torah, Fringes",
+    "selected_source": "Safran",
+    "sefaria_file": "sources/sefaria/Mishneh_Torah_Fringes.json",
+    "different_segments": [
+      {
+        "ref": "1:3",
+        "safran_sha256": "e47cfa5e10371b4592a01201332bf62bb342c890c98e32efb912ac97ac3dd824",
+        "sefaria_sha256": "f1a877443ed6767ac39082ed0414788f6f19e82611531eb4e5298746c77c67fa"
+      },
+      {
+        "ref": "1:7",
+        "safran_sha256": "587b802fcd8c1128dae0390a3f044fb327f9d5361b8730cbb48881c683f1764c",
+        "sefaria_sha256": "82c2605c0ffbb81e22b0b5f8e68e7f002fc793fc822b17cdcc1b96cb9258f469"
+      },
+      {
+        "ref": "1:9",
+        "safran_sha256": "e6890cd1c74d9ed1e80b98038da204e4cdbd1f46d3cb9db92b23d7f6556d438b",
+        "sefaria_sha256": "3a07cbbf7e1ee11c4ddb2209aacb8bc345b040f520af93320b45fd467e41d4d4"
+      },
+      {
+        "ref": "1:12",
+        "safran_sha256": "bc3cb3318b9d23c3182df9b8bbd66e3a291edac00381848e0646a4b74f725066",
+        "sefaria_sha256": "9f81cf152df7778aa79d3c5a3b295ad9c28df72e6b20414c4e3696b83d5efc25"
+      },
+      {
+        "ref": "1:17",
+        "safran_sha256": "f443f70148b57bb7712e3713addd371c5fe4f3d626503d263f988ea3b6c0e73e",
+        "sefaria_sha256": "c2d89ad6544eba81581e992fbe042c5e01102bd2f94b83bd883ea753a3796c0e"
+      },
+      {
+        "ref": "1:18",
+        "safran_sha256": "aaeefa50b195ea458ccfef5d175d01161e567a9da813b0a9143b806a4f3f74b8",
+        "sefaria_sha256": "fdf0632258724dc90863a9696c0d563f3bae90cb5a7b02fe275b2e8ad3bda808"
+      },
+      {
+        "ref": "3:1",
+        "safran_sha256": "7e43a60219fdf707cd623cd73c42d5c6472554bf12c422cbb6ae51c934d648b2",
+        "sefaria_sha256": "35e51e32d0a30dde486faa81dabb5fd5a6794f2db389ff06d36490f4817cd997"
+      },
+      {
+        "ref": "3:3",
+        "safran_sha256": "fc945340f9d67e7d1fd71876c18fe82abbfd599cd7c88fddd9528a3cd27e762e",
+        "sefaria_sha256": "94b0ed5400452a7a2c48700f9a6cbf54e006f15983627c9af9a2569047f9d560"
+      },
+      {
+        "ref": "3:5",
+        "safran_sha256": "ae83f293c7cdee48280e2ecf4cfa5c4df96a41f7fe1695a3eb6a217e74b1d0b8",
+        "sefaria_sha256": "3a34f4fa9e56a020a4df537645812295c3248274a85021c946a9ced889bcd276"
+      },
+      {
+        "ref": "3:7",
+        "safran_sha256": "79067474160aa1127774ae397dab4bbb9ed08bd827afc5c2d6f8311f12b70062",
+        "sefaria_sha256": "bb716c2d4d4c83308b6294947e67cc3dbdd666ccdc5d8a78a0176f886eb0686c"
+      },
+      {
+        "ref": "3:8",
+        "safran_sha256": "37b0942a1e28b017c8ae82281e9d74af78a7c6ad55e8d0988edcb302f40a9137",
+        "sefaria_sha256": "18201ca0fd4a01d654b1360691fe72a92e10c1a3c39eebd4d55d9db199386ff5"
+      },
+      {
+        "ref": "3:9",
+        "safran_sha256": "b89967ca6dbb627ed1d543f4222efdfbf3d111cb43c26e4f065839e570bed0f2",
+        "sefaria_sha256": "10e44c267618f76a843dab0d5cd7c87f5d7d3aba39d04bd1a977443187ae6d0f"
+      },
+      {
+        "ref": "3:11",
+        "safran_sha256": "9b6c3819f17a8bb814e2f6f2b3706fd09fede822a38dd991d544f3b86016798d",
+        "sefaria_sha256": "a0bec11a7bfb652205ec58517b05f072e978d3adafba52c0d4bcbb6b3c07ff3f"
+      }
+    ],
+    "sefaria_only_nonempty_refs": [],
+    "safran_only_nonempty_refs": []
+  },
+  {
+    "title": "Mishneh Torah, Human Dispositions",
+    "selected_source": "Safran",
+    "sefaria_file": "sources/sefaria/Mishneh_Torah_Human_Dispositions.json",
+    "different_segments": [
+      {
+        "ref": "1:2",
+        "safran_sha256": "dca0a84ea4eba325d451f09f3e64fe75ad905027a1229e7f5368920089a71d57",
+        "sefaria_sha256": "56b91060959dc3392a4abc04b9963b27f30ce103c73e99a1965b06ed45c932a1"
+      },
+      {
+        "ref": "1:4",
+        "safran_sha256": "b9160deee4438ded78f1b6aecb93526bb4e182684b8e6273a56c0c13a72ba4b4",
+        "sefaria_sha256": "7f1b0f17e82cc06c4919de8c93255f6eedea369545cbc735e5f92a91a3fbbb55"
+      },
+      {
+        "ref": "1:6",
+        "safran_sha256": "30c030d6f7fca0301a532b2ea6d66b9292aee760ca342824a6eed331543d90c4",
+        "sefaria_sha256": "0a7a9b7d597fabbd3326b12acdbf2ac92cbd1d6332575dcf2a38be73e6c45fb3"
+      },
+      {
+        "ref": "2:1",
+        "safran_sha256": "e7f7de70839990339c7af0bffd45396c1ab3b31b1def409f434cfd302637ddd2",
+        "sefaria_sha256": "7ddb85b781b58c79895c4b9762ca5c5ae3275672774d4848e94bfa7e3ab56550"
+      },
+      {
+        "ref": "2:3",
+        "safran_sha256": "0b2ab574736fb2529e9cbc1c77c32aa932894bbc895f6a1bb6c3e8641a590fc7",
+        "sefaria_sha256": "582017b1f70c751fa4da46627367ff5e61a6ea05a8bbf3aace44f36e7bb1100e"
+      },
+      {
+        "ref": "2:7",
+        "safran_sha256": "13723739ca43687c5ce889156913a021f52a9f2effbfad541d9b3bd594855609",
+        "sefaria_sha256": "cb6e1b264f7afc5222123977307f6a2a94306758d3b43b688597ae6089cdeea2"
+      },
+      {
+        "ref": "3:2",
+        "safran_sha256": "4d2b036725eaee694478e39ff3b24b22cb0fdbaad375ef9eb21dcea2b64f2cbc",
+        "sefaria_sha256": "9ddff9ebba0aac916a63b1ecd2842c2631154b3ce33c5f1968b5fcf1b588510e"
+      },
+      {
+        "ref": "4:4",
+        "safran_sha256": "abeb7c6bfdbc928f0c502908e54675a84f6abcca877756c9f285278d91ad7614",
+        "sefaria_sha256": "7bec7ee169b3659cf2fc1da1f28b2c2c389022a518f636a01b08bbf5427e2797"
+      },
+      {
+        "ref": "4:8",
+        "safran_sha256": "8b1d482aa9b6992452966c074fe7c9973bdf7f43259c91e96b4089fe9d3a54e9",
+        "sefaria_sha256": "c33212aee079e3ebb555d49cf8e27298525775673eac82ba30031b625981573a"
+      },
+      {
+        "ref": "4:15",
+        "safran_sha256": "1fe24afd53f83156a94024f6fa776f99a3ed2374183d666f49f9e7311f26e43a",
+        "sefaria_sha256": "92d02250d1815e67946f8cbf7e58fd275dc2d5bb02106067b0055481b0db8dbf"
+      },
+      {
+        "ref": "4:16",
+        "safran_sha256": "e1a5ed279903f3256ae817d53d550a6fda429f296064b10de19c420706b1527b",
+        "sefaria_sha256": "1ab6d0da847de018cce79e6fe02cc4cba91b726d75d171dfba581c1767650fa4"
+      },
+      {
+        "ref": "4:19",
+        "safran_sha256": "324aae5e81e8efe797cf2bc3cc2128bb8d4b22e580d6f185d06014b54ce98d1e",
+        "sefaria_sha256": "df16a9655bbe10b975e592b0f16e4c384c1dc5a773c30f734cac403218586817"
+      },
+      {
+        "ref": "5:4",
+        "safran_sha256": "0ba12959825da51ec230ccd89955b852f8b386ae7bf86381efd6d7d50dc324ea",
+        "sefaria_sha256": "7afe63ec9da811c21cb049013744bee3e84fda60c296c0a2d25f2bd2f54ccd65"
+      },
+      {
+        "ref": "5:10",
+        "safran_sha256": "53c671e0ef9f4f13540b74f0e1b037c8827f2b199191acca16f099ad31167de4",
+        "sefaria_sha256": "7c07b3eea2b38e1b68182d230adf7cc0776fc4de508491d584d95346b4c8e962"
+      },
+      {
+        "ref": "5:11",
+        "safran_sha256": "9237f722b38f724814a427b920a610de999fe81eb1c97c3dd6ecd05b88cfc5a0",
+        "sefaria_sha256": "f25f9bbdcf6a3a8df69043acfb97e897d9480cc4f67e125c28da92de533a6b85"
+      },
+      {
+        "ref": "5:13",
+        "safran_sha256": "df7afe74649a6f2b399456fa8bc76729956aea6c3038f5a40e394691ac7a89b8",
+        "sefaria_sha256": "c92730b5235957d86458d3561b20e809602a4e97964819196e8bbc24ed661c24"
+      },
+      {
+        "ref": "6:8",
+        "safran_sha256": "2f74dd85361792adcd5af122b86211f599a7092107a431637847d79cfcf18677",
+        "sefaria_sha256": "88de4ef8516de6600b895c6ed3a6e3a04a3e4a7f1563ac123a97435577c260c7"
+      },
+      {
+        "ref": "6:9",
+        "safran_sha256": "86a6e904d7e23b2f4c80d9c2d8dcb291062a13544c35e9ff6a4c18818b7f5e41",
+        "sefaria_sha256": "15d2d9223bcfa730dc957ef5022d6f5686496ae75441d62538fc84ebb1b56a3d"
+      },
+      {
+        "ref": "6:10",
+        "safran_sha256": "cf14b267b77d2294746f1e2dc7236a661f9ee22b6f7ed426ff6c44bbcb00691c",
+        "sefaria_sha256": "6af5fcd94eedaa2d337d52d81b6f7d65578c45b3f47dcd8cddf43bd0a6fefbe2"
+      },
+      {
+        "ref": "7:3",
+        "safran_sha256": "3c7da510c1391d6c882e41b0da779329c6e2f387516985ca6065898405c423cd",
+        "sefaria_sha256": "8bf93552ecbbd31ed6121c4586404b0da6be1085734253c62b51ec2ce250b799"
+      },
+      {
+        "ref": "7:4",
+        "safran_sha256": "316ed33c43a57a157ca34fedf84622f3b35d97490f56ba99f9205bec8ca54203",
+        "sefaria_sha256": "31dde904ba504d53cc24cb34554f1b396960c307e6c07a6e40982d96879041a9"
+      },
+      {
+        "ref": "7:7",
+        "safran_sha256": "4fdedeb3a1a99be23a8b7c064b5f78eaad22bccd7b93f0096a8317c96671c94a",
+        "sefaria_sha256": "9c95463cf4d8162b53263dfbe6bb47c809ce8a03d9f1054d6dbb8b817ca41ffb"
+      },
+      {
+        "ref": "7:8",
+        "safran_sha256": "1793c9f8ca432d533ea26cca6e0d5ccd445b8054f9a5837c15205d611c458ea3",
+        "sefaria_sha256": "cc87019975af7eefc71263630bdf3d3041bf49ac551789cebef811d507c047b9"
+      }
+    ],
+    "sefaria_only_nonempty_refs": [],
+    "safran_only_nonempty_refs": []
+  },
+  {
+    "title": "Mishneh Torah, Kings and Wars",
+    "selected_source": "Safran",
+    "sefaria_file": "sources/sefaria/Mishneh_Torah_Kings_and_Wars.json",
+    "different_segments": [
+      {
+        "ref": "1:2",
+        "safran_sha256": "732cb683efad1a5ba08add4507226ab4984c2c013abe109769f2b663165ee7fc",
+        "sefaria_sha256": "1947be4059552941750053b566175c4bee511a2d2b13271f84f0e17129d0e8ee"
+      },
+      {
+        "ref": "1:3",
+        "safran_sha256": "843482ceee99db5a9dc54f39284d2e3825becf56f8b1ca4c46766a9b6adcbc9b",
+        "sefaria_sha256": "ece3ce920e760573d1d327f168fc74410fac7051527559acb95b9bacbdf93604"
+      },
+      {
+        "ref": "1:7",
+        "safran_sha256": "a5c77007c5d8c58882182a3b5b989d036a9ad6d882065d7e39b4b8dbb9aba9be",
+        "sefaria_sha256": "c7bd5820bcdf6475607ae2bea464effd7aa029ace8ba0371b2dfb36e30ac7d84"
+      },
+      {
+        "ref": "2:1",
+        "safran_sha256": "4ce54f52cf5cd68e81ba3ef92881167fb44fe08eaa945b5350bd5b0d4b72d9d4",
+        "sefaria_sha256": "423eef8850004b6a084c23b7a993221b8c7e0c9e9454a33a6be4042b68d7bc86"
+      },
+      {
+        "ref": "2:5",
+        "safran_sha256": "dc40ab671ce71715a9aba6cba745b10d7de872d2599628883599d6b58f596db5",
+        "sefaria_sha256": "428f30784dc5598c588a07bd8ea0b80518c141384e89d9090d6dd2a4e612b764"
+      },
+      {
+        "ref": "2:6",
+        "safran_sha256": "8d467b979095ff7860cdff5152eba84fa91725e766691bc0274efcd1981892fe",
+        "sefaria_sha256": "0099dd570dddc3774d4fbb0ca5e5573946a56d8950534635ce10194abe75f90f"
+      },
+      {
+        "ref": "3:1",
+        "safran_sha256": "6121da36944f5cb75c3b31116d0be1dd38675a7fbac83fb476da241d1ab1770f",
+        "sefaria_sha256": "90070dcb5999d005e7aaf3f6a3813f13cf93d6e2b09adb8493c8ad5afc328199"
+      },
+      {
+        "ref": "3:8",
+        "safran_sha256": "623f22472f440c9732cc4352664179ad76c691925a2d764424cadb4751eb60fe",
+        "sefaria_sha256": "1549e59927792a06c8a4cc5bc54595addca7347af030fe4269c8e83f14c4eb3d"
+      },
+      {
+        "ref": "4:5",
+        "safran_sha256": "3ae3396aaeca03f643536335aaafc736ba4cccecd7c43a1ba220f3d6cea0603f",
+        "sefaria_sha256": "257a03f2826b02b1e8e0dfcb9617ec5b662e09e2c9a6a8beb376b13b415a6201"
+      },
+      {
+        "ref": "4:9",
+        "safran_sha256": "4675dec6342634b40ab2bb9ae9a7d4f32de3a4bbd32ff9e430313d5787322f74",
+        "sefaria_sha256": "9f79c4d0f44877d4dbf400e94b567daffd6802427fafb26442fdeeb46c060945"
+      },
+      {
+        "ref": "4:10",
+        "safran_sha256": "f4d7a0a19a89720513b1048ca31802ab657ab2ebee98bc24956fa54b3dbfc17b",
+        "sefaria_sha256": "427f7db5b56628621ddddff4a6e7e82b95f0ce3ec353cc94d6daef7af60f412a"
+      },
+      {
+        "ref": "5:1",
+        "safran_sha256": "f7d84162e1fe98080cba57775570c659e10a6ffef4a71b15d19c07e89576636c",
+        "sefaria_sha256": "fdea2e91537b1e78c866f57988d5e6515a2f19a8c51124d90e4fe0a3144c0a81"
+      },
+      {
+        "ref": "5:6",
+        "safran_sha256": "b807c647fc5815085acc2240af3ea20d5b1677a81101dc9e58396519b9b481d3",
+        "sefaria_sha256": "913aaa142354aba2dea9bb6d3a7cf3e22f76ff323b75a7ad28d68883680a510a"
+      },
+      {
+        "ref": "5:7",
+        "safran_sha256": "84aa8853b3adf8fe4a4e4491c3cb3033ce499e1849ca986c5a4ac5c27f9a8b44",
+        "sefaria_sha256": "25b4a9ad59cf09128fb6e05b840cdbaa606815efc0e7c1f2223a0a8da65b7f6b"
+      },
+      {
+        "ref": "5:10",
+        "safran_sha256": "42cefd37001f66ff7878256b3d75b61bc715bff687bf773eae040982286f9ff7",
+        "sefaria_sha256": "b536c06070a3c2a850772f694b6a1dfcfcb192f80358f88203be7fcbec972251"
+      },
+      {
+        "ref": "5:11",
+        "safran_sha256": "a5158207a3da29c3ce4ef744856c69c7962553a7c850c6aeb9982524346fbff0",
+        "sefaria_sha256": "c00bd5b3496c0d5a6a2fe423622fbed45bc23208663335e87aa18e692472be39"
+      },
+      {
+        "ref": "5:12",
+        "safran_sha256": "ceaa68ee796ba7b2430c0c447f6e5a1d71ec0abdd0d7594eac68ce5c3068d8f0",
+        "sefaria_sha256": "9db57336baeebdf3336e106681115ce033a252d13d3851bec94c8e8ec98e2099"
+      },
+      {
+        "ref": "6:1",
+        "safran_sha256": "4c98b937ff0325c21901eef84e11aefefde3e325ff7d8c6ea52c11fb7fa7683d",
+        "sefaria_sha256": "2fcba1deae6372b54148862bed5368cce244a0546b326cf40d472de50797dd26"
+      },
+      {
+        "ref": "6:5",
+        "safran_sha256": "c80841859205d8a74cfb8660d4971950bb1c0ca4858cbf517b30304928d5c4b8",
+        "sefaria_sha256": "d20f54739a1042185c95f498bd7b2e482d4a89b5127ba34d20d64c4a09903d14"
+      },
+      {
+        "ref": "7:1",
+        "safran_sha256": "f9ce5dd545faadab99c9f8b26c5772c6bcdb635e9609f3ad4136d41d24a9630a",
+        "sefaria_sha256": "2cf74d58d341b955f5d57eef629462b58bedb64ad2a1f6ed126c4fb7f80e2a81"
+      },
+      {
+        "ref": "7:3",
+        "safran_sha256": "f1c71c1ceb2a843cc6a8a10082d19053a83b2b2890101bb5b493ba40a580dd17",
+        "sefaria_sha256": "062b19f077c993a8ee3aa68c4ed94da025b6fd33362e8149ff3f1d0bb740cab4"
+      },
+      {
+        "ref": "7:4",
+        "safran_sha256": "4fba0edb6dad93eb68849678c062edd34ebfc134fa4e2f4dca7e09f6e366a3a0",
+        "sefaria_sha256": "ecaf9a5df82525f22dec16b9164beaea61583eec0d51314c96866b80f5c5e3e8"
+      },
+      {
+        "ref": "7:5",
+        "safran_sha256": "84ca7030215d1fe00eae454f92534014b86dad3f853ac2310f74f5b59866bd3a",
+        "sefaria_sha256": "68514ae0a9e7d4cf3164c773c39b1a2e686658e3fa9234ba7f75d394d4dfa8c7"
+      },
+      {
+        "ref": "7:8",
+        "safran_sha256": "543582e5780d8a4bc436a0c9c315ca5057e70186738eda244660b239f252f471",
+        "sefaria_sha256": "da9de58bb82eacc6cd70271ab183d0b8c650aea121c87e01083b5b2288f25add"
+      },
+      {
+        "ref": "7:15",
+        "safran_sha256": "b501d27b02089fed5088c4ff600101f1119cf3857896b6f74aa6873311a167c2",
+        "sefaria_sha256": "fef17a276a7119972f44b6c3b996b01b14bfd08dc222281658eca2d16ca08ffe"
+      },
+      {
+        "ref": "8:1",
+        "safran_sha256": "3240591980e7253533a7769824b803c5a65beccad32a2b7e72314996130b1dd7",
+        "sefaria_sha256": "29caac4c091af1245aea1ab1bcccd8feef7164897a482d75c91a51af37490d9b"
+      },
+      {
+        "ref": "8:3",
+        "safran_sha256": "1ad2f1bfd4b3e41278423bd08cee26a93fb31be37a46164f43697986c5fc3e2e",
+        "sefaria_sha256": "f4dc1d17a2d0a1dfc9dad6a7a8b6aad8df3d1be65767e622d9ae9f907e752bb4"
+      },
+      {
+        "ref": "8:5",
+        "safran_sha256": "df3f34df47ac8148c75df3958476149c8c407d42d8e71e62e819cc3c79e5a5db",
+        "sefaria_sha256": "fbe8b61fb425fb1d3c615a239b6803b3878fa214b126a71c45525a492b122c66"
+      },
+      {
+        "ref": "8:6",
+        "safran_sha256": "ae2d4f6e0127db978cb962193de757d25aac628d06583047c4497a84bb69ffba",
+        "sefaria_sha256": "a8aa58f209410b847d4b8c5c36745a2c5dfc7cbace33b27a3b0341f588423234"
+      },
+      {
+        "ref": "8:9",
+        "safran_sha256": "d1d3560c93401e2554b33fb4fb86156f4ffd180754759cc176f17889503cee64",
+        "sefaria_sha256": "187a2b0121b27617ca99dacc0d1edefa03a0cf389675adfe2964d604e501ae75"
+      },
+      {
+        "ref": "9:5",
+        "safran_sha256": "2d37a45de0ffee2bee8c240d27b74ddf94640de32e95890a47083e146626816a",
+        "sefaria_sha256": "0910f579483aa88c1cd71ebde4cf92a3dcdc48c6b1fd87743e7375c6adde4d1d"
+      },
+      {
+        "ref": "9:6",
+        "safran_sha256": "cabade2fb969f2e043eae68113b32898a7840bc8355a66918bc5df732d748a75",
+        "sefaria_sha256": "196a88b3186f09f0d1e689963120103c830e83989bc357197a58f78e27394a49"
+      },
+      {
+        "ref": "9:7",
+        "safran_sha256": "ec6aaa3dfeb23314edf0b3c6336fd7d079bfb6f3d18ea7ec64d2f409a9c60aa6",
+        "sefaria_sha256": "ccc9b0c012d19e4d6237a174a420395ebb7999618e8fca1c65be3bbed78c7097"
+      },
+      {
+        "ref": "9:8",
+        "safran_sha256": "b85d96fa9e4bfd4189930eac8124186f6f29f1919887c17008f40dc0ccdad69c",
+        "sefaria_sha256": "b1a4df57ca643c6ef75749648e10a8edb9641bef5474992e7a8b11141f73ef51"
+      },
+      {
+        "ref": "9:9",
+        "safran_sha256": "5d9a44cc50e4580a40705f4e91033cc21f604e753322e6419bbbc6a2cb859974",
+        "sefaria_sha256": "720c484364c0e397f3b4fe3daa7be3094c323d567428e753af87ceae4de086a4"
+      },
+      {
+        "ref": "9:12",
+        "safran_sha256": "1bf45de657676c718501255fd58a400399359e8582bd6a8b6240f772d39f65d6",
+        "sefaria_sha256": "f2b39c0a0e1dc27206e0e427b72bf2d397f25aa736bc4547ccdc07dd68968bdd"
+      },
+      {
+        "ref": "9:13",
+        "safran_sha256": "1c78df370afc7f99594d96fe91572845c9398a6fb816385902705467f70308ba",
+        "sefaria_sha256": "ab7f373268e4d3d3bd6997822900b27bed46f54ee8cc2ac8cd62c03ecb79db42"
+      },
+      {
+        "ref": "10:3",
+        "safran_sha256": "a37de3bf81fbb7a70ac6067b95d8ca9a17f509b1892df0b93621470aae871439",
+        "sefaria_sha256": "c24f887fa70ca200a5835ed2068a9ddfb8f73d5a2ff43ebaab26f2f929968728"
+      },
+      {
+        "ref": "10:5",
+        "safran_sha256": "96d7273b077166bcca3c503a9de30648e3af6d582b089eafb13a1e4d652bdb99",
+        "sefaria_sha256": "d47a39c05381e04d76447d8fb0c743345ca4111040d479193264c022badef574"
+      },
+      {
+        "ref": "10:6",
+        "safran_sha256": "b9d7cd696f89349c36f27f50d838891caf7dc1e56d5863ca3cee32a40c6cea8d",
+        "sefaria_sha256": "40ae8a1701fe1a655b27671c27785d83e409c5f0a916925e5b611af5275b362b"
+      },
+      {
+        "ref": "10:9",
+        "safran_sha256": "d8186ca7a0d5845487240c138e820d9ff0cddf6f6aa9646f7fdfd2027abae5cd",
+        "sefaria_sha256": "c8c6ead4bd6e3654d62a6e8baf2b4fcb695def157a9e93b0d69194da3a1d125d"
+      },
+      {
+        "ref": "10:12",
+        "safran_sha256": "8817815e70f00890ff3a53c48efcd25a01e7bf5027f4e99fc5902ac551be9ff3",
+        "sefaria_sha256": "f704f9158d443436e07f9915da8bd644dc682588ebd5f4419b7edc91124aeb46"
+      },
+      {
+        "ref": "11:1",
+        "safran_sha256": "dfe3d2469fe8cb4596ae472e333fd950bfd03796ad0f585e04127c77d0c27c31",
+        "sefaria_sha256": "d8fb5c0f66c6522a7931ab00633622e1a1769b710a3a594a64058d655cee79eb"
+      },
+      {
+        "ref": "11:6",
+        "safran_sha256": "a13c7f9fe4d77545ecaac59432ec9c1ea3b6c5543522fd0bdb2cc9582d761673",
+        "sefaria_sha256": "887ef1364ac358c6bf0d7cf3cf99e6a24eb0a60213dd33246f3c5092187fc2e6"
+      },
+      {
+        "ref": "11:7",
+        "safran_sha256": "43e1f7ee1c9d055e10b5f8e73525bcefb646a223c72f733cbc26d4aae3f12d5e",
+        "sefaria_sha256": "c2243ebe7918ad3edfa0ea19cb17517f28368fc1f1ff35df75ba3a949b549aec"
+      },
+      {
+        "ref": "11:9",
+        "safran_sha256": "85d23b2824980884cefe37b5b0d8d90d3a7a10d6385ad9182d19efd19412c3d3",
+        "sefaria_sha256": "60d44a5f985dcecb58d33cc36c937881367696f18dce62f8abfd3611fb0fb238"
+      },
+      {
+        "ref": "12:2",
+        "safran_sha256": "06c3ebcaa4e25a97675c9d52d6c40bdc1ec8cbfd7952096af022fe1d3b074f6c",
+        "sefaria_sha256": "f265ed52c452af303f5c0ace95f74b514484fadad63461fca5c4947ecf5fa6bd"
+      },
+      {
+        "ref": "12:3",
+        "safran_sha256": "bfb92ac7d96204ef38c8403c74af41ca1640ea6a386c2d9b87bbe9d0efd4c5f4",
+        "sefaria_sha256": "c300b643522710364a530b8d4d4072d5b640d305c96f7e986edef9fde8e80bd9"
+      }
+    ],
+    "sefaria_only_nonempty_refs": [],
+    "safran_only_nonempty_refs": []
+  },
+  {
+    "title": "Mishneh Torah, Murderer and the Preservation of Life",
+    "selected_source": "Safran",
+    "sefaria_file": "sources/sefaria/Mishneh_Torah_Murderer_and_the_Preservation_of_Life.json",
+    "different_segments": [
+      {
+        "ref": "1:9",
+        "safran_sha256": "52a0eec0a035ae0b06504679d157ca6a3d9f7b93817414f6bfa1022038074245",
+        "sefaria_sha256": "4ec6c358712f6c7fead993550cd3e3ddad9b7a9e1aaccbb656db543c7f28374c"
+      },
+      {
+        "ref": "1:10",
+        "safran_sha256": "79c0983f0bea0329be8677f727b77d273c9f2c30672455dfb75d8d33b9025ac7",
+        "sefaria_sha256": "13486e01ac5e11bfde3d71434c556a4f9f0db5069983e8cb392990ae922952e4"
+      },
+      {
+        "ref": "1:14",
+        "safran_sha256": "004dcf6a405090c2cfd99d836310bc70dcbde365e41345b6051853b6dc844004",
+        "sefaria_sha256": "c11aaab7ad83ae8318f51960aedb6e934b1aa77a928a3c26e58d9f682ca526d7"
+      },
+      {
+        "ref": "2:6",
+        "safran_sha256": "c71bcc42f52b89f3deb36665fa628064900fb9ef813108199a37c8bb63f16c11",
+        "sefaria_sha256": "43c077a92bfe8487e4cfc5534332f94269d80866a5a9957731d84d931f7c4b39"
+      },
+      {
+        "ref": "2:9",
+        "safran_sha256": "676ba4ee26f832284e2d18505d420144c6fcd8024afcd3c39f02bb8633dedae7",
+        "sefaria_sha256": "99b42bf24ade19e1f2c21796b2b2b7c84dd272f42cc5ccd633286d7f5a8fc40d"
+      },
+      {
+        "ref": "2:12",
+        "safran_sha256": "0cdb1e67e516551464bba778ffffe1582f571bbd172b4d4f3c58145c2f5ec162",
+        "sefaria_sha256": "1ce41572005e51e39353d4e4ca5671340c9e50b3551c00c8d56cfcbb42fdc352"
+      },
+      {
+        "ref": "2:13",
+        "safran_sha256": "c0e77c89fae17537c66e03fb4dec77c2b96a6eeeaaefeacd7334f5166cfdd6cb",
+        "sefaria_sha256": "661084f738124c464919cb05b621ec9057ea6a017e9b65a2185e286f66757e32"
+      },
+      {
+        "ref": "2:14",
+        "safran_sha256": "8c6827873ff85be1c44759822062998e0cc91fc5a345f928b8750f3900baeb2b",
+        "sefaria_sha256": "732c24b80e7a76495c37817d89b3fb18bb0a17b748492dbe59cd0f495ace6acd"
+      },
+      {
+        "ref": "3:2",
+        "safran_sha256": "01e83d55e41ec1ac3023dff84c1014f792f99ca62198cc14cc3a6d8dbc8a8dd1",
+        "sefaria_sha256": "e615445d6903e436265537a79efcb5e5ab344181ec0f6098853371df0dc79d84"
+      },
+      {
+        "ref": "3:8",
+        "safran_sha256": "966407406e08be05346571d872af02d4f33cb787805e9eea0bb5cc8792f1c5c7",
+        "sefaria_sha256": "7954ab4243caa6ca6895e11a7818e2e09886b762f4210b38981eec8ac1d5de51"
+      },
+      {
+        "ref": "3:9",
+        "safran_sha256": "36eb2c21f1d3a8d03c91aeb01fb18205bb03174f9766cec1b505ed94b31eca5a",
+        "sefaria_sha256": "eb081bd003fdbebd06f04dfd095977c1071f91e8b7b5e5d53a2dc7fd970b90fe"
+      },
+      {
+        "ref": "3:10",
+        "safran_sha256": "ac5ab921adc577547a3d81bd2ee35ba533b74ec3ab663bac743b935cac8ce2cd",
+        "sefaria_sha256": "3cddcdf3779a198f16bcf57b9af6a5d62066b932eb11dda2458b361e4a4714ff"
+      },
+      {
+        "ref": "3:11",
+        "safran_sha256": "ef1a967079d56093e84724fa99a1ab8449e2cb9a7476221bd7fefe76dfd67627",
+        "sefaria_sha256": "890b80e514bd9a86572d559f4555348680ed9e0bcdaae36b7250e08141b12205"
+      },
+      {
+        "ref": "4:1",
+        "safran_sha256": "d132e785757225a5da9fd61a2e6e621495767ef2c0821a1f90b7f4d986a3c12a",
+        "sefaria_sha256": "a8239b67dcbd59bc9ecd266ad4cd2b2e66f930b2bcd91cbaaac67a4d7f93f58b"
+      },
+      {
+        "ref": "4:3",
+        "safran_sha256": "d60dda988c18420ce6d136e8aad1932715703fde6f0b0b770d9870c3b335c7a0",
+        "sefaria_sha256": "a6a7616cc4d174c4dea1893047fcb02dd9d4128f47c01c11e8a442848851035f"
+      },
+      {
+        "ref": "4:4",
+        "safran_sha256": "8f90f3a5945b5244cb0224267fce4f428334fc678618f851b8c4258e30648c01",
+        "sefaria_sha256": "ccf6ecc822822676ff752152d02ca9a830d407212886b00cfd1db067cdf073ff"
+      },
+      {
+        "ref": "4:7",
+        "safran_sha256": "cf21746756ddb10df90799f7a66874114c66229823f8fdfe3f24d9a90b40378f",
+        "sefaria_sha256": "56910b938bbb5cf061c8f254d896070b80a285ee73abc549fbc122d9a4ae15ca"
+      },
+      {
+        "ref": "4:9",
+        "safran_sha256": "4c4909da246e47522c809bb61880978b042ce5eabf0716b9c5eba6ec19ce4ecb",
+        "sefaria_sha256": "bca90a13b781fda663461297cae49d5f842aabce9857f885b548c222a8bcb9dd"
+      },
+      {
+        "ref": "4:10",
+        "safran_sha256": "c0bc332c3b8a2cac43768dc87d469c4c9f01f358b61e02cbcd3b2088a45b94c5",
+        "sefaria_sha256": "c009a98e5acadb30c0d68e791c6c679631e3a6f550a4c1d503a14ad7f4e4cd7b"
+      },
+      {
+        "ref": "4:11",
+        "safran_sha256": "60146cdd421d9b1db24626c0d2deed50ee1e723861753e4c7158cc0cfb9ccbe5",
+        "sefaria_sha256": "464d6717840d866756e6ed9d2d956d27e6c3a3c25cc8b3434fe6fd16cf2311d5"
+      },
+      {
+        "ref": "5:5",
+        "safran_sha256": "8e21c7e14eeb64a7bf688cc4d2c27d49a61c72c5888e5c3a35fe479ce1cba648",
+        "sefaria_sha256": "f0e71be4697fc7f4880e6361b27a0d0195ef7ee739b4d8abcdfeacd7ca0d2f04"
+      },
+      {
+        "ref": "5:6",
+        "safran_sha256": "98a309d1efc68070f3226949ab3fd371a317fd3fa08e3f36baa7d484d2a9489d",
+        "sefaria_sha256": "090f0ba3264b59ae6e61638bf13ea018cb2d200c02ca3ac9185f2feef08e94c6"
+      },
+      {
+        "ref": "5:7",
+        "safran_sha256": "a81fb4b21cd7fca94c12e9a24eaba6ed23784daf520bfaa278cc5c7579b99a0c",
+        "sefaria_sha256": "9484dd07f825a68b6aed67ef1678593a82377ad9f3fc433946dcd2ceff260241"
+      },
+      {
+        "ref": "5:10",
+        "safran_sha256": "650de5df2f408d25d4d14e938ab3665ee7046b2301d118e04ff18638165c1036",
+        "sefaria_sha256": "4d978cfc3003dce89813b8a43cb9c82a862f70dd42d69ff55a252880b429fcac"
+      },
+      {
+        "ref": "5:14",
+        "safran_sha256": "ac61653c6d58a70e5a1948a4ae28993bc574fd8644311ec811717de320d6962c",
+        "sefaria_sha256": "96d3ad4f0383191df1be9a9f2a16ceb8987a08e8859f82c43eaeb24f90112e94"
+      },
+      {
+        "ref": "6:4",
+        "safran_sha256": "40452e1c093b900d9ff3d75bd18d224e3e9c7989aff01e45a8a68aafb9ffa338",
+        "sefaria_sha256": "fe2b6a1c5d29c9542a3b537eb5545de0161b15d3e621a9060de35f902b64a1cf"
+      },
+      {
+        "ref": "6:8",
+        "safran_sha256": "de1334127e05e68029fcba84a40319f3c10cf51398b19e3504e720c66e63ca65",
+        "sefaria_sha256": "8db3dd760c132f08699758bdc0eafd9e431ae3fa8c8c2ff3751c7a9b38baf063"
+      },
+      {
+        "ref": "6:10",
+        "safran_sha256": "49da5ed16e7b20b202a00ca33d85662aae1e9aa16da91a55f3be883c00352c59",
+        "sefaria_sha256": "27c3509f27202332efd2ee718abb3a55ec638f589e813e4e1cb9d4b6f4c3ee49"
+      },
+      {
+        "ref": "6:11",
+        "safran_sha256": "79f6ffda30fea5bd12d71ff4d116c6f872e12456101bbfd6dff29ea6504aace3",
+        "sefaria_sha256": "c8a7bc357123c5b69205904b68223799627c1c67006d1447192c370d32d4fcfd"
+      },
+      {
+        "ref": "6:12",
+        "safran_sha256": "837a159ab09a408dde51ca35a135d7324d2bc1cdec7884fef3cedb5d378a1284",
+        "sefaria_sha256": "a487577394f7a74580b09d0a3a8aef81db3af9a14f799fdb246d62d78ce0e35a"
+      },
+      {
+        "ref": "6:15",
+        "safran_sha256": "daab4d08dc7b26ca4b41c75a49a28f44464249b9c09806dddb2da5c44b4c4c0e",
+        "sefaria_sha256": "6442e4c779001757925b03dd3cd5fd23bc1e4e36b527d950f2e3c881fe84adbb"
+      },
+      {
+        "ref": "7:6",
+        "safran_sha256": "cc96ad5b130f88131495f2ccab5738fc91fcf85c8d880dda0bfbe7c01d37eaed",
+        "sefaria_sha256": "d3279482a8494288b9a26c0ff4a7f3726738cac28da54f5012d23f51317a0855"
+      },
+      {
+        "ref": "9:1",
+        "safran_sha256": "dda31f0b06e3d12f9ff2834a0cd2aad9ba560875a8fb178931b4bc23da6600fe",
+        "sefaria_sha256": "f596f1a3c4ca907087926fb432c08cbc76704509b28fb3f4c6958680d9978961"
+      },
+      {
+        "ref": "9:9",
+        "safran_sha256": "78b2be399d0b01c2f87200828a590bc2a158dd2a87c4bb950702a72d0f86974a",
+        "sefaria_sha256": "eb5725b5fad4a8e9cd30e6940910c08db2f101a2a3f77597c177190699bf5ed8"
+      },
+      {
+        "ref": "9:14",
+        "safran_sha256": "1be01361005826d37d737142aa3c704bce5e6c01945fd583d663b4cd527dcbde",
+        "sefaria_sha256": "53aee5654d7e09934af235b02c307245d521eec9c844f21c4596b9e5865b8f84"
+      },
+      {
+        "ref": "9:16",
+        "safran_sha256": "b55ad2477f68dd6676816a9b9906561ad7ca645d94affc18de0e6c99774bece4",
+        "sefaria_sha256": "dc85cb4a258276f7e4afd3c53510095dead02d2b8b5f6baf2458cb7a88e16e9c"
+      },
+      {
+        "ref": "10:1",
+        "safran_sha256": "4e2273333adecf599534556d33223b6f82a1ea3a416b320c8dc23e02d8fce0c9",
+        "sefaria_sha256": "f161ec87393557bb74b472a0eae4a56d1e111fb8885dc4434ed39ad5c99f4f83"
+      },
+      {
+        "ref": "10:4",
+        "safran_sha256": "f9a82a525f09a6dcbc29929ca28b3d07e5ace97b5e14e81c570ed9fcc1d3d918",
+        "sefaria_sha256": "e4482627d91eaeb9a07497896e96a155677a5f93bcb60ef64babeef88e810a9d"
+      },
+      {
+        "ref": "10:5",
+        "safran_sha256": "6227c857bb0bd9a8d44d218655fd5ec38855dcf7b0d9f175bc02a2022c7a431e",
+        "sefaria_sha256": "31282e88c0188cd00aad74530794ab040b1ed6bdf5d4e5777a955797c52eebb5"
+      },
+      {
+        "ref": "10:6",
+        "safran_sha256": "46da32745ab0f8aa650abfb3e2776a4b95db444851a7e86f23f71ed55bdf072b",
+        "sefaria_sha256": "9e9663fc1761efaeae3181e4508f75b12f2560d4902c53acb3f1f93fe8d4cda8"
+      },
+      {
+        "ref": "10:7",
+        "safran_sha256": "21f6209d0940106befcef8fe2dd3f8827da65b8dbb28c9eebefe66bdfb72d323",
+        "sefaria_sha256": "c560c33fc0cbe9892f6ea7eac2d16d3e8edb60c5328b55a14c4c37faaca37029"
+      },
+      {
+        "ref": "10:8",
+        "safran_sha256": "4f1ae4571cbf158da6eceefdfed9ded412094d1b3b998b22e580808243803537",
+        "sefaria_sha256": "1a62ff20333121daf5f4d9d59c77c6fa3bb0dbffc3cc7191cb5bcd1aee69a9e2"
+      },
+      {
+        "ref": "10:9",
+        "safran_sha256": "1de75ee63161447578e8d83b13953560f5221e56bd746b31a00e724f24ea556a",
+        "sefaria_sha256": "efaf0a90807c3d3dcdb57aeef503c25af995ba8a34139c6e2a08dbd1cb0be23f"
+      },
+      {
+        "ref": "10:10",
+        "safran_sha256": "33acb3f1282914311bcc8d87925bfd5852cf6b086c09828180402644d8f7017d",
+        "sefaria_sha256": "cd4d8300aea5f573628c623608372d8da61fc693ae047127ddad70db07d5ec5b"
+      },
+      {
+        "ref": "11:2",
+        "safran_sha256": "623ddabbaedfdc06388dfe6405d44c48113d9acc96aa2e3ec843046468b7115a",
+        "sefaria_sha256": "ba84968fbb947f52a67f7d7caaebdc62bdc7a3b5e4d3f0d18a7666293af9e04a"
+      },
+      {
+        "ref": "11:4",
+        "safran_sha256": "6ac8f6ed53ebb6151887468a1a0bb661ba8ce403092a26107ec876b18dfea4a4",
+        "sefaria_sha256": "6129cbea8323c2424047500483aa284b05103caf08a950da765e66c1f6ea3327"
+      },
+      {
+        "ref": "11:6",
+        "safran_sha256": "40a40c0de5f563bc8b8c59d7a92dcde131aa241478db66e0448a0bf2b9d3d065",
+        "sefaria_sha256": "5a4f35082cb983bff8fb7061a4e83a99fc3a9d3678588548fe4ece85e969165f"
+      },
+      {
+        "ref": "11:8",
+        "safran_sha256": "439febfff5e65890a2bd5cc9a32a9639b8b0e0182b8fb4a7418be58a151873d2",
+        "sefaria_sha256": "896b94c31591117613d69064178e11070d7bf2aa8b78e0c252ea1ae0456d4333"
+      },
+      {
+        "ref": "11:9",
+        "safran_sha256": "5ded8a8da50abbc94ce3b1b76c9649225712f15990a0afd23961ec8f7c77408c",
+        "sefaria_sha256": "c751dd960fc62847d1feb6a23c07eb24d560b7bc5140fc10d41ed90bde5abab3"
+      },
+      {
+        "ref": "11:14",
+        "safran_sha256": "3b2ae199dd405d4609c8a15b5aa225a6adc346c78f11a517be5abb91e6cecffb",
+        "sefaria_sha256": "5b07b68fb5af4fce946ab8e4c1e009dcacc87d09565ba3bb7f3ebea7a2e726a3"
+      },
+      {
+        "ref": "12:1",
+        "safran_sha256": "0fadb8a6c1a460abbd2bd4fefd4dad61723ef4e1d577f98afccd1e1c5ce88b12",
+        "sefaria_sha256": "ec3422b63cf36d57429e573d3b1d53bdc79fdfc55b41b87100fedbb03f39f0d1"
+      },
+      {
+        "ref": "12:5",
+        "safran_sha256": "b581b331aa785a9bbca511cb893081065f14267f36d270d0a47045a22651fca5",
+        "sefaria_sha256": "8e8ac89acadef6f55b37e04432c3db5cc97d243aa4974c0d72a47d8e123f3810"
+      },
+      {
+        "ref": "12:8",
+        "safran_sha256": "859d290e081c7299ab9f14ceb49d16a2186771b63c97f203822278d408ab0ad9",
+        "sefaria_sha256": "797d3940b65c2f45d68f4205769dbbd2f535fc067fbf07f2ed3ebbc8eea63bcf"
+      },
+      {
+        "ref": "12:9",
+        "safran_sha256": "b995eb5688d6850ac4987f5719ff0e33d9446e2850fb37da2b5d140bb7cdba30",
+        "sefaria_sha256": "8073118cf0d43f381fdd13dd8bef5caf0826a46e1acf1dadb41b66d78fb5cf93"
+      },
+      {
+        "ref": "12:11",
+        "safran_sha256": "340fe6b401adc46f6fa6278af7bfff68347795585a3e729b4e3a51f50b96bd7b",
+        "sefaria_sha256": "60d97ebc322f9f7e3cb6100b7f6cdd31e82b64380d48e8a0039e1df136b4b0b8"
+      },
+      {
+        "ref": "12:14",
+        "safran_sha256": "7781f94053f835f4b5902fbf00451befff96c2e4514c12b35a920b3baa8ddb4d",
+        "sefaria_sha256": "d555f333753344a78ef1fce6b28b402c54477faca877b567dac6787d97bfad8e"
+      },
+      {
+        "ref": "13:1",
+        "safran_sha256": "d35a297b7db24349443761087b115c136ff68df0fdeff6ab44a6be08ed8b7940",
+        "sefaria_sha256": "b15ee8cff48e0b9480e148b4dcaa5e3252b1d2664a0789f459d745f50fa4e46e"
+      },
+      {
+        "ref": "13:4",
+        "safran_sha256": "6feb03711ff423c283b2d8bd26428a019e92b7c5c6bd52c7770cd9cc457ef593",
+        "sefaria_sha256": "08ca68277cda997c5634c81cd113c6566c875cbd43c22d3658bbfc910ee5d398"
+      },
+      {
+        "ref": "13:7",
+        "safran_sha256": "a03c48c76531f6dc318d127593ea7f3834b1aca1db0a23e5c8ef1c55a2229c92",
+        "sefaria_sha256": "616bf667eaefb719c5bd9d4ba04f6a318a43342625940a568c142b2eac5ae71a"
+      },
+      {
+        "ref": "13:10",
+        "safran_sha256": "44c0469fb91f452f6fc35c803ed43a388ed3542cea267c33cdf4412313f88b62",
+        "sefaria_sha256": "c2cdc75033ba51bc3e0569af4716d151f86900e3527e3ab6402381c23dedd4ed"
+      }
+    ],
+    "sefaria_only_nonempty_refs": [],
+    "safran_only_nonempty_refs": []
+  },
+  {
+    "title": "Mishneh Torah, Prayer and the Priestly Blessing",
+    "selected_source": "Safran",
+    "sefaria_file": "sources/sefaria/Mishneh_Torah_Prayer_and_the_Priestly_Blessing.json",
+    "different_segments": [
+      {
+        "ref": "1:4",
+        "safran_sha256": "4f2c30a908f4216b98b43251adb644f04e6d40ebe66171ef1216a00f1456f8f6",
+        "sefaria_sha256": "a46c8df9ff0af8aa5c0b37f48092843940ab2d9ff9de7d9012591f258154b42a"
+      },
+      {
+        "ref": "1:6",
+        "safran_sha256": "05071907cefcf28b8fbd81d1f2c7b9cd2255be9710aed31f515185143263be10",
+        "sefaria_sha256": "3ab8dfaa92b219bc3275d2c5709a311bfc5a045f756ae252535a04a7e84b3846"
+      },
+      {
+        "ref": "2:5",
+        "safran_sha256": "551297b358645d65ec5d3359525ec42ddbf0734b6be201d2e0bda2e86ce01775",
+        "sefaria_sha256": "dc0a2e9909a5fa5bc11125aacbc57b6aad3034d5eb3417fc74b9ac5fc90358c8"
+      },
+      {
+        "ref": "2:10",
+        "safran_sha256": "bd13bb6fe5fe0e620a894586f00d9c8a1dc0e3ae98a75ba22920fb0059b3d351",
+        "sefaria_sha256": "c96d61ee8cd9be67f05de02ffd26c1ac132d7e529660b080d60e33a45dedce43"
+      },
+      {
+        "ref": "2:12",
+        "safran_sha256": "b908075e3883176e55039bea5d1b44ea099df61a8222cc7c5d6d65b7ff741a74",
+        "sefaria_sha256": "1db8b5bc7ecf7a1e8af3107794c6980e14c56b70deb01a71beec49504339aa7a"
+      },
+      {
+        "ref": "2:14",
+        "safran_sha256": "2995691d2380a1b2122d754258478421953b8c896e76c5cc030faec9ab2c898b",
+        "sefaria_sha256": "e3b0cd5b68f43dc0d12b49a6098de2a98d2aab963f2a9a5584aeab94a1a02ca1"
+      },
+      {
+        "ref": "2:15",
+        "safran_sha256": "fd30e339448188ee6b227dfc2488d0cd00ba5a50c52f77f9a1679794cb315543",
+        "sefaria_sha256": "c736cdba3c8f394119d5041d952d41f2ed62fa240b550593641e7cb7f655e91d"
+      },
+      {
+        "ref": "2:16",
+        "safran_sha256": "c3b87bdb2045f82d05f2400b12edd71d96e6d7e160e794fc22b3f732e8fd3249",
+        "sefaria_sha256": "c674fd628fd8f9128f987aea0f252c4d42a59782f1e4b8841c307f64317f5bc6"
+      },
+      {
+        "ref": "3:2",
+        "safran_sha256": "3822191c4d1dba3afa9dbafd7783e8e14289b51fe9da1203733da782c35e9c59",
+        "sefaria_sha256": "85ec832c1aae49c6ff6c811ffc3fded7fec5bc8cafbfaf04efdd78aa0cd72141"
+      },
+      {
+        "ref": "4:2",
+        "safran_sha256": "50feb4691c750133ad88a5d3320e09816f191c70e60ba600511645bbb7d409c9",
+        "sefaria_sha256": "fbb3846e53f41a3c19391c9019bd6a98718973a147366d9795f4278d210f8c9a"
+      },
+      {
+        "ref": "4:5",
+        "safran_sha256": "30a89c15df2981f1ef42accfbc54e739bf9dd8b0ea4d07af06cd618f9bb3bfd2",
+        "sefaria_sha256": "85b2b9be4cfe073bd7f636e20b957b2c745e6cc27858824e40722de686429f65"
+      },
+      {
+        "ref": "4:11",
+        "safran_sha256": "cb897f4871e22d60f042f65ec448ebe5f329742f85b99f7368b427cc2e239b87",
+        "sefaria_sha256": "a4fcd8941720913d5ee2c587eb69809d67cb0049ecf54b5265cdf9f483454cb6"
+      },
+      {
+        "ref": "4:13",
+        "safran_sha256": "97baea96e9fb5b5526b114fae1186566d7689a2749eaa0f18c112504878a3c14",
+        "sefaria_sha256": "752b4a731abe1d22953c333ea59cf725d8ccb9f35869ec8f2215fda57d6f115b"
+      },
+      {
+        "ref": "4:18",
+        "safran_sha256": "138568d5e560776c174c2205708d966d9ecb3b52d7415bae4de9adf6f6441bd0",
+        "sefaria_sha256": "2dbe8440a5bd2c99ce2f2a679c6d93c41dce3a2f83e000c5a8405f5e60387b1d"
+      },
+      {
+        "ref": "4:19",
+        "safran_sha256": "e0caf26bbef5331ca38464d0422db9347d5c6ebe11fec77540da7a0c3cee1a41",
+        "sefaria_sha256": "a58fc49a33f45d5184ab62ce5e509ef08319af807d16dce5f593f8fb17f554dd"
+      },
+      {
+        "ref": "5:4",
+        "safran_sha256": "c68bb542abf10794d596a555f26c6b163db88db26fcebb17857b16b724b453ac",
+        "sefaria_sha256": "3664cf2f96b9765b8edf620a47cbac9ab8bd4633207c5b4d7077f4d492575094"
+      },
+      {
+        "ref": "5:5",
+        "safran_sha256": "5b9195fbaeafd5e6e59a7082f30bde334170e1b77ffd0b47f7976fde2af52756",
+        "sefaria_sha256": "4b69c9156022c6e1655c97e1fed9fcc281c712d3f11bf4e6a48caf8735c5c603"
+      },
+      {
+        "ref": "5:7",
+        "safran_sha256": "5c6b604267889968da4731ed4f1a19d5808ae0b858fde25f1bb7e85b0a59ed09",
+        "sefaria_sha256": "8645a34b1d61f2d185ccdf185a31cb51eaeeaa06946f1427ca439686a88415f8"
+      },
+      {
+        "ref": "5:10",
+        "safran_sha256": "d08e2a05a650357523d5dcdf94b84022b478090b0075675c2fceb97a1ad64bca",
+        "sefaria_sha256": "8349ac6bc42cb5f83b1e9637ae4dfaabd2c9a6510e8606ae3ab08fe84ef80031"
+      },
+      {
+        "ref": "5:13",
+        "safran_sha256": "c33aab77fce2ce9c0ea4bebb36151dc0c79689f072b16c3635851c6588affa79",
+        "sefaria_sha256": "4284b6d0fb51f3a3deaeea3fef58fd8a4ebdc945f928032cf6989d3570e8e2ac"
+      },
+      {
+        "ref": "6:9",
+        "safran_sha256": "eb803c8f453bb54237b278c4404470338e44fe10f2493013495ff270bcc2bae4",
+        "sefaria_sha256": "f3c77242a72c9bfecde57b54d3adf6ae7808b89795ecaec5f99f33bfb49732e0"
+      },
+      {
+        "ref": "7:4",
+        "safran_sha256": "25d0369849c574eecb4112a9d5835a289d44f66834fdc4e8894336fc66647fd2",
+        "sefaria_sha256": "5e6ce28d5c6c68133049c4590373eca4f83cdf308bd65bb87b7139986b7e7228"
+      },
+      {
+        "ref": "7:5",
+        "safran_sha256": "a1b4557e0844901233b55c2e1493eba020e7a58ca91ac20ca2c600294270d091",
+        "sefaria_sha256": "90c5111c2e9a143d04385d2fcada55bb9b7b6d4c2823896c7c23d757d591fb49"
+      },
+      {
+        "ref": "7:6",
+        "safran_sha256": "2d1c691a64e513ffc0afd5cd3670d7668ae9b258965d2968279ec57316baed1b",
+        "sefaria_sha256": "052538befb281c6b21d54bc05aa636f25478750e46cdc5442a5cfa9045e83884"
+      },
+      {
+        "ref": "7:8",
+        "safran_sha256": "0b789434a2ceb87dc7b55ee13a5b64202ebd6f51cccbdda5968e2d559ab6a8b0",
+        "sefaria_sha256": "7e67ebb60855175d7c6954963dc3c19e2ba5f37a39571e6b8282b1bb004b293d"
+      },
+      {
+        "ref": "7:11",
+        "safran_sha256": "70acaae9459d807cdef3db7ea752693fb20abb3a0a9d14dc604a97384fd8dd17",
+        "sefaria_sha256": "3214bac8c54db793fbd3fcb8fd9b4ce3be77a05b9a75c8bcc9a26c341281c653"
+      },
+      {
+        "ref": "7:14",
+        "safran_sha256": "adf52f313a0e04561f2757edf31e6006b421e5ff22d48d92b4cbb1aa9ab90345",
+        "sefaria_sha256": "fefa870d7c9519278d9dce673ff525aee1ee3d1653cdfc957b931f9cbf2960a1"
+      },
+      {
+        "ref": "7:15",
+        "safran_sha256": "477a84b56ca87177792600eb3a34e0794b7484a75bd3af1b93410b3adb4c2403",
+        "sefaria_sha256": "78b90421597f396fdae6039b1baac06220ae25f5a7a1ea911ec6111292170ea1"
+      },
+      {
+        "ref": "7:18",
+        "safran_sha256": "903fd6263f1be819ac60595a3db43b9bb0a706987eff092670812c47c570af6a",
+        "sefaria_sha256": "f6b6e1a5bc8566968cbdbbf79d534f3babdaeaa6b93359d2456ef110aa636f79"
+      },
+      {
+        "ref": "8:2",
+        "safran_sha256": "26d67d78fd507031924a7dd1ba8ae54292f77917b95faeb06cc0077a05d3c679",
+        "sefaria_sha256": "e49c50475426cfa36af6481176813fcd9be6b3996b1a8d0730206c4225750ea7"
+      },
+      {
+        "ref": "8:4",
+        "safran_sha256": "c41169f69cf61bab87d1cd0d42573a9f900d799d699fe4991b9aabb82c19c864",
+        "sefaria_sha256": "72b32b034f4d5869fa8cc6d42b5cddf93652ecf72fd8b34949397505a0d8111a"
+      },
+      {
+        "ref": "8:7",
+        "safran_sha256": "85f2615e893080be9906bfcd44492fef9ddc389b0442da4df424661fd1fc3016",
+        "sefaria_sha256": "ae8d435796d470c0181d76b6d0a21061f6199b3086861dff31483b82607ce9be"
+      },
+      {
+        "ref": "8:11",
+        "safran_sha256": "69338499da2998f211abe817dff6f472ef018e2fc07615e7afbfd77377a36e43",
+        "sefaria_sha256": "c1f5fe16df8453302e8f046a039c7efc17f3feb1236277d953c5b7180eea6fe4"
+      },
+      {
+        "ref": "8:12",
+        "safran_sha256": "17c240a55517de01a1d55dcde4c2b1a89bead7395537d5106962dd2982484506",
+        "sefaria_sha256": "db755340c589597f9a6ed03ec443a1a40e686832b9e4f541cea9cf3e540df5c8"
+      },
+      {
+        "ref": "9:1",
+        "safran_sha256": "b92690900bc62a13c2da0c11ef84dfa5a808612188656a9a26603ecdf8122bd1",
+        "sefaria_sha256": "54a9b5bd1593802de1c0174359a314c0002884aa1399d8e6adef39f86909d630"
+      },
+      {
+        "ref": "9:5",
+        "safran_sha256": "f7c76aede44df68ba95b5b5d940c8106fbf44ddbb82845627adebb772d81ee24",
+        "sefaria_sha256": "ae3bb9cf0a6ad752aeda4d494865e20e06e688bfc35161ffece14cb7ffda800a"
+      },
+      {
+        "ref": "9:6",
+        "safran_sha256": "b8d3879d3be8390b4c9dc0e77e817844b8385c9b22b1b38a0d08b096244fc84e",
+        "sefaria_sha256": "8f9c5696324b7d6e360efd426fc61a1bab960e2888fe93527ec6883164dcfc82"
+      },
+      {
+        "ref": "9:9",
+        "safran_sha256": "88f8fd982d74eaef348fdfebdc201c426710a13c07217c9fdb7ced9be2eb4224",
+        "sefaria_sha256": "65f00aa7475355420f65918c46aab10a921bd52706c993cff6b67b3a3047e34a"
+      },
+      {
+        "ref": "9:10",
+        "safran_sha256": "dd0a0c2f9cfc9eea8b1fa0c114d63e442dc4a05f0173ad7417705dc53382eb16",
+        "sefaria_sha256": "025e62f417c1bb54fec83f20a319edd35e55670525924f2e943b897671cb4a18"
+      },
+      {
+        "ref": "9:12",
+        "safran_sha256": "bd534e0b3c1971ad134e4db577844548bf81796197f980cb7a717abb49b54377",
+        "sefaria_sha256": "0c9f15d5c010563dd99692f59b5a381b6025e180a6ca64054947f488a3d7224a"
+      },
+      {
+        "ref": "10:8",
+        "safran_sha256": "34d152260620155c12781297bec6756fc24c6113e5781275a1f09a7fd3982ec5",
+        "sefaria_sha256": "eeb88c03ee517d83cfca44e01d0f72c14b37e92d4bd580d437aadd1bab7ac25f"
+      },
+      {
+        "ref": "10:15",
+        "safran_sha256": "ec1d40def44d3274f0f6c56a9aa88fe3f726fa30c67e79fa09b2b03fb26dd33e",
+        "sefaria_sha256": "d3790298e5b2c9e6cc4823968405f79ad623d6dd6a9e9b9d25289d2ae342829d"
+      },
+      {
+        "ref": "10:16",
+        "safran_sha256": "54139ff3ed4ab0df464973ffe4b3c926cfc89a898401267b428732b7f0c57c8f",
+        "sefaria_sha256": "4e293b51a82471b5b10e8797b1ba16125891854403570791bde5e89478ddc23d"
+      },
+      {
+        "ref": "11:2",
+        "safran_sha256": "7e3b676665a038b7fa44517774949687b3cc23dc35aa83bef6fbf473907780c9",
+        "sefaria_sha256": "6cbea4e4770fd086f02e3610bd890886b0e693aa00137bfc8efbb6a8921ae44a"
+      },
+      {
+        "ref": "11:3",
+        "safran_sha256": "7dd82c78d9d84836fa3f972f0724ced7513c9ac47e49236f2337bbdb9ce44719",
+        "sefaria_sha256": "b3fefc1fe97094178b3dc24908e061204497d1a027d33e4ac31ecaf65a30b06f"
+      },
+      {
+        "ref": "11:6",
+        "safran_sha256": "f80364dca5aa75910c41acfdc9d3a6088368897af359b2b6fe781bd0236b29e2",
+        "sefaria_sha256": "02cb7050514f56c1ace0106b4ccaab9a908a34323ca107a665ff1d51712c57b5"
+      },
+      {
+        "ref": "11:9",
+        "safran_sha256": "fe516748f37c0810262ecb57a6301a8b1904a3b93f495997ee144b58a154e3c4",
+        "sefaria_sha256": "c5a2b16eb28840713fe7191183dcb0811ca997794719afd14307b359af24ad5d"
+      },
+      {
+        "ref": "11:18",
+        "safran_sha256": "1c4da0dc975521d768559e5236e2e14511f52a601ab7894ebbb7eeebbd38b4eb",
+        "sefaria_sha256": "10fdd19f4d3320debb1b9e29a77669c67cf80e5643d99ab1c877241c61b7ab28"
+      },
+      {
+        "ref": "11:21",
+        "safran_sha256": "cb02b9f887e5e087c547f8e472b941b8f7e2086239d971321cc9cc9fa21fa83b",
+        "sefaria_sha256": "ba28f739a350a8b6690df7f594ab55684d351c0a6fc781eafccae2e3e2f4e77e"
+      },
+      {
+        "ref": "12:1",
+        "safran_sha256": "00822dbb37b7fcb8997e546eb8521e37397d93ed14e74afb8daf4c3db349b92c",
+        "sefaria_sha256": "7adbd088603a126a08bc48855fbadae5aa0e1a3ddbc9f1b4ce2093d9ad1c4079"
+      },
+      {
+        "ref": "12:13",
+        "safran_sha256": "2c186f071bdf117143c085840a6a551b6bf695c369b564d00112ca5d94ec02ad",
+        "sefaria_sha256": "5b1604b00dba578d4abf684e573938d92f78c254d45fb97699d01bc661d45224"
+      },
+      {
+        "ref": "12:16",
+        "safran_sha256": "cfc51b89b3a3d0a84878eb68a685d018b38548c719f2a728c5dd05a63d597182",
+        "sefaria_sha256": "6afefd7f31fda71e551a8b1d22f249e3f09d331c611e3869112de1447323701f"
+      },
+      {
+        "ref": "12:21",
+        "safran_sha256": "6688a4b12ae8ca6890c0798fd618b9e23cd93a00d628cfbd6392510fbce54ad9",
+        "sefaria_sha256": "92559f7f3257beda799bb028f76022e6bcb6e5d03e97b0e489aae27917b8b008"
+      },
+      {
+        "ref": "13:2",
+        "safran_sha256": "0582734f21ed88924b98d076fff507e1339823360c5d036a620b77f6bc73146c",
+        "sefaria_sha256": "7e8ff440cbd95a4d4a116555d9d7af031335a477a7d5b7aa264dfea28770a8d9"
+      },
+      {
+        "ref": "13:3",
+        "safran_sha256": "83d231852912f4dce2242744a3e9aaf003d1ed7bf741d44790da798abe2f0f21",
+        "sefaria_sha256": "188799c00c52da016b241eef56b90499181f58e32afe608a8e032be2fc0fa74c"
+      },
+      {
+        "ref": "13:9",
+        "safran_sha256": "3fdd4d64b50ac6ac73109617e119284ad376cb2b4cf48bb39b51d1e4dda38160",
+        "sefaria_sha256": "a2fd5cafcece6b7e506fd2da2fe57654e1ec298a5a5de14c5d3469572c562398"
+      },
+      {
+        "ref": "13:12",
+        "safran_sha256": "8a0a467e1decd26aaa607d5d2135133984786a9de170db89f0eee837db3b6b12",
+        "sefaria_sha256": "8a87ac9d3e5a88262e81a21a5024949e4e563f5092d6ba678919359faa44e7d6"
+      },
+      {
+        "ref": "13:15",
+        "safran_sha256": "778f9770dd0a1e8c7f2173c39157c5ab17c312e56a67dd45601a0bd66c353a2c",
+        "sefaria_sha256": "b5038cd7f091c11e2917eec624ee6947e831e4c5ad0279ff8e4980c396a14744"
+      },
+      {
+        "ref": "13:19",
+        "safran_sha256": "c308f0d786258dd26437f7411cc4e2eddbfe2f55df3c84396fc71e67360839c4",
+        "sefaria_sha256": "c91c32db18f3b2281e241b15c6e43f52a83df6e4393c563b80eab11f38843d5f"
+      },
+      {
+        "ref": "13:20",
+        "safran_sha256": "d02e5799ef77db4e0573798ec8e7a141ee8f2193c366cef70a4bf8990a4722c4",
+        "sefaria_sha256": "dd11c42dedb25849ec4575ad654193b858d4d425ca6ea09b0a6543d845126d45"
+      },
+      {
+        "ref": "13:24",
+        "safran_sha256": "a5a23fdd6e5128c434e704b93be8368b9d67628a261e2ba488d3e8dcfd8746ac",
+        "sefaria_sha256": "c80716980a2fabb152ffab476636acd56b9757ed46f5acd953373436e565c12c"
+      },
+      {
+        "ref": "13:25",
+        "safran_sha256": "bc92bbf17f7bb0a0aa690ab2cbd12cc0ad082727a2747179266d0ae74b343da7",
+        "sefaria_sha256": "e7932da8d13a6ce72ecf2bd787eacbf2b1347ea66944b2ddcbfaf88a646a68b8"
+      },
+      {
+        "ref": "14:3",
+        "safran_sha256": "90cfdf92c7780379d2ceb1340429ab64f635249557581c283805de7f9611962b",
+        "sefaria_sha256": "1b9207b6ff2108e8dfde376cd61b2c3dac2d54b199b6efb11f66790a6b91d609"
+      },
+      {
+        "ref": "14:6",
+        "safran_sha256": "38f2e291f87669aba34b7b6769a0857d47ff3bacd264ccb0dab79c497413da44",
+        "sefaria_sha256": "fd6cdb279cfd2712265aaaed36a41bc600d02abde42cb33a13b326ff33f869da"
+      },
+      {
+        "ref": "15:1",
+        "safran_sha256": "a5bb386885245dc04d1c58ef08dae89ce72342905d56cd2c994485660d156d59",
+        "sefaria_sha256": "cbb79db804f0493fd7ff4d97b2e7026e888c12a6d9af6a71526ea87330dcefb5"
+      },
+      {
+        "ref": "15:3",
+        "safran_sha256": "bee0205e1ef50f97bb79dc565f4fab3aca9715228240af71ba5129915157cd61",
+        "sefaria_sha256": "a816fc4a39de9dfae7e7410c4775204dddda8a5d35f3a435a8cee4685468b9ad"
+      }
+    ],
+    "sefaria_only_nonempty_refs": [],
+    "safran_only_nonempty_refs": []
+  },
+  {
+    "title": "Mishneh Torah, Reading the Shema",
+    "selected_source": "Safran",
+    "sefaria_file": "sources/sefaria/Mishneh_Torah_Reading_the_Shema.json",
+    "different_segments": [
+      {
+        "ref": "1:4",
+        "safran_sha256": "3d83ea3c1ee64a2b54d1287361af2c55be4576db34f87db4cdeaf6c1243758c9",
+        "sefaria_sha256": "f4d4b598cf8c0abf05f5a017e7e85cb4d4962771d23c4586553e916f3fb9a713"
+      },
+      {
+        "ref": "1:5",
+        "safran_sha256": "af2c3ac07047eca73dbdd9c5e3efe16439a45c4fce67549f5d6270f195543aad",
+        "sefaria_sha256": "cfaa692ac864a04f3964266b26290813929eda6b45ebd8478e2751ee889575ef"
+      },
+      {
+        "ref": "1:6",
+        "safran_sha256": "ff3a78c55bd561ed64969855ee62021b6de8182c698f606d28e2aaf72316b345",
+        "sefaria_sha256": "7e190fee43b4f49fbf84429da853229083cf196f74ee897722d41738847fec5a"
+      },
+      {
+        "ref": "1:10",
+        "safran_sha256": "29807cb39ad8b9d008c023a43c1c2497178924a38c87599c2383e8d7ba8abb14",
+        "sefaria_sha256": "b8830071d4c32bf477bf452a98806861c12fb84e42f3d50e13512f3621abb0c2"
+      },
+      {
+        "ref": "1:11",
+        "safran_sha256": "92f093b90ba4f5bfb7e34efc8a7c2fd91b5480ad655295e05321e5f199461351",
+        "sefaria_sha256": "fa14caceddc68f20d4425a45a7c902909aef460061dbfdce6a65768fd33e1e0b"
+      },
+      {
+        "ref": "1:13",
+        "safran_sha256": "b6df08e90bdfa182da54c6f229998c40db6a62a6509f8378a1cb03dd25b9f4d5",
+        "sefaria_sha256": "5e58c81444a6b5f460b6f94c9a8ab223a2da4616dca4ac60657b40680278e5c8"
+      },
+      {
+        "ref": "2:1",
+        "safran_sha256": "4fe8beabe7a2f47d6dfabcabd3c064fb2961a65ec89affd222373eaa1b8d3178",
+        "sefaria_sha256": "bef8d631fd6acb4b0c6dcf3f60bcd9f6633ddb0f1e7d4453658896ce050ab95e"
+      },
+      {
+        "ref": "2:11",
+        "safran_sha256": "20a6a5f94847f068e2c1cb0b7eb8754e3c3d347170213482593cde482d0b0036",
+        "sefaria_sha256": "e4c2cf53096c384e9122b3c5195a0a9106e72486056558ab6805c3774b2f9b10"
+      },
+      {
+        "ref": "3:6",
+        "safran_sha256": "8ef4a33d635fef7fe8d0741781811017473f87a70e7ea75ac013dee66a91d003",
+        "sefaria_sha256": "ce76cf29b2176223b19643907860d3f46a652c1d55949bd93f2cd174946b6fdb"
+      },
+      {
+        "ref": "3:11",
+        "safran_sha256": "9db5389f65dbda4d6387c0098e8ac9319fe199c1cbd195d331960192ea370514",
+        "sefaria_sha256": "0ad9fc5c8e641051bb9674f8f07efd0fc04e51e23068993d226f43233644420c"
+      },
+      {
+        "ref": "3:14",
+        "safran_sha256": "3e655eb737ed3f1c7ebcc339c6afe9117f7dffcd195608a8facfca17fd285604",
+        "sefaria_sha256": "762fabb5afaa8bf6b178933da4d2fa61c1fda3d108886b53ae4bb4f3893498bb"
+      },
+      {
+        "ref": "3:16",
+        "safran_sha256": "ccec47b8486d74249dc88f42f65b26e4d30ddb7fd0554220bc384001a9032f94",
+        "sefaria_sha256": "036123ad0e397b284903119a6d7954b1b87734bf5d443c336b83fc9ff8f7c612"
+      },
+      {
+        "ref": "3:19",
+        "safran_sha256": "1aa724b52628d0aca4b22cd14b0bfb5a77e8f507bd84850090e2b277e0d281f6",
+        "sefaria_sha256": "1afeb796c300bbcebb6808b5d5d3b7274b0765e78698faca883f6d1cb09a646f"
+      },
+      {
+        "ref": "4:3",
+        "safran_sha256": "87e4950aa7a29d5d7a7397458fcdfd95ad8b9feef2a7e1efff350c5a3ba1a1f7",
+        "sefaria_sha256": "559a8b128f19df4c8dca0f6167ba8137642ed791a828a9221fc23c12487b6a19"
+      }
+    ],
+    "sefaria_only_nonempty_refs": [],
+    "safran_only_nonempty_refs": []
+  },
+  {
+    "title": "Mishneh Torah, Repentance",
+    "selected_source": "Safran",
+    "sefaria_file": "sources/sefaria/Mishneh_Torah_Repentance.json",
+    "different_segments": [
+      {
+        "ref": "1:4",
+        "safran_sha256": "cd90245c4c72a49e7a67b82c2eca517e6ecac2a42be096ac4baed0844c64f714",
+        "sefaria_sha256": "c650fdc04c6bfb46bf0e331c148552b050ce80fec7240f2b220ed4b2191056b3"
+      },
+      {
+        "ref": "2:2",
+        "safran_sha256": "1a5d20d206a58f8bf1271e930203c2fe527debc5f7901c15af3e4f06b86709da",
+        "sefaria_sha256": "570afa1cdf1e9d31487042baab92c473ed56e23896218b378425d68343a59da7"
+      },
+      {
+        "ref": "2:3",
+        "safran_sha256": "a6a2fc991d960d5d0076588fc8cfe87b24ca46412985a9107d8037676163fd11",
+        "sefaria_sha256": "aa6108f1c7e4f0b92cd5f5271a3ecc2f390bbf92afe6c61df1253f2b7f5491fc"
+      },
+      {
+        "ref": "3:5",
+        "safran_sha256": "a428864633341b35bcd1ed822aa4f825345a090492825094ac764e51767bf3f6",
+        "sefaria_sha256": "15b2d5e3b625fdf718c9a8824dc79c4c1333be41dd99807566968930e800df30"
+      },
+      {
+        "ref": "4:1",
+        "safran_sha256": "3c9770bf7f9c0132e154d944de3ae9065e99f567d90d586059d6b04a26aabd84",
+        "sefaria_sha256": "d64a40ccee428b290be69d2056e304f6774497d07f8cfb3c9e0536134b3e2c78"
+      },
+      {
+        "ref": "4:2",
+        "safran_sha256": "0f2ac1ba0137469c84976283545e9e4242da1d2c8f6c6b23a8e0914ed1216faa",
+        "sefaria_sha256": "2056dbedcfc8fc6f984d3930ce448c8419bbedfa12e0e80456e5d40e39065c1b"
+      },
+      {
+        "ref": "7:1",
+        "safran_sha256": "cae5bbb4c26d934636d2e300477462ac958a931869ce6a56ec455272f82c5578",
+        "sefaria_sha256": "8ea44dc59f90f811d0bd81aa47c07a305110852f8ec30b03ae0d28fc8fc8f2e4"
+      },
+      {
+        "ref": "7:7",
+        "safran_sha256": "1c89eaf8bd37b18a96c0b8c38c5788e976e59bc350b9b86813a49da95aeed0e9",
+        "sefaria_sha256": "36c869ca42d70de843e12aaed7d70408a123aba7f318f5dbe90849cf51be3440"
+      },
+      {
+        "ref": "10:6",
+        "safran_sha256": "c540b178cdc2c293b4b2d1b27d14e333d6ee8f2da8b49b61582dc3d25eb08f86",
+        "sefaria_sha256": "63c898fe58596ac1ce2c02a5417ee42c4671d41c7dfc361a36a10b40527881a4"
+      }
+    ],
+    "sefaria_only_nonempty_refs": [],
+    "safran_only_nonempty_refs": []
+  },
+  {
+    "title": "Mishneh Torah, The Sanhedrin and the Penalties within Their Jurisdiction",
+    "selected_source": "Safran",
+    "sefaria_file": "sources/sefaria/Mishneh_Torah_The_Sanhedrin_and_the_Penalties_within_Their_Jurisdiction.json",
+    "different_segments": [
+      {
+        "ref": "2:11",
+        "safran_sha256": "25701459c9a1413a70d348e2a7c4413238c3167b1ec88120d9384738c658a857",
+        "sefaria_sha256": "ddcee700cb3e1fe113a6af871c6218cbaaf73f10d01ba45ad9a1ff89eec1d16a"
+      },
+      {
+        "ref": "3:8",
+        "safran_sha256": "b6d48fcdb7699e64613da369d499fd9d6bf83ca40d1952a305e8fc4b164bb0cb",
+        "sefaria_sha256": "9417feef9b5bca366338a317b2533b050beaba8fc674126a7ea29b97a9fcc3b8"
+      },
+      {
+        "ref": "4:8",
+        "safran_sha256": "63188dc5fd6284e6d3593f96716a11779c6eebb2f4c868bb25b2a38421d8c6be",
+        "sefaria_sha256": "0c2310116fdbee6a3993febf842656f62ab0da1f473e225dccc6d27c8d8bf6a0"
+      },
+      {
+        "ref": "9:2",
+        "safran_sha256": "1cd907f4fed9927be57fd6828f06c25aa0350d6cf5a9d48233c522c28a3c6ac1",
+        "sefaria_sha256": "9254d9dbbf37c8573ea953c216e2e21226fb248aca71b3bf0484db5ea032dca8"
+      },
+      {
+        "ref": "11:1",
+        "safran_sha256": "257c6b32f301f76d5747b0fb708100d6368a4edd8ad2e093957bf7cb1765b8d3",
+        "sefaria_sha256": "7a83599dca81a392eee6dd896bb5ec0e3e93e7bec87d9ca288ba16647a2f0791"
+      },
+      {
+        "ref": "12:3",
+        "safran_sha256": "bb44e2e29201e319141ebed3fd39f3b438f07d87d142c24bba8260bc5a6ca51e",
+        "sefaria_sha256": "0c0a503261033aa6aed306c9629a4f44ee670dc59e3329d356f1eba745b06497"
+      },
+      {
+        "ref": "15:6",
+        "safran_sha256": "08addb427a078c9211a5750cfc21b3c47c9cfafe7f7d0b8367c35d93d613b88f",
+        "sefaria_sha256": "146664540efc2ebb9486acef7e16821070326940e0ec54ef0a49dd6a7de8a93b"
+      },
+      {
+        "ref": "15:7",
+        "safran_sha256": "367729893ffe38f225f65ca5c78dad24ebef05bb601c65c28135dcb391a79954",
+        "sefaria_sha256": "88e37b18054d0f84b7831c22de542c4949b5f0d85eec35c3413274fba24e12f3"
+      },
+      {
+        "ref": "15:8",
+        "safran_sha256": "65ddedddceed364afe20c6011fe21dfd3bb85c9f2471de82e8d848dc13f7d054",
+        "sefaria_sha256": "3d64cdcf5db057d130d0bbfe1c1b9a521f6fbd335bd042b85b65fa4aa2fc1b65"
+      },
+      {
+        "ref": "15:11",
+        "safran_sha256": "c79a3ff33fa47890c5ea3008edb317bf81333bff8f765df5b49806fc6baeb00f",
+        "sefaria_sha256": "e6d4a50ef1c22671b7ef7eb4c5d5e04bccb2e6aec2e65640bab379b1afea7085"
+      },
+      {
+        "ref": "19:2",
+        "safran_sha256": "44ae7cca55c03c16f4fd379d6b1387bd5884730433f72e642fe41e9d7c3af9ca",
+        "sefaria_sha256": "04e84e1bdb777c41bd1d95d65bb4e641bfc8f529d4b1b70386ddccb95e39645d"
+      },
+      {
+        "ref": "19:3",
+        "safran_sha256": "24fed139a5482996b1f6338341ce0ded02e23ac136ebc940a24fd2a1ede3eca9",
+        "sefaria_sha256": "6e661ad03bd924ea5f950fd367120ccc7aaba0b89f65aaef6a8e1f330a49e30b"
+      },
+      {
+        "ref": "19:4",
+        "safran_sha256": "f2c14dbad5bf2a008ebce672c78ba804eb55aadabfdf97e942350d9a960e827d",
+        "sefaria_sha256": "7ab23d1ce9d5e6d0839911bfc617556712a264eeba44402430f3c4a3986900e8"
+      },
+      {
+        "ref": "20:4",
+        "safran_sha256": "faac909cc82a4a024c85291c736758e58fdf9f8f3f2eee2965ed4f444d21fb3e",
+        "sefaria_sha256": "a65362f2a6bec4aeb834be0a4fc961ce7a33cb95ec84d15d13926f02c0a3192d"
+      },
+      {
+        "ref": "21:7",
+        "safran_sha256": "cf57aa07914fcfb00f717571ae0b84f5afc938d6ba08bfb24695dc032acd0169",
+        "sefaria_sha256": "49f9eebfea189419ee618520d259777f8bd145170eefed27e96bcbe0a8e1201b"
+      },
+      {
+        "ref": "21:10",
+        "safran_sha256": "4ab18d9debe9bd198d40ba16cf5c338af0f06dca25991a244562a5ab7a3a5c04",
+        "sefaria_sha256": "00566022ecf1a7829e8f2d3b4cacf7eb1b33e71bfbe43ea20f9c18d6b132f0a7"
+      },
+      {
+        "ref": "23:9",
+        "safran_sha256": "4161ec6fcb2b7c19b93002264aa11b03c84fee9dfe3b9836fd8e6c3686224042",
+        "sefaria_sha256": "d988a0bec45eea27919ef8d8a62aad1ee73f274cf375d034e4e4050c9b21298d"
+      },
+      {
+        "ref": "26:7",
+        "safran_sha256": "d2b032663d77dd4e3d955ec84198b867bc67de1e758fa5c4d7444a9476ffaa06",
+        "sefaria_sha256": "7d6f822bbe128c6541cde2db548b6916c5d9ee667738ccc3819fe803570ad510"
+      }
+    ],
+    "sefaria_only_nonempty_refs": [],
+    "safran_only_nonempty_refs": []
+  },
+  {
+    "title": "Mishneh Torah, Torah Study",
+    "selected_source": "Safran",
+    "sefaria_file": "sources/sefaria/Mishneh_Torah_Torah_Study.json",
+    "different_segments": [
+      {
+        "ref": "1:7",
+        "safran_sha256": "8eba14926c86d1e0ab9684bd116cf2f6d26fd7206ac5fa26d0d88ee11bb90bf0",
+        "sefaria_sha256": "b474984b2b796cca56a13b217019189291b03bccd2fea36741943eeb2fd9edda"
+      },
+      {
+        "ref": "3:5",
+        "safran_sha256": "a7acfae248e397d2311ccfdc0315c74d8ec4e95a798534ac2cce427196857be3",
+        "sefaria_sha256": "768c3ea2036b77e98758ef187cec668f827002dd52ee502d4139924e33074ada"
+      },
+      {
+        "ref": "3:12",
+        "safran_sha256": "a0dce333ce4a4e6454049511009cb1248313095dff5922d26a6d58bd36798036",
+        "sefaria_sha256": "eba45d1d553e73a63e8217197f567b49d531240913600773716e513d7a02393c"
+      },
+      {
+        "ref": "3:13",
+        "safran_sha256": "cacbb21604cf1f7ebdd3ef2d537975791c73efa5af0d327f048e9319cd728454",
+        "sefaria_sha256": "a4b015c30c722d7ca810cfc8871838be500d4c744d05eb0e084cd18952c85546"
+      },
+      {
+        "ref": "4:1",
+        "safran_sha256": "65a6c0959ceca342e3e81384f64ffbb43ce7ff2378a8f589dc381b8110c15276",
+        "sefaria_sha256": "28362fd5fb7162e818fa1b7215ee4470f66ba8c56d4d83bca94cd22948631ab1"
+      },
+      {
+        "ref": "4:3",
+        "safran_sha256": "e498db542569a78f4dbf1576233015828f806db1f684dea954924fc7a1ae880c",
+        "sefaria_sha256": "30278d821c3a327cb03d20ad18fa28985e217eee555743eabb7ab076105ccc8e"
+      },
+      {
+        "ref": "5:1",
+        "safran_sha256": "7b743ab5260f785809081d7ecf6e5e881206a804fbeee1a73d49b51b0cf4e732",
+        "sefaria_sha256": "eb79293e25e8d58d6f8dfad6b1b59a4a2b298dc19d9a8e67f229cedb71764be6"
+      },
+      {
+        "ref": "5:4",
+        "safran_sha256": "a6d6526196a90de7ca63a2754b6add36c8121ad447c48c06d62a2698e19e67b2",
+        "sefaria_sha256": "3b1dd7e78f885bfdeed055258d259d8a6b2d00cb5678b5e91fabb97183751736"
+      },
+      {
+        "ref": "5:9",
+        "safran_sha256": "626ca085b59081853a8f1c3a3e27d118dd6f2781d1c968f323538356d07bc039",
+        "sefaria_sha256": "51360e695984a8847ad3dc41f641c864d67edab7226e91a231f28fb0a232568b"
+      },
+      {
+        "ref": "6:1",
+        "safran_sha256": "ac110d9ee3dd18f86d3c1bbe1d1ab19c81804333a25fd857d309fb0d5af9386e",
+        "sefaria_sha256": "f7ff9be0e7303a7ae8bc9fdad8f263ef0783a4df45b21c4a883b32f12bfa53d8"
+      },
+      {
+        "ref": "6:9",
+        "safran_sha256": "be3e78287671ccf1c92375435ed8716c01c8d1f73f77e5d6412471a1c40c6b7b",
+        "sefaria_sha256": "4c66dd33914ea24905c2997c45663b76096ea5278a39d8304520d931cfe43d94"
+      },
+      {
+        "ref": "6:11",
+        "safran_sha256": "67b6494ec7f2c8fe9ae284e0f75fbd1f7ad2c53683d0f34398a8a1a6f22f8219",
+        "sefaria_sha256": "1bb0b0878f430d06be74dac4204d8b63653257c2507506120a4d641c6c097bc1"
+      },
+      {
+        "ref": "6:14",
+        "safran_sha256": "5cc14af01946ac154060eff6922ad1da77533251d3ce7b1d101d57cec986062f",
+        "sefaria_sha256": "3cb75a3b23f5121da45dea7755f7ddad16945edc53a2d461ec9e2fe71a5d72c2"
+      },
+      {
+        "ref": "7:12",
+        "safran_sha256": "efd457bca499b78458d2349c0aa7e20841ef112f05529356d0fa81e54a612c02",
+        "sefaria_sha256": "8786c7f3f293a9fff878d2dc37a6ce2b22a6476c2af5b6a9a614b6783e26c418"
+      },
+      {
+        "ref": "7:13",
+        "safran_sha256": "7de538d02b4cd22fdca741734f98fbcb509970e38c94c01cfc715eadf2b15780",
+        "sefaria_sha256": "28608b2954d1936082faf6f9ad791e203df9db003fca774f0e50bb4011513fd7"
+      }
+    ],
+    "sefaria_only_nonempty_refs": [],
+    "safran_only_nonempty_refs": []
+  }
+]
