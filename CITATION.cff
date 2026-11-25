@@ -2,6 +2,7 @@ cff-version: 1.2.0
 message: "Please cite this collection and credit Mandelstamm as translator and Maimonides as author."
 type: dataset
 version: "1.0.0"
+doi: "10.5281/zenodo.24528330"
 date-released: "2026-11-25"
 title: "Mandelstamm – Mischne Tora: German texts from Safran and Sefaria"
 authors:

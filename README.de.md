@@ -1,5 +1,7 @@
 # Mandelstamm – Mischne Tora
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24528330.svg)](https://doi.org/10.5281/zenodo.24528330)
+
 <p align="center">
   <img src="portraits/mandelstamm.jpg" alt="Leon Mandelstamm" height="180">
   <br><sub>Leon Mandelstamm</sub>
@@ -104,6 +106,6 @@ Der normale Export verwendet die gespeicherten Sefaria-Dateien und committed Saf
 
 Originale Lizenz- und Editionsfelder bleiben unverändert. Alle Safran-Hauptdateien sind als `Public Domain` gekennzeichnet, außer „Sanhedrin“, dessen Feld `unknown` lautet. Das wird nicht stillschweigend umgedeutet. Neue Dokumentation und redaktionelle Aufbereitung: CC BY 4.0; Skripte MIT. Siehe [LICENSE.md](LICENSE.md).
 
-Igor Mendel Itkin (Hg.): *Mandelstamm – Mischne Tora: deutsche Texte aus Safran und Sefaria*. https://github.com/mitkin89/mandelstamm-mischne-tora. Bitte zusätzlich Mandelstamm als Übersetzer, Maimonides als Verfasser und den verwendeten Commit beziehungsweise die Version nennen. [CITATION.cff](CITATION.cff).
+Igor Mendel Itkin (Hg.): *Mandelstamm – Mischne Tora: deutsche Texte aus Safran und Sefaria*. Version 1.0.0, 2026. https://doi.org/10.5281/zenodo.24528330. Bitte zusätzlich Mandelstamm als Übersetzer, Maimonides als Verfasser und den verwendeten Commit beziehungsweise die Version nennen. [CITATION.cff](CITATION.cff).
 
 Version 1.0.0: [GitHub-Release](https://github.com/mitkin89/mandelstamm-mischne-tora/releases/tag/1.0.0).

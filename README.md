@@ -1,5 +1,7 @@
 # Mandelstamm – Mishneh Torah in German
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24528330.svg)](https://doi.org/10.5281/zenodo.24528330)
+
 <p align="center">
   <img src="portraits/mandelstamm.jpg" alt="Leon Mandelstamm" height="180">
   <br><sub>Leon Mandelstamm</sub>
@@ -104,6 +106,6 @@ Normal synchronization reuses local Sefaria snapshots and committed Safran input
 
 Source-specific licenses and editorial metadata are retained. Safran main files state `Public Domain`, except Sanhedrin, whose field is `unknown`; this is not silently reclassified. New documentation/editorial preparation: CC BY 4.0; scripts MIT. See [LICENSE.md](LICENSE.md).
 
-Igor Mendel Itkin (ed.): *Mandelstamm – Mischne Tora: German texts from Safran and Sefaria*. https://github.com/mitkin89/mandelstamm-mischne-tora. Please also credit Mandelstamm as translator, Maimonides as author, and specify the commit/version used. [CITATION.cff](CITATION.cff).
+Igor Mendel Itkin (ed.): *Mandelstamm – Mischne Tora: German texts from Safran and Sefaria*. Version 1.0.0, 2026. https://doi.org/10.5281/zenodo.24528330. Please also credit Mandelstamm as translator, Maimonides as author, and specify the commit/version used. [CITATION.cff](CITATION.cff).
 
 Version 1.0.0: [GitHub release](https://github.com/mitkin89/mandelstamm-mischne-tora/releases/tag/1.0.0).
