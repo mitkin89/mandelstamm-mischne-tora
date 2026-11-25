@@ -75,7 +75,7 @@ See [correction history](corrections/kings-and-wars.json). Historical spellings 
 - `corrections/kings-and-wars.json`: all 23 changes, primary-text comparison for 8:9 and open review items.
 - `links/`: 25 existing Safran reference files, not full texts of linked works.
 - `portraits/mandelstamm.jpg`: unchanged Safran portrait.
-- `manifest.json`: pinned Safran commit, selection, counts and SHA-256 hashes.
+- `manifest.json`: pinned Safran commit and source subdirectory (`app/`), selection, counts and SHA-256 hashes.
 - `scripts/`: synchronization, standalone validation and explicit refresh of Sefaria snapshots.
 
 `text` is organized by chapter and halakhah, with 1-based list positions. All 174 empty slots among 6,470 segment slots are retained. Inherited `en`/`English` language fields technically identify German content; the manifest records actual language `de`. HTML formatting and footnotes are preserved.

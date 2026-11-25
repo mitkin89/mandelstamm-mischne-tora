@@ -75,7 +75,7 @@ Siehe [Korrekturprotokoll](corrections/kings-and-wars.json). Historische Schreib
 - `corrections/kings-and-wars.json`: die 23 Korrekturen einschließlich Quellbeleg für 8:9 und offenen Prüfpunkten.
 - `links/`: 25 vorhandene Safran-Dateien mit Quellenverweisen; keine Volltexte der verlinkten Werke.
 - `portraits/mandelstamm.jpg`: unverändert aus Safran übernommenes Porträt.
-- `manifest.json`: Safran-Commit, Auswahl und Bestandszahlen sowie SHA-256-Prüfsummen.
+- `manifest.json`: Safran-Commit und Quellunterverzeichnis (`app/`), Auswahl und Bestandszahlen sowie SHA-256-Prüfsummen.
 - `scripts/`: Export, eigenständige Validierung und bewusster Neuabruf des Sefaria-Bestands.
 
 `text` ist in Kapitel und Halachot gegliedert; Listenpositionen zählen ab 1. Leere Felder dürfen nicht entfernt werden. Die 6.470 Abschnittsfelder enthalten 174 leere Felder, die unverändert bleiben. Die technischen Originalsprachfelder `en` beziehungsweise `English` bezeichnen hier deutsche Texte; das Manifest nennt die tatsächliche Sprache `de`. Fußnoten und HTML-Formatierung bleiben erhalten.

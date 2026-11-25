@@ -1,3 +1,3 @@
 # Leon Mandelstamm
 
-Copied unchanged from [Safran](https://github.com/mitkin89/Safran/blob/01ac305b05170d21d7687bc95553100558a60ccb/portraits/mandelstamm.jpg).
+Copied unchanged from [Safran](https://github.com/mitkin89/Safran/blob/2ffa4311ccaf7baf797af453865e31a8a281bcb8/app/portraits/mandelstamm.jpg).

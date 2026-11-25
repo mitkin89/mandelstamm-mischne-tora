@@ -1,6 +1,7 @@
 {
   "source_repository": "https://github.com/mitkin89/Safran",
-  "source_commit": "01ac305b05170d21d7687bc95553100558a60ccb",
+  "source_commit": "2ffa4311ccaf7baf797af453865e31a8a281bcb8",
+  "source_subdirectory": "app",
   "priority": "Safran over Sefaria for overlapping titles; complete-title selection, no silent mixed editions",
   "works": [
     {
@@ -1187,7 +1188,7 @@
     "bundled/own/Mishneh Torah, Torah Study/de/Jad Haghasakkah, trans. by L. Mandelstamm. St. Petersburg, 1851. Corrected and edited by Igor Itkin - German [de].json": "2273dbcde562a77e648da7797bf74d5696078aa85ace2220698a391fc80b8ace",
     "bundled/links/Mishneh Torah, Torah Study.tsv": "2138045988e5207d11d34800073310753932aed1041290ce9f7ff1c4cbed9d09",
     "portraits/mandelstamm.jpg": "aaf81ff24cffd8c32a003ee0ee71a644583215c00c6070bb34e63b521a6f6f9f",
-    "tools/mandelstamm/kings-and-wars-corrections.json": "09ddf475991eefa8b94dddfbe9509089efe97142135be1d102080aa90670db97"
+    "tools/mandelstamm/kings-and-wars-corrections.json": "2934640cc386e6619d1d2fba0278fc0236bf6c4d19ef45093a503ee557cc04c0"
   },
   "exported_sha256": {
     "data/Mishneh_Torah_Agents_and_Partners.json": "efea6b1e068ca633d136708ce6c8d1882bba78610deb57d55a11a4089ae683a1",
@@ -1256,6 +1257,6 @@
     "links/Mishneh Torah, Torah Study.tsv": "2138045988e5207d11d34800073310753932aed1041290ce9f7ff1c4cbed9d09",
     "comparison/safran-sefaria.json": "5e849d1e3755db80ec5b0fe2ee2abc83088bf50a58c583ce5805d089d6b75d9f",
     "portraits/mandelstamm.jpg": "aaf81ff24cffd8c32a003ee0ee71a644583215c00c6070bb34e63b521a6f6f9f",
-    "corrections/kings-and-wars.json": "09ddf475991eefa8b94dddfbe9509089efe97142135be1d102080aa90670db97"
+    "corrections/kings-and-wars.json": "2934640cc386e6619d1d2fba0278fc0236bf6c4d19ef45093a503ee557cc04c0"
   }
 }

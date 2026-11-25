@@ -3,6 +3,9 @@
 import hashlib,json,pathlib,subprocess,sys
 ROOT=pathlib.Path(__file__).resolve().parents[1]
 SOURCE=pathlib.Path(sys.argv[1] if len(sys.argv)>1 else '../Safran').resolve()
+if (SOURCE/'app/bundled/manifest.json').exists():SOURCE=SOURCE/'app'
+GIT_ROOT=pathlib.Path(subprocess.check_output(['git','rev-parse','--show-toplevel'],cwd=SOURCE,text=True).strip())
+SOURCE_SUBDIRECTORY=SOURCE.relative_to(GIT_ROOT).as_posix()
 inputs={};outputs={}
 def digest(raw):return hashlib.sha256(raw).hexdigest()
 def write(name,raw):
@@ -53,6 +56,6 @@ copy('portraits/mandelstamm.jpg','portraits/mandelstamm.jpg')
 copy('tools/mandelstamm/kings-and-wars-corrections.json','corrections/kings-and-wars.json')
 commit=subprocess.check_output(['git','rev-parse','HEAD'],cwd=SOURCE,text=True).strip()
 assert not subprocess.check_output(['git','diff','HEAD','--name-only','--',*inputs],cwd=SOURCE,text=True).strip(),'Commit source edits first'
-manifest={'source_repository':'https://github.com/mitkin89/Safran','source_commit':commit,'priority':'Safran over Sefaria for overlapping titles; complete-title selection, no silent mixed editions','works':works,'overlap_titles':len(comparisons),'different_segment_pairs':sum(len(c['different_segments']) for c in comparisons),'source_sha256':inputs,'exported_sha256':outputs}
+manifest={'source_repository':'https://github.com/mitkin89/Safran','source_commit':commit,'source_subdirectory':SOURCE_SUBDIRECTORY,'priority':'Safran over Sefaria for overlapping titles; complete-title selection, no silent mixed editions','works':works,'overlap_titles':len(comparisons),'different_segment_pairs':sum(len(c['different_segments']) for c in comparisons),'source_sha256':inputs,'exported_sha256':outputs}
 (ROOT/'manifest.json').write_text(json.dumps(manifest,ensure_ascii=False,indent=2)+'\n')
 print(len(works),'works;',len(comparisons),'overlaps;',manifest['different_segment_pairs'],'differing segment pairs; all overlaps use Safran.')
