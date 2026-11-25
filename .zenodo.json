@@ -26,5 +26,7 @@
       "relation": "isDerivedFrom",
       "scheme": "url"
     }
-  ]
+  ],
+  "version": "1.0.0",
+  "publication_date": "2026-11-25"
 }

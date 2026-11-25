@@ -106,4 +106,4 @@ Originale Lizenz- und Editionsfelder bleiben unverändert. Alle Safran-Hauptdate
 
 Igor Mendel Itkin (Hg.): *Mandelstamm – Mischne Tora: deutsche Texte aus Safran und Sefaria*. https://github.com/mitkin89/mandelstamm-mischne-tora. Bitte zusätzlich Mandelstamm als Übersetzer, Maimonides als Verfasser und den verwendeten Commit beziehungsweise die Version nennen. [CITATION.cff](CITATION.cff).
 
-Noch kein Release: Das Repository soll zuerst in Zenodo aktiviert werden.
+Version 1.0.0: [GitHub-Release](https://github.com/mitkin89/mandelstamm-mischne-tora/releases/tag/1.0.0).

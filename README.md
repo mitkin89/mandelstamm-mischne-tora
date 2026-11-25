@@ -106,4 +106,4 @@ Source-specific licenses and editorial metadata are retained. Safran main files 
 
 Igor Mendel Itkin (ed.): *Mandelstamm – Mischne Tora: German texts from Safran and Sefaria*. https://github.com/mitkin89/mandelstamm-mischne-tora. Please also credit Mandelstamm as translator, Maimonides as author, and specify the commit/version used. [CITATION.cff](CITATION.cff).
 
-No release yet: the repository is to be enabled in Zenodo first.
+Version 1.0.0: [GitHub release](https://github.com/mitkin89/mandelstamm-mischne-tora/releases/tag/1.0.0).
